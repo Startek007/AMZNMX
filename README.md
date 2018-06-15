@@ -3,6 +3,14 @@ Account : mirae.pessy@0regon.org
 4246489656474021
 Fecha: 05/2019
 
+Buen día! Soy Kathy, el agente que te atendió en la llamada.
+
+Fue un placer poder asistirte el día de hoy con [Problema del cliente]
+
+Como mencioné en la llamada, [Resolución al problema]
+
+Espero que esto sea de mucha ayuda. ¡Te deseo un feliz día y un buen fin de semana!
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hola [CLIENTE]: 
