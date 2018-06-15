@@ -1,4 +1,7 @@
 # AMZNMX
+Account : mirae.pessy@0regon.org
+4246489656474021
+Fecha: 05/2019
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -834,3 +837,51 @@ Cuando el pedido sea enviado recibirás un correo electrónico. En caso de que y
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#outofstock #inventario 
+
+Como comprenderás Amazon al igual que otras tiendas es distribuidor, por esa razón nosotros también dependemos de que los fabricantes nos hagan llegar las unidades que ofrecemos a nuestros clientes. Siempre se conversan fechas posibles para las entregas y por eso es que se ofrecen los productos y una fecha estimada. Si esas fechas no se cumplen por parte del fabricante nosotros debemos informar a los clientes sobre estos posibles cambios.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Cambiar USO factura CFDI
+
+#payments_CFDI_uso 
+
+Hola [CLIENTE]: 
+
+Mi nombre es [CSA] de Atención al Cliente de Amazon México. Es un gusto atenderte. 
+
+De acuerdo con tu consulta, la factura que genera Amazon se maneja bajo un código general, por lo que no tendrás inconvenientes llevando este tipo de facturas al SAT. Puedes obtener más información acerca de tu consulta aquí:
+
+http://www.sat.gob.mx/informa...Documents/GuiaAnexo20DPA.pdf
+
+Si bien el uso es un requisito fiscal, al mismo tiempo el SAT menciona que si se le da otro uso no habrá inconvenientes.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Hola [CLIENTE]: 
+
+Mi nombre es [CSA] de Atención al Cliente de Amazon México. Es un gusto atenderte. 
+
+Lamento mucho que aun estés a la espera de tu tarjeta Recargable.
+
+Recibirás tu tarjeta física de 4-6 días hábiles después de haber depositado Mex$500. Puedes obtener más detalles sobre el proceso de recarga aquí:
+
+https://amzn.to/2In1qA7
+
+Si ya realizaste la recarga y no la has recibido, te recomendamos llamar a Banorte. Por seguridad, el Banco brinda esta información únicamente al titular de la tarjeta.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#aduanas #retraso 
+
+Hola [CLIENTE]: 
+
+Mi nombre es [CSA] de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+He revisado detalladamente la información de rastreo de tu pedido y me he puesto en contacto directo con el [transportista] para averiguar que sucede.
+
+[NOMBRE CLIENTE] ellos me indican que tu pedido se encuentra revisión aduanal y que se ha sufrido un ligero atraso por este motivo. De momento, no se requiere de documentación adicional, la liberación dependerá de la decisión final de las autoridades.
+
+Ten la tranquilidad que todas tus compras están respaldadas por nosotros por lo que si no lo recibes a más tardar el [Traces] puedes contactarnos y nosotros procederemos con el reembolso correspondiente.
+Te aseguro que el transportista está realizando las gestiones que están a su alcance para agilizar ésta entrega. Te enviaremos una notificación a tu correo electrónico cuando el producto esté en ruta hacia tu dirección.
+Cuando compras un producto importado desde Amazon EE.UU las fechas brindadas suelen ser estimadas, ya que en ocasiones se puede durar un poco más de lo esperado en la inspección aduanal.
