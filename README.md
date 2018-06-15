@@ -51,6 +51,21 @@ Puedes ver una lista completa de los beneficios de la membresía Prime en Amazon
 
 https://www.amazon.com.mx/gp/...isplay.html?nodeId=201910360
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[CLIENTE], antes que nada, me disculpo por la situación que se esta presentando respecto a la transacción que estas viendo reflejada por el monto de MX$1.00 en tu cuenta.
+
+Me gustaría informarte que esta transacción que ves por ahora es solo una autorización que se envía al banco, ten la tranquilidad de que este proceso se realiza solo para verificar que tu tarjeta de crédito esta vigente y puede ser utilizada para compras en linea.
+
+Esta autorización debería eliminarse después de un tiempo de acuerdo con las políticas de tu banco.
+
+En caso de que en unos días sigas visualizando la retención del monto por MX$1.00, te recomiendo, contactes a tu banco y les brindes los detalles que aparecen en tu estado de cuenta. Puedes proveerles el día, el monto y la descripción del cargo y ellos con gusto te explicarán cuanto tiempo tarda en ser removida esa autorización.
+
+[CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día y un buen fin de semana!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
