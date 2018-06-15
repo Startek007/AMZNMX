@@ -1,4 +1,4 @@
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 *Estafeta: +52-555-861-9500 Extensión:42325
 Numero de extensiones de estafeta:
 42347
@@ -32,6 +32,8 @@ Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se en
 antes que nada, me disculpo por la situación que se esta presentando con tu pedido [PEDIDO]
 
 Primeramente espero que estés pasando un excelente día. He revisado tu consulta acerca del pedido [PEDIDO]
+
+Uno de los objetivos de Amazon es brindar un servicio oportuno y eficiente, pero en este caso no cumplimos con dicho objetivo. Por favor, acepta nuestras más sinceras disculpas. Te enviaremos un correo electrónico el día que despachemos tu pedido. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
