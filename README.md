@@ -50,6 +50,24 @@ Uno de los objetivos de Amazon es brindar un servicio oportuno y eficiente, pero
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Hola [CLIENTE],
+
+Mi nombre es [CSA] de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Comprendo que estas intentando ingresar a tu cuenta, sin embargo, cuando realizas el proceso de recuperar tu contraseña el sistema te da una alerta de código postal inválido.
+
+Para solucionar tu situación te he enviado un correo que contiene el enlace que necesitaras para introducir una nueva contraseña. El correo tiene por nombre en el asunto 'Sobre tu cuenta de Amazon.com.mx'.
+
+Una vez abras el correo veras un enlace de color azul donde deberás dar click y este mismo te llevara a la página web donde podrás introducir una nueva contraseña.
+
+[CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día y un buen fin de semana!
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos y te agradezco sinceramente tu comprensión y tu paciencia mientras continuamos trabajando en tu pedido.
 
