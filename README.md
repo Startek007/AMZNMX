@@ -104,6 +104,53 @@ https://www.amazon.com.mx/gp/...isplay.html?nodeId=201910360
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#authorization 
+
+Hola [CLIENTE],
+
+Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
+
+Primeramente espero que estés pasando un excelente día. Comprendo que te gustaría saber en cuanto tiempo veras reflejado tu dinero de regreso en la orden que cancelaste.
+
+He revisado tu consulta acerca del pedido [PEDIDO], y me gustaría explicarte cómo funcionan en Amazon las transacciones.
+
+En el momento en el que haces tú pedido, el banco verifica tu tarjeta y reserva los fondos. En algunos casos cuando la orden es cancelada la verificación toma unos días en removerse de tu cuenta, de igual manera, puedes tener tranquilidad que pronto se removerá.
+
+Normalmente esta autorización debería eliminarse en un tiempo estimado de 15 días naturales, sin embargo, algunas entidades bancarias pueden retener los fondos por mas tiempo, esto depende de las políticas de cada entidad bancaria.
+
+En caso de que en unos días sigas visualizando la retención del monto por MX$[MONTO] después de 15 días, te recomiendo, contactes a tu banco y les brindes los detalles que te brindare a continuación :
+
+Fecha y hora de la autorización: Jueves 21 de junio de 2018 a las 05:59:31 PM CDT
+Monto del pedido: Mex$[MONTO]
+
+Con esta información ellos te pueden explicar el tiempo que toma para una autorización sea removida de tu cuenta.
+
+[CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día y un buen fin de semana!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Hola [CLIENTE],
+
+Mi nombre es José de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Primeramente espero que estés pasando un excelente día. Comprendo tu preocupación debido a que has retornado el pedido [PEDIDO] y no has recibido notificación del reembolso.  
+
+He revisado tu consulta acerca del pedido, te confirmo que DHL ya ha entregado el paquete en nuestras instalaciones y se encuentra asignado a una revisión de rutina, una vez completado el proceso de revisión, procederemos con el reembolso según tu solicitud.
+
+Te enviaremos un correo electrónico cuando el reembolso haya sido procesado.
+
+En caso de que el reembolso no sea procesado a más tardar el [FECHA], me encargaré de procesarlo por ti. 
+
+Para tu tranquilidad he creado un seguimiento personal para asegurarme que recibas tu reembolso a la brevedad de lo posible.
+
+Agradecemos tus comentarios. Por favor, use los botones de abajo para votar sobre su experiencia de hoy.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [CLIENTE], antes que nada, me disculpo por la situación que se esta presentando respecto a la transacción que estas viendo reflejada por el monto de MX$1.00 en tu cuenta.
 
 Me gustaría informarte que esta transacción que ves por ahora es solo una autorización que se envía al banco, ten la tranquilidad de que este proceso se realiza solo para verificar que tu tarjeta de crédito esta vigente y puede ser utilizada para compras en linea.
