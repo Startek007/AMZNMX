@@ -79,7 +79,33 @@ Si necesitas contactarnos, visita https://www.amazon.com.mx/gp/help/customer/con
 
 Estamos disponibles de las 7:00 a 23:00 horas (horario del Centro), los 7 días de la semana.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Out of Stock 
+
+Hola [CLIENTE]:
+
+Mi nombre es [CSA] de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+[CLIENTE],antes que nada, me disculpo por la situación que se esta presentando con el [ITEM] que deseas comprar
+
+Revisando tu consulta, puedo ver que efectivamente estos productos están temporalmente agotados y esperamos obtener más unidades.
+
+Nuestro distribuidor está esforzándose por conseguirlas, Sin embargo, la fecha de abastecimiento aún está pendiente.
+
+En Amazon somos los más interesados que tu orden sea procesada y continuamos trabajando para que tu producto sea entregado a la brevedad de lo posible.
+
+Una vez el artículo este nuevamente en nuestro inventario te notificaremos por correo electrónico con la información acerca del pedido y la fecha estimada de entrega.
+
+[CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos y te agradezco sinceramente tu comprensión y tu paciencia mientras continuamos trabajando en tu pedido.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día y un buen fin de semana!
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 Cuando el cliente tiene prime en .com y quería utilizarla en Mx
 
 #prime_onlyUS
