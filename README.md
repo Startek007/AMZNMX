@@ -68,8 +68,15 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ¡Te deseo un feliz día y un buen fin de semana!
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día y una excelente semana!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos y te agradezco sinceramente tu comprensión y tu paciencia mientras continuamos trabajando en tu pedido.
 
