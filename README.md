@@ -105,7 +105,31 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ¡Te deseo un feliz día y un buen fin de semana!
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#reembolsocompleto #refund #reembolso
+
+Hola [CLIENTE],
+
+Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
+
+[CLIENTE],antes que nada, me disculpo por la situación que se esta presentando con tu pedido [PEDIDO]. Comprendo que has devuelto dos artículos, sin embargo, solo ves reflejado uno de los reembolsos.
+
+He revisado a profundidad tu caso y te puedo confirmar que hemos procesado el reembolso por los dos artículos el día Viernes 8 de Junio del 2018. El monto de los reembolso es por MX[MONTO]. Igualmente te hemos enviado un correo de confirmación esa misma fecha.
+
+Normalmente los reembolsos aparecen reflejados en tu estado de cuenta en un período de 15 días naturales.
+
+En este caso que ya han pasado más de 15 de días naturales y aún sigues sin visualizar el reembolso, te recomiendo respetuosamente contactar a tu entidad bancaria para que ellos puedan confirmarte la información acerca del reembolso y cuando se verá reflejado en tu estado de cuenta.
+
+[CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día y una excelente semana!
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 Cuando el cliente tiene prime en .com y quería utilizarla en Mx
