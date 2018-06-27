@@ -210,7 +210,33 @@ Para tu tranquilidad he creado un seguimiento personal para asegurarme que recib
 
 Agradecemos tus comentarios. Por favor, use los botones de abajo para votar sobre su experiencia de hoy.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#amazonvideo #promo
+
+Hola [CLIENTE],
+
+Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
+
+Primeramente espero que estés pasando un excelente día. Comprendo que has recibido un código promocional de MX$100.00 en tu cuenta de Amazon México por la promoción de Amazon Video, sin embargo, no lo visualizas al momento de realizar la compra.
+
+He revisado tu consulta a detalle y puedo confirmar que has recibido un correo con la confirmación el día Martes 26 de Junio acerca de los MX$100.00, primeramente me gustaría saber si has pulsado el botón color azul con la leyenda ''Obtén tu código'' que esta en el correo electrónico, algunas veces el crédito puede tardar un máximo de 24 a 48 para ser aplicado en tu cuenta.
+
+Sin embargo, ya has esperado el tiempo máximo y aún sigues sin visualizar el crédito promocional, te recomiendo verificar los siguientes términos y condiciones acerca de la promoción :
+
+1. El crédito de $100 MXN es aplicable para pedidos por un monto igual o mayor a $500 MXN de productos vendidos y enviados por Amazon México.
+
+2. El descuento únicamente aplica para productos vendidos y enviados por Amazon México en el sitio web de Amazon.com.mx. Busca la etiqueta de “vendido y enviado por Amazon México” en la página de detalles del producto. No aplica a productos vendidos por Amazon EE.UU. ni terceros vendedores en el sitio web de Amazon.com.mx.
+
+Puedes verificar todos los términos y condiciones de la promoción en el siguiente enlace : https://amzn.to/2KeGYpJ
+
+[CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día y una excelente semana!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [CLIENTE], antes que nada, me disculpo por la situación que se esta presentando respecto a la transacción que estas viendo reflejada por el monto de MX$1.00 en tu cuenta.
 
