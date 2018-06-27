@@ -94,6 +94,28 @@ Estamos disponibles de las 7:00 a 23:00 horas (horario del Centro), los 7 días 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Hola [CLIENTE],
+
+Soy José de Atención al Cliente de Amazon México, un gusto atenderte el día de hoy.
+
+Dando seguimiento a tu consulta sobre la factura CFDI la cual tienes inconvenientes para solicitarla desde tu cuenta, te informo que de inmediato tome acciones para resolver tu consulta.
+
+He intentado llamarte al número que me has provisto en el correo electrónico para darte un seguimiento mas personalizado más no obtuve respuesta, igualmente no te preocupes que ya me encargue de tu situación.
+
+De inmediato contacte al equipo de facturación especializado para solicitarles la factura por ti con el RFC que me has provisto anteriormente.
+
+Normalmente este proceso toma de 7 a 14 días hábiles y estarías recibiendo una respuesta directa a tu correo electrónico con la información de la factura.
+
+Para tu tranquilidad seguiré dándole seguimiento a tu caso para estar seguro que recibiste la factura.
+
+[CLIENTE], quedo a tu entera disposición en caso que tengas alguna consulta adicional para enviarme.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día y un buen fin de semana!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Out of Stock 
 
 Hola [CLIENTE]:
