@@ -187,7 +187,31 @@ Puedes ver una lista completa de los beneficios de la membresía Prime en Amazon
 
 https://www.amazon.com.mx/gp/...isplay.html?nodeId=201910360
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#CFDI #G01 #G03
+
+Hola [CLIENTE],
+
+Recibe un cordial saludo, te escribe [CSA], el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
+
+Primeramente espero estes teniendo un excelente día. He revisado tu consulta acerca del pedido [PEDIDO] relacionada con el uso de la factura CFDI.
+
+Me gustaría explicarte que el código “G01” para indicar el uso del CFDI (Adquisición de mercancías) utilizadas en las facturas es avalado por el SAT. Debido a que el código “G01” (Adquisición de mercancías) es el asigando a las facturas electronicas de Amazon México, por los momentos no es posible hacer un cambio al código “G03” ( Gastos Generales ).
+
+Sin embargo, puedes estar tranquilo ya que antes de crear Amazon México nos asesoramos con las instituciones gubernamentales respectivas para determinar el formato apropiado de las facturas y nos han confirmado que las mismas tienen completa validez y te servirán para propósitos fiscales y contables.
+
+Igualmente te confirmo que he pasado tus comentarios a nuestro departamento encargado para que tomen estas sugerencias en cuenta y así poder ir mejorando para beneficio de nuestros clientes.
+
+Si gustas puedes consultar directamente con SAT dónde estamos seguros que te podrán brindar confirmar que el formato usado es válido para tu contabilidad y demás.
+
+[CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #authorization 
 
