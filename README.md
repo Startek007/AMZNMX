@@ -236,6 +236,26 @@ Agradecemos tus comentarios. Por favor, use los botones de abajo para votar sobr
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#refund #reembolso #refundnotprocessed 
+
+Hola [CLIENTE],
+
+Mi nombre es [CSA] de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Primeramente espero que estés pasando un excelente día. Comprendo tu preocupación debido a que has retornado el pedido [PEDIDO] y no has recibido notificación del reembolso.
+
+He revisado tu consulta acerca del pedido y puedo confirmarte que DHL ya ha entregado el paquete en nuestras instalaciones. Debido a que han pasado más de dos semanas y el reembolso no ha sido procesado, inmediatamente he solicitado un reembolso por Mex$[MONTO] a tu método original de pago.
+
+Normalmente los reembolsos toman un período máximo de 15 días naturales para verse reflejados en tu cuenta.
+
+[CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #amazonvideo #promo
 
 Hola [CLIENTE],
