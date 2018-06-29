@@ -189,6 +189,26 @@ https://www.amazon.com.mx/gp/...isplay.html?nodeId=201910360
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Hola [NOMBRE CLIENTE],
+
+Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
+
+[NOMBRE CLIENTE], antes que nada, me disculpo por la situación que se esta presentando con tu pedido [PEDIDO]. Comprendo que has devuelto el artículo y no has recibido un reembolso completo.
+
+He revisado detalladamente tu pedido y puedo confirmarte que hemos hecho el reembolso solamente del artículo y aún sigue pendiente el reembolso de los impuestos de importación. El monto por este cargo de importación fue de MEX$[MONTO].
+
+En estos casos el reembolso de estos cargos es procesado de manera diferente y por separado del resto de los rubros incluidos en el pedido. Generalmente la devolución de los montos de importación se genera automáticamente en un rango de 60 días tras enviado el paquete.
+
+Ten la tranquilidad que en Amazon somos los más interesados en que se te sea reembolsado a la brevedad de lo posible, une vez este reembolso sea completo se te notificara vía correo electrónico.
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día y una excelente fin de semana!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #CFDI #G01 #G03
 
 Hola [NOMBRE CLIENTE],
