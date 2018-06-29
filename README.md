@@ -213,6 +213,27 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Hola [NOMBRE CLIENTE],
+
+Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
+
+Primeramente espero que estés pasando un excelente día. Comprendo que deseas cancelar el [ARTICULO] del pedido [PEDIDO].
+
+He verificado la información y he procedido a cancelar el pedido [PEDIDO] de [ARTICULO] por completo.
+
+Debido a que has cancelado la orden, ten la tranquilidad de que no te hemos cargado ya que Amazon realiza el cobro del artículo una vez es despachado del Centro de Distribución.
+
+El pedido cancelado aparecerá en la sección Pedidos cancelados en Mis pedidos (www.amazon.com.mx/yourorders).
+
+[CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día y un buen fin de semana!
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #authorization 
 
 Hola [CLIENTE],
