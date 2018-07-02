@@ -415,6 +415,28 @@ A continuación, va incluida una encuesta que es únicamente para clientes, por 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#refundprime #reembolso #prime #completo
+
+Hola [NOMBRE CLIENTE],
+
+Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
+
+[NOMBRE CLIENTE], comprendo que deseas saber el estado del reembolso por la membresía Prime. 
+
+He revisado a profundidad tu caso y te puedo confirmar que hemos procesado el reembolso por la membresía el día [DATE]. El monto de los reembolso es por MX449,00. Igualmente te hemos enviado un correo de confirmación esa misma fecha.
+
+Normalmente los reembolsos aparecen reflejados en tu estado de cuenta en un período de 15 días naturales.
+
+En este caso que ya han pasado más de 15 de días naturales y aún sigues sin visualizar el reembolso, te recomiendo respetuosamente contactar a tu entidad bancaria para que ellos puedan confirmarte la información acerca del reembolso y cuando se verá reflejado en tu estado de cuenta.
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día y una excelente semana!
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #pricechange #change #price
 
 Mi nombre es [CSA] de Atención al Cliente de Amazon México. Es un gusto atenderte. 
