@@ -163,6 +163,23 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Hola [NOMBRE CLIENTE]
+
+Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
+
+Primeramente me disculpo contigo por la situación que se presenta con tu pedido. Comprendo que has recibido tu pedido [PEDIDO], sin embargo, nos notificas que has encontrado ciertas irregularidades en el producto.
+
+He revisado a detalle tu consulta ya que en Amazon nos tomamos muy en serio este tipo de casos acerca de irregularidades en el artículo. En este caso he pasado tu información al departamento  encargado de verificar que los artículos vendidos en Amazon México sean totalmente legítimos.
+
+Agradecemos tus comentarios y tu información en este caso y te aseguro que tomaremos las medidas correctas con el vendedor.
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 Cuando el cliente tiene prime en .com y quería utilizarla en Mx
