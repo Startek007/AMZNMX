@@ -143,6 +143,31 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#promo #libros #noaplica
+
+Hola [NOMBRE CLIENTE]
+
+Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
+
+Primeramente espero que estés pasando un excelente día. Comprendo que estás interesado en la promoción de los MEX$150.00 por la compra de MEX$500.00 en libros físicos seleccionados.
+
+He revisado a detalle tu consulta acerca de los libros que tienes en el carrito y puedo ver que [ITEM] no aplican a la promoción. Esto es debido a que libros seleccionados para la promoción tienen un etiqueta/banner debajo de ellos.
+
+Te adjunto el enlace de unos libros que aplica como ejemplo : https://amzn.to/2Nqyk5t
+
+Igualmente para que tengas una mejor idea de la mecánica de la promoción te adjunto los términos y condiciones en el siguiente enlace : https://amzn.to/2ISNPjb
+
+Para facilitarte la búsqueda de libros participantes puedes dar click en el siguiente enlace : https://amzn.to/2KNtnlx
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día y una excelente semana!
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #reembolsocompleto #refund #reembolso
 
 Hola [NOMBRE CLIENTE],
