@@ -367,15 +367,15 @@ Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se en
 
 Primeramente espero que estés pasando un excelente día. Comprendo que te gustaría saber en cuanto tiempo veras reflejado tu dinero de regreso en la orden que cancelaste.
 
-He revisado tu consulta acerca del pedido [ITEM], y me gustaría explicarte cómo funcionan en Amazon las transacciones.
+He revisado tu consulta acerca del pedido [PEDIDO], y me gustaría explicarte cómo funcionan en Amazon las transacciones.
 
 En el momento en el que haces tú pedido, el banco verifica tu tarjeta y reserva los fondos. En algunos casos cuando la orden es cancelada la verificación toma unos días en removerse de tu cuenta, de igual manera, puedes tener tranquilidad que pronto se removerá.
 
 Normalmente esta autorización debería eliminarse en un tiempo estimado de 15 días naturales, sin embargo, algunas entidades bancarias pueden retener los fondos por mas tiempo, esto depende de las políticas de cada entidad bancaria.
 
-En caso de que en unos días sigas visualizando la retención del monto por MX$[MONTO] después de 15 días, te recomiendo, contactes a tu banco y les brindes los detalles que te brindare a continuación :
+En caso de que sigas visualizando la retención del monto por MX$[MONTO] después de 15 días, te recomiendo, contactes a tu banco y les brindes los detalles que te brindare a continuación :
 
-Fecha y hora de la autorización: Jueves 21 de junio de 2018 a las 05:59:31 PM CDT
+Fecha y hora de la autorización: [DATE] a las [TIME]
 Monto del pedido: Mex$[MONTO]
 
 Con esta información ellos te pueden explicar el tiempo que toma para una autorización sea removida de tu cuenta.
