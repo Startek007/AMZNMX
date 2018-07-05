@@ -943,7 +943,7 @@ Mi nombre es [CSA] de Atención al Cliente de Amazon México. Es un gusto atende
 
 (En caso de que sea una situación de varios contactos y un problema al cliente insertar disculpa)
 
-Me disculpo por los inconvenientes que has tenido con [LA SITUACION DEL CLIENTE Y SU PEDIDO]
+Me disculpo por los inconvenientes que has tenido con tu orden [PEDIDO]
 
 Al revisar los detalles, veo que fue realizado con [SELLER], uno de nuestros vendedores afiliados. Para poder ayudarte con esta situación, le he enviado un correo explicando lo que ocurrió y solicitando de manera inmediata una solución.
 
@@ -953,7 +953,7 @@ Para poder visualizar el correo que he enviado al vendedor para interceder dale 
 
 https://www.amazon.com.mx/gp/...nication-manager/outbox.html
 
-De igual manera, puedes tener tranquilidad ya que tu compra tiene el respaldo de la Garantía de la A a la Z. Si para el [FECHA DENTRO DE 2 DÍAS HÁBILES] no recibes una respuesta del vendedor, te estaré contactando para iniciar el proceso de dicha garantía, o bien, puedes presentar esta reclamación ingresando un número de pedido ([PEDIDO]) aquí:
+De igual manera, puedes tener tranquilidad ya que tu compra tiene el respaldo de la Garantía de la A a la Z. Si para el [DATE] no recibes una respuesta del vendedor, te estaré contactando para iniciar el proceso de dicha garantía, o bien, puedes presentar esta reclamación ingresando un número de pedido ([PEDIDO]) aquí:
 
 https://www.amazon.com.mx/gp/a-z-guarantee/submit-claim.html
 
