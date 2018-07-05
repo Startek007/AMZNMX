@@ -45,7 +45,37 @@ Como mencioné en la llamada, [Resolución al problema]
 
 Espero que esto sea de mucha ayuda. ¡Te deseo un feliz día y un buen fin de semana!
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+Hola [NOMBRE CLIENTE],
+
+Soy [CSC] de Atención al Cliente de Amazon México, un gusto atenderte el día de hoy.
+
+Hemos recibido tu solicitud en referencia a la factura electrónica para el pedido [PEDIDO].
+
+Con mucho gusto podemos ayudarte a hacer una nueva factura con el RFC correcto y la información que nos enviaste.
+
+Cuando emitimos la factura electrónica CFDI, el RFC que se encuentra registrado en tu cuenta se usará en la factura electrónica (CFDI).
+
+En este caso, para poder proceder a realizar la petición a nuestro departamento especializado de facturación, solo debes confirmarnos que este nuevo RFC es el que aparece en tu cuenta de Amazon.com.mx
+
+En caso que hayas ingresado tu RFC incorrectamente por favor modifícalo en tu cuenta y podremos emitirte un nuevo CFDI con el RFC actualizado lo mas pronto posible.
+
+En siguiente enlace te muestra los pasos para realizar el cambio de RFC:
+
+https://www.amazon.com.mx/gp/help/customer/display.html/ref=help_search_1-1?ie=UTF8&nodeId=202057390&qid=1530813859&sr=1-1
+
+Por favor, solamente contesta a este correo electrónico dejándonos saber la confirmación del RFC en tu cuenta.
+
+Para tu tranquilidad seguiré dándole seguimiento a tu caso para que, en cuanto recibamos tu mensaje, llevemos a cabo las acciones necesarias.
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Ten un buen día!
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
 
 Hola [NOMBRE CLIENTE]: 
 
