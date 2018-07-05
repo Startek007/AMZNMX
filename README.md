@@ -101,6 +101,33 @@ Estamos disponibles de las 7:00 a 23:00 horas (horario del Centro), los 7 días 
 
 Hola [NOMBRE CLIENTE],
 
+Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
+
+Primeramente espero que estés pasando un excelente día. Comprendo que has hecho el deposito de los MEX$500.00, sin embargo, no has recibido la tarjeta física.
+
+En este caso, he contactado a BANORTE, S.A  y ellos me han notificado que por seguridad, el Banco brinda esta información únicamente al titular de la tarjeta. En base a esto me han comentado que tienes que contactarte con ellos o acudir a una sucursal para que se pueda crear un folio y resolver tu caso.
+
+Sin embargo, esperamos comprendas que debido a que la tarjeta es totalmente manejada por el banco BANORTE, S.A no tenemos acceso a la información que maneja la institución bancaria.
+
+Para facilitarte te adjunto los números de teléfono de BANORTE, S.A :
+
+México, D.F.: (55) 5140- 5600
+Monterrey: (81) 8156-9600
+Guadalajara: (33) 3669-9000
+Resto del País: 01-800-BANORTE (01-800-226-6783)
+
+Realmente espero que a pesar de esta situación el trato que recibes por parte de nuestro centro de atención al cliente sea siempre de tu agrado.
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día y un excelente fin de semana!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Hola [NOMBRE CLIENTE],
+
 Soy José de Atención al Cliente de Amazon México, un gusto atenderte el día de hoy.
 
 Dando seguimiento a tu consulta sobre la factura CFDI la cual tienes inconvenientes para solicitarla desde tu cuenta, te informo que de inmediato tome acciones para resolver tu consulta.
