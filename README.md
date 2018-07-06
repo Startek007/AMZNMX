@@ -230,6 +230,30 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#norecibido #deliverednotreceived #transportista
+
+Hola [NOMBRE CLIENTE]
+
+Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
+
+Andre, antes que nada, me disculpo por la situación que se esta presentando con tu pedido [PEDIDO]. Comprendo que puede ser preocupante para tu persona el no haber recibido tu paquete.
+
+Sin embargo, ten la tranquilidad que en Amazon siempre respaldamos tus compras. Me gustaría explicarte que, en ocasiones, un transportista escanea un paquete como entregado por error cuando, en realidad, aún está en camino. Cuando esto ocurre, esperamos que el transportista entregue el paquete en el transcurso de un día hábil.
+
+Igualmente he contactado a [TRANSPORTISTA] reportando lo sucedido con tu paquete.
+
+En caso de que el paquete no llegue luego del [DATE] y ya has preguntado a todos los que podrían haber recibido el paquete, puedes responder este correo para que tomemos las acciones necesarias y procesar un reembolso por el producto.
+
+Los reembolsos se pueden procesar como Tarjeta de Regalo o se pueden procesar nuevamente al método original de pago. La diferencia entre estos dos es que la Tarjeta de Regalo tarda de 2 a 48 horas y al método original tarda un período de 15 días naturales.
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día y un excelente fin de semana!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #reembolsocompleto #refund #reembolso
 
 Hola [NOMBRE CLIENTE],
