@@ -1,4 +1,4 @@
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 *Estafeta: +52-555-861-9500 Extensión:42325
 Numero de extensiones de estafeta:
 42347
@@ -49,7 +49,7 @@ Como mencioné en la llamada, [Resolución al problema]
 
 Espero que esto sea de mucha ayuda. ¡Te deseo un feliz día y un buen fin de semana!
 
----------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hola [NOMBRE CLIENTE],
 
 Soy [CSC] de Atención al Cliente de Amazon México, un gusto atenderte el día de hoy.
@@ -79,7 +79,31 @@ Gracias por ser parte de la gran familia de Amazon.
 ¡Ten un buen día!
 
 
------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+CUANDO EL PAQUETE ES DEVUELTO POR EL TRANSPORTISTA.
+
+
+Hola [Cliente], 
+
+Mi nombre es [CSA] de Atención al Cliente de Amazon México. Es un gusto atenderte. 
+
+Muchas gracias por notificarnos que se ha realizado la devolución de tu pedido [PEDIDO]
+
+Entiendo que nos has contactado preguntando por la información sobre cuando sera emitido tu reembolso. 
+
+Tu pedido n.º [PEDIDO] fue devuelto a nosotros por [TRANSPORTISTA] el [FECHA DE QUE INICIO LA DEVOLICIóN]. 
+
+[SI EL CLIENTE TUBO PROBLEMA, APLICA]
+Lamento que [RAZON DE LA DEVOLUCIÓN 
+
+Te confirmo que el paquete se encuentra en este momento con DHL y estamos a la espera de que este sea entregado en nuestras instalaciones. Una vez entregado, el paquete será asignado a una revisión de rutina, donde van a escanear la etiqueta de rastreo para que se pueda procesar el reembolso.
+
+Te enviaremos un correo electrónico cuando el reembolso haya sido procesado. El tiempo máximo para recibir esta confirmación es de dos semanas ([Fecha Aproximada del Reembolso]) luego de que se envió el producto de regreso con DHL.
+
+Espero que tengas un buen día.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hola [NOMBRE CLIENTE]: 
 
