@@ -130,6 +130,28 @@ Te enviaremos un correo electrónico cuando el reembolso haya sido procesado. El
 
 Espero que tengas un buen día.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Enviointernacional #internacional #EEUU 
+
+Hola [NOMBRE CLIENTE],
+
+Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
+
+Primeramente espero te encuentres bien. Comprendo que deseas obtener un artículo que se encuentra en Amazon México y [CONSULTA CLIENTE].
+
+He revisado a detalle tu consulta, y debido a que Amazon México y Amazon EE.UU son mercados diferentes, los artículos no cuentan con la opción de exportación para enviarlos a otro país.
+
+Puedes encontrar esta información en el siguiente enlace de la página de ayuda : https://amzn.to/2KIFwvO
+
+Por el momento nos encontramos trabajando para ofrecer más opciones a nuestros clientes que desean enviar paquetes fuera de México.
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Ten un buen día!
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hola [NOMBRE CLIENTE]: 
