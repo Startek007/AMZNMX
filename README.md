@@ -23,7 +23,7 @@ https://www.minuteinbox.com/
 ---------------------------------------------------------------------------------------------------------------------------------
 TIMER - > https://online-timer.en.downloadastro.com/tools/#660000
 
-Acortador de Links -> https://bitly.com/
+Acortador de Links -> https://bitly.com/  https://is.gd/create.php
 
 Llamar al cliente -> https://amzn.to/2pEeol7
  
