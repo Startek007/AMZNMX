@@ -111,6 +111,15 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Solicitante : juanortez_sps 
+Razón : Otro 
+ID del pedido : [PEDIDO] 
+Descripción : [Reembolso no aplicado] / [CARGO DESCONOCIDO]
+Comentarios : El cliente confirma que no ha recibido su reembolso desde el dia [DATE] ya pasaro mas de 15 dias, el cliente valido la información en su banco, el cual no se ha visto aplicado, quedamos en espera de su pronta respuesta para la información. 
+Monto : $[MONTO].
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 CUANDO EL PAQUETE ES DEVUELTO POR EL TRANSPORTISTA.
 
 
