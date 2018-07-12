@@ -10,7 +10,30 @@ Numero de extensiones de estafeta:
 42411
 42412
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Solicitar Factura CFDI en Amazon. 
+
+**************************************************************************************
+
+Mi nombre es [CSC], asesor de atención al cliente de Amazon México quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Comprendo que deseas saber como solicitar las facturas de tus pedidos en Amazon México.
+
+Para poder solicitar una factura electrónica (CFDI, Comprobante Fiscal Digital por Internet), debes contar con un RFC y registrarlo en tu cuenta de Amazon. Podemos proporcionar facturas electrónicas para los pedidos vendidos y enviados por Servicios Comerciales Amazon México. Te adjunto el enlace con los pasos para solicitar las facturas en tu cuenta de Amazon México : https://is.gd/xDcKeZ
+
+Si necesitas una factura CFDI de un producto vendido por un vendedor tercero, contacta al vendedor directamente y solicítale una. Recuerda que algunos vendedores son extranjeros y no están registrados para fines fiscales en México. En este caso, no podrán emitir facturas CFDI. Como recomendación, si necesitas la factura es mejor confirmar con ellos si pueden generar la factura antes de hacer la compra. Puedes ver más información sobre cómo contactar a los vendedores aquí: https://is.gd/v4vbVT
+
+Para los productos vendidos por Amazon EE. UU. lamentablemente, no podemos proporcionar facturas electrónicas CFDI. Sin embargo puedes imprimir tu recibo. Los comprobantes fiscales digitales (CFDI) son emitidos conforme a las disposiciones establecidas por el SAT y contienen la clave del RFC. No requieren contener nombre, denominación o razón social ni domicilio fiscal. Para más información puedes consultar directamente la página oficial del SAT:
+
+[NOMBRE CLIENTE], puedes estar tranquila ya que antes de crear Amazon México nos asesoramos con las instituciones gubernamentales respectivas para determinar el formato apropiado de las facturas y nos han confirmado que las mismas tienen completa validez y te servirán para propósitos fiscales y contables.
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Account -> juanjo0743@teleworm.us
 Contra -> Arias007
