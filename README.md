@@ -123,7 +123,7 @@ Monto : $[MONTO].
 CUANDO EL PAQUETE ES DEVUELTO POR EL TRANSPORTISTA.
 
 
-Hola [Cliente], 
+Hola [NOMBRE CLIENTE], 
 
 Mi nombre es [CSA] de Atención al Cliente de Amazon México. Es un gusto atenderte. 
 
@@ -131,7 +131,7 @@ Muchas gracias por notificarnos que se ha realizado la devolución de tu pedido 
 
 Entiendo que nos has contactado preguntando por la información sobre cuando sera emitido tu reembolso. 
 
-Tu pedido n.º [PEDIDO] fue devuelto a nosotros por [TRANSPORTISTA] el [FECHA DE QUE INICIO LA DEVOLICIóN]. 
+Tu pedido n.º [PEDIDO] fue devuelto a nosotros por [TRANSPORTISTA] el [DATE]. 
 
 [SI EL CLIENTE TUBO PROBLEMA, APLICA]
 Lamento que [RAZON DE LA DEVOLUCIÓN 
@@ -168,7 +168,7 @@ Gracias por ser parte de la gran familia de Amazon.
 
 Hola [NOMBRE CLIENTE]: 
 
-Mi nombre es José de Atención al Cliente de Amazon México. Es un gusto atenderte.
+Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
 
 Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
 
