@@ -23,6 +23,8 @@ https://mytemp.email/
 https://www.crazymailing.com/
 https://www.minuteinbox.com/
 
+NOTEPAD ONLINE -> https://scribz.net/
+
 ---------------------------------------------------------------------------------------------------------------------------------
 TIMER - > https://online-timer.en.downloadastro.com/tools/#660000
 
