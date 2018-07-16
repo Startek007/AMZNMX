@@ -206,6 +206,28 @@ Primeramente espero que estés pasando un excelente día. He revisado tu consult
 
 Uno de los objetivos de Amazon es brindar un servicio oportuno y eficiente, pero en este caso no cumplimos con dicho objetivo. Por favor, acepta nuestras más sinceras disculpas. Te enviaremos un correo electrónico el día que despachemos tu pedido. 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Hola [CLIENTE NOMBRE],
+
+Mi nombre es José de Atención al Cliente de Amazon México.
+
+Me disculpo por los inconvenientes que se han presentado con esta situación. Tras revisar detalladamente tu pedido, veo que al momento de realizar la compra quedaban pocas unidades en inventario y te enviamos una notificación a tu correo el día de la compra.
+
+He revisado tu consulta y en este caso te recomendaría esperar ya que en Amazon continuamos trabajando para abastecer el inventario del [ITEM]. Te estaremos informando acerca de la disponibilidad, según lo que nos indique el proveedor.
+
+En cuanto se nos brinde alguna noticia al respecto y en el momento que se envíe dicho pedido se aplicará el envío seleccionado.
+
+Cuando el pedido se despache, te enviaremos un correo electrónico para que puedas rastrear el paquete, incluyendo la fecha de entrega actualizada.
+
+Como comprenderás Amazon al igual que otras tiendas es distribuidor, por esa razón nosotros también dependemos de que los fabricantes nos hagan llegar las unidades que ofrecemos a nuestros clientes. Siempre se conversan fechas posibles para las entregas y por eso es que se ofrecen los productos y una fecha estimada. Si esas fechas no se cumplen por parte del fabricante nosotros debemos informar a los clientes sobre estos posibles cambios.
+
+[CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Ten un buen día!
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hola [NOMBRE CLIENTE],
