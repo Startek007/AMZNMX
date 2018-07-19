@@ -151,6 +151,28 @@ Monto : $[MONTO].
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#Traces_v2
+
+Hola [NOMBRE CLIENTE],
+
+Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Comprendo tu preocupación acerca del pedido [PEDIDO].
+
+Como nos informas, el paquete aparece como entregado, sin embargo, aún no lo has recibido. En ocasiones, el transportista puede marcar el pedido como entregado cuando este llega a la estación de entrega de tu ciudad, sin embargo, el paquete puede aún continuar en tránsito.
+
+En estos casos damos una fecha límite de entrega del paquete, en caso de que no sea entregado al final del día de hoy jueves 19 de julio del 2018 07:00 PM (CDT), podemos proceder con un reembolso completo del artículo a tu método de pago original o como Saldo de Tarjeta de Regalo Amazon.
+
+Para tu tranquilad y confianza, he creado un seguimiento personal para asegurarme que el paquete se te sea entregado. Te estaré contactando en las próximas horas entre las [TIME] para verificar si la entrega se realizo. 
+
+[NOMBRE CLIENTE], quedo a tu entera disposición en caso que tengas alguna consulta adicional para enviarme.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 CUANDO EL PAQUETE ES DEVUELTO POR EL TRANSPORTISTA.
 
 
