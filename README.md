@@ -118,6 +118,32 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Hola [NOMBRE CLIENTE],
+
+Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Comprendo que nos contactas por el inconveniente con el pedido [PEDIDO].
+
+Primeramente me disculpo contigo por la situación que se presento con el pago declinado y que ahora ves reflejadas dos transacciones. En este caso me gustaría explicarte a que se deben esas transacciones.
+
+Cuando realizas un pedido en Amazon, enviamos la información del cargo a tu banco para que ellos aprueben la autorización del monto. En caso de ser aprobada el banco automáticamente retiene los fondos. Estas autorizaciones se realizan para comprobar que la tarjeta de crédito/débito se encuentren vigentes, que tengan el saldo suficiente para recibir el cargo del pedido y verificar que las tarjetas no cuenten con restricciones para compras en línea. 
+
+En algunos casos el banco retiene los fondos de las autorizaciones por un cierto tiempo, sin embargo, ten la tranquilidad que pronto serán removidas.
+
+En caso de que continues visualizando esta autorización por más de 15 días, te recomiendo contactar a tu banco y le proveas los siguientes datos que te brindo a continuación :
+
+Fecha y hora de la autorización : [DATE] [TIME]
+Monto : [MONTO]
+Orden : [PEDIDO]
+
+Con esta información tu entidad bancaria cuanto tiempo tarda en ser removida una autorización por compras en linea. 
+
+[NOMBRE CLIENTE], espero esta información te sea de ayuda.
+
+¡Te deseo un feliz día!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Hola [NOMBRE CLIENTE]:
 
 Mi nombre es [CSA] de Atención al Cliente de Amazon México.
