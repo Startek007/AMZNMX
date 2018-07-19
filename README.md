@@ -271,6 +271,26 @@ Estamos disponibles de las 7:00 a 23:00 horas (horario del Centro), los 7 días 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#Stuck #orderdelay #atrasada #atraso
+
+Hola [NOMBRE CLIENTE],
+
+Mi nombre es José, asesor de atención al cliente de Amazon México quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Antes que nada me disculpo contigo, ya que aún continúes a la espera de tu pedido [PEDIDO]. Comprendo que esto puede ser preocupante para tu persona.
+
+He revisado detalladamente tu pedido y puedo ver que este se encuentra en la etapa final de envío. Esto quiere decir que ya esta preparado para ser enviado al transportista y que pueda ser entregado a tu persona. De igual manera, he pasado la información al departamento de entregas para verificar que tu orden sea completada correctamente.
+
+Cuando tu pedido sea despachado recibirás una notificación por correo electrónico con el número de guía y el transportista asignado.
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Hola [NOMBRE CLIENTE],
 
 Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
