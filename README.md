@@ -1376,7 +1376,42 @@ Si prefieres que el reembolso se acredite a tu tarjeta original de pago, por fav
 
 Quedamos atentos a tu respuesta en caso de que quieras realizar el cambio en el reembolso.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Hola (Cliente):
+
+Mi nombre es (CSA) de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Me disculpo por la situación que se esta presentando con tu pedido (PEDIDO). Comprendo que puede ser preocupante para tu persona el no haber recibido tu paquete.
+
+En respuesta a tu consulta, he realizado una profunda investigación y encontramos un inconveniente que impidió que tu pedido fuese despachado.
+
+Hemos corregido el inconveniente y tu pedido se despacho con los siguientes transportistas:
+
+Para el articulo (PRODUCTO), tu pedido se despacho con (TRANSPORTISTA) con el numero de guía (NUMERO DE GUIA).
+
+Los artículos serán entregados el día (FECHA DE ENTREGA).
+
+Puedes ver la información de rastreo disponible en el resumen del pedido en Mi cuenta:
+
+https://www.amazon.com.mx/gp/css/summary/edit.html?orderID=(pedido)
+
+Como compensación por el inconveniente, queremos ofrecerte las siguientes opciones de las cuales puedes elegir la que mejor te parezca:
+
+1. Te ofrecemos un crédito promocional de $100.00 MXN como disculpa por la demora. Este monto se agregara a tu cuenta, y puedes usarlo la próxima vez que compres un producto vendido y despachado por Amazon.com.mx.
+
+2.Te ofrecemos extender tu membresía de Amazon Prime por un mes.
+
+Por favor, solamente contesta a este correo electrónico dejándonos saber cuál es tu decisión respecto a las opciones que te ofrecemos. En cuanto recibamos tu mensaje, llevaremos a cabo las acciones necesarias.
+
+(CLIENTE), quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Ten un buen día!
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Fecha máxima entrega / traces
 
