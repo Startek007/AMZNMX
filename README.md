@@ -367,9 +367,11 @@ Antes que nada me disculpo contigo, ya que aún continúes a la espera de tu ped
 
 He revisado detalladamente tu pedido y puedo ver que este se encuentra en la etapa final de envío. Esto quiere decir que ya esta preparado para entregarlo al transportista y que pueda ser enviado a la brevedad de lo posible entre hoy y mañana.
 
+Sabemos que este pedido es de suma importancia para ti y estamos trabajando arduamente para que lo tengas lo mas pronto posible y ya que eres un cliente prime, como un gesto comercial de compensación podemos ofrecerte un mes de membresía gratis.
+
 Cuando tu pedido sea despachado recibirás una notificación por correo electrónico con el número de guía y el transportista asignado.
 
-[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos y te agradezco sinceramente tu comprensión y tu paciencia mientras continuamos trabajando en tu pedido.
 
 Gracias por ser parte de la gran familia de Amazon.
 
