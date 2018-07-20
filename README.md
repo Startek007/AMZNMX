@@ -1,4 +1,5 @@
-
+Id. de contacto
+A2SNKJVHGUJMMJ  LLAMARLO MAÑANA PARA CONFIRMARLE QUE SE LE DARA PROMOTIONAL CERTI DE 82.00
 --------------------------------------------------------------------------------------------------------------------------------
 Hola [NOMBRE CLIENTE],
 
