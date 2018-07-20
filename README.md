@@ -1,19 +1,4 @@
 
-
-Authorizacion/ Charge #2
-
-Buen día! Soy Kathy, el agente que le atendió en la llamada.
-
-Lamento que veas dos transacciones por tu pedido 701-2182870-9571405.
-
-Como mencioné en la llamada, en el momento en el que haces tú pedido, el banco verifica tu tarjeta y reserva los fondos. Cuando inicia la etapa de envío, Amazon te realiza el cargo oficial por el valor total. En algunos casos la primera verificación toma unos días en removerse de tu cuenta, de igual manera, puedes tener tranquilidad que pronto se removerá.
-
-Algunos bancos realizan una nueva transacción en el momento de hacer el cargo y no toman el monto que ya tenían retenido. Esto causa que se vean dos transacciones; sin embargo, una de ellas es normalmente una autorización, que debe ser removida por el banco.
-
-En caso de que en unos días sigas visualizando la retención del dinero, te recomiendo, contactes a tu banco para mas información sobre las transacciones. Ellos te dirán por qué los fondos en tu cuenta pueden no estar disponibles y aclarar por cuánto tiempo retienen las autorizaciones para las compras en línea. Este período de retención varía según el banco.
-
-Espero que esto sea de mucha ayuda. ¡Te deseo un feliz día y un buen fin de semana!
-
 --------------------------------------------------------------------------------------------------------------------------------
 Hola [NOMBRE CLIENTE]
 
@@ -132,29 +117,32 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Hola [NOMBRE CLIENTE],
+#Autorización_v2 
 
-Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+Hola [NOMBRE CLIENTE]
 
-Comprendo que nos contactas por el inconveniente con el pedido [PEDIDO].
+Mi nombre es [CSA], asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
 
-Primeramente me disculpo contigo por la situación que se presento con el pago declinado y que ahora ves reflejadas dos transacciones. En este caso me gustaría explicarte a que se deben esas transacciones.
+Antes que nada, me disculpo contigo por el inconveniente de la doble transacción que se ve reflejada en tu cuenta. Comprendo que esto te ha generado preocupación. 
 
-Cuando realizas un pedido en Amazon, enviamos la información del cargo a tu banco para que ellos aprueben la autorización del monto. En caso de ser aprobada el banco automáticamente retiene los fondos. Estas autorizaciones se realizan para comprobar que la tarjeta de crédito/débito se encuentren vigentes, que tengan el saldo suficiente para recibir el cargo del pedido y verificar que las tarjetas no cuenten con restricciones para compras en línea. 
+He revisado detalladamente tu pedido y en este caso me gustaría explicarte como funcionan las transacciones en Amazon.
 
-En algunos casos el banco retiene los fondos de las autorizaciones por un cierto tiempo, sin embargo, ten la tranquilidad que pronto serán removidas.
+Cuando realizas un pedido en Amazon, enviamos la información del cargo a tu banco para que ellos aprueben la autorización del monto. En caso de ser aprobada el banco automáticamente retiene los fondos. Estas autorizaciones se realizan para comprobar que la tarjeta de crédito/débito se encuentren vigentes, que tengan el saldo suficiente para recibir el cargo del pedido y verificar que las tarjetas no cuenten con restricciones para compras en línea.
 
-En caso de que continues visualizando esta autorización por más de 15 días, te recomiendo contactar a tu banco y le proveas los siguientes datos que te brindo a continuación :
+Algunos bancos realizan una nueva transacción en el momento de hacer el cargo y no toman el monto que ya tenían retenido. Esto causa que se vean dos transacciones; sin embargo, una de ellas es normalmente una autorización, que debe ser removida por el banco.
 
-Fecha y hora de la autorización : [DATE] [TIME]
-Monto : [MONTO]
+En caso de que continúes visualizando esta autorización por más de 15 días, te recomiendo contactar a tu banco y le proveas los siguientes datos que te brindo a continuación :
+
+Fecha y hora de la autorización : [DATE] [TIME] 
+Monto : [MONTO] 
 Orden : [PEDIDO]
 
-Con esta información tu entidad bancaria cuanto tiempo tarda en ser removida una autorización por compras en linea. 
+Con esta información tu entidad bancaria puede decirte cuanto tiempo tarda en ser removida una autorización por compras en linea.
 
 [NOMBRE CLIENTE], espero esta información te sea de ayuda.
 
 ¡Te deseo un feliz día!
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
