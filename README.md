@@ -469,6 +469,29 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#disponibilidad #1dia #fechasdeentrega #
+
+Hola [NOMBRE CLIENTE],
+
+Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Te agradezco personalmente por tu amabilidad con la que has transmitido el inconveniente. En base a tus experiencias, he pasado toda la información a nuestro departamento de entregas para evitar este tipo de situaciones en futuras entregas y seguir mejorando nuestro servicio.
+
+Comprendo que no estés satisfecho con el servicio de entrega que te hemos proporcionado anteriormente con respecto a los pedidos no entregados. Uno de los objetivos de Amazon es brindar un servicio oportuno y eficiente para la satisfacción de nuestros clientes.
+
+Respecto a tu consulta, las fechas son de entrega son calculadas en base a la disponibilidad, tamaño, peso y la distancia que este se encuentre desde el Centro de distribución mas cercano a tu localidad. En algunos casos los artículos pueden tardar de 1 a 3 días en ser preparados, debido a que lo solicitamos a un distribuidor cercano. 
+
+Igualmente te adjunto los tiempos de entrega que se ofrecen dentro de México en el siguiente enlace : https://is.gd/3wJfHK
+
+Como una información extra en el siguiente enlace podrás encontrar información acerca de los estimados de disponibilidad en los artículos : https://is.gd/SchDpO
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Ten un buen día!
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #norecibido #deliverednotreceived #transportista
 
 Hola [NOMBRE CLIENTE]
