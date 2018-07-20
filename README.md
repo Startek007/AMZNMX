@@ -164,6 +164,26 @@ Espero esta información resuelva tus dudas.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Hola [NOMBRE CLIENTE],
+
+Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Comprendo que nos contactas debido a que deseas cambiar la fecha de entrega de tu pedido [PEDIDO].
+
+He revisado tu pedido detalladamente, y en este caso debido a que el paquete ya se encuentra en un estado avanzado de envío por el momento no podemos realizar un cambio en la fecha de entrega.
+
+Sin embargo, una vez sea enviado y obtengamos el número de rastreo, yo me estaré comunicando con el transportista para darle los detalles de la nueva [fecha/dirección] de entrega para que puedas recibirlo el [DATE].
+
+Para tu tranquilidad y confianza, he creado el seguimiento correspondiente a tu caso y estaré trabajando en el para ti. Una vez tenga la información completa del envío y el cambio de [fecha/dirección] te estaré contactando nuevamente.
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Hola [NOMBRE CLIENTE]:
 
 Mi nombre es [CSA] de Atención al Cliente de Amazon México.
