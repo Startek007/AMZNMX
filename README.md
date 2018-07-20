@@ -163,6 +163,7 @@ Espero esta información resuelva tus dudas.
 ¡Te deseo un feliz fin de semana!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#cambio #direccion #pending #envio
 
 Hola [NOMBRE CLIENTE],
 
@@ -377,23 +378,30 @@ Estamos disponibles de las 7:00 a 23:00 horas (horario del Centro), los 7 días 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Stuck #orderdelay #atrasada #atraso
+#Stuck_v2 #OrderStuck
 
-Hola [NOMBRE CLIENTE],
+Hola [NOMBRE CLIENTE]:
 
-Mi nombre es José, asesor de atención al cliente de Amazon México quien tiene el agrado de recibir tu correo en esta ocasión.
+Mi nombre es [CSA], asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
 
-Antes que nada me disculpo contigo, ya que aún continúes a la espera de tu pedido [PEDIDO]. Comprendo que esto puede ser preocupante para tu persona.
+Me disculpo por la situación que se esta presentando con tu pedido [PEDIDO]. Comprendo que puede ser preocupante para tu persona el no haber recibido tu paquete todavía. 
 
-He revisado detalladamente tu pedido y puedo ver que este se encuentra en la etapa final de envío. Esto quiere decir que ya esta preparado para entregarlo al transportista y que pueda ser enviado a la brevedad de lo posible entre hoy y mañana.
+En respuesta a tu consulta, he realizado una profunda investigación y encontramos un inconveniente que impidió que tu pedido fuese despachado.
 
-Cuando tu pedido sea despachado recibirás una notificación por correo electrónico con el número de guía y el transportista asignado.
+Hemos corregido el inconveniente y en estos momentos se encuentra en preparación avanzada en nuestro centro de distribución para ser enviado con el transportista asignado lo mas pronto posible. 
+
+Cuando el pedido se envíe, te enviaremos un correo electrónico para que puedas rastrear el paquete o también puedes registrarte para recibir alertas mediante mensajes de texto aquí: 
+
+https://www.amazon.com.mx/gp/css/notifications
+
+Como compensación por el inconveniente, voy a extender tu membresía de Amazon Prime por 1 meses. La membresía ahora se renovará el día [DATE].
 
 [NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
 
 Gracias por ser parte de la gran familia de Amazon.
 
-¡Te deseo un feliz día!
+¡Ten un buen día!
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
