@@ -365,7 +365,7 @@ Mi nombre es José, asesor de atención al cliente de Amazon México quien tiene
 
 Antes que nada me disculpo contigo, ya que aún continúes a la espera de tu pedido [PEDIDO]. Comprendo que esto puede ser preocupante para tu persona.
 
-He revisado detalladamente tu pedido y puedo ver que este se encuentra en la etapa final de envío. Esto quiere decir que ya esta preparado para ser enviado al transportista y que pueda ser entregado a tu persona. De igual manera, he pasado la información al departamento de entregas para verificar que tu orden sea completada correctamente.
+He revisado detalladamente tu pedido y puedo ver que este se encuentra en la etapa final de envío. Esto quiere decir que ya esta preparado para entregarlo al transportista y que pueda ser enviado a la brevedad de lo posible entre hoy y mañana.
 
 Cuando tu pedido sea despachado recibirás una notificación por correo electrónico con el número de guía y el transportista asignado.
 
@@ -650,35 +650,6 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ¡Te deseo un feliz día y un buen fin de semana!
 
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-#authorization 
-
-Hola [NOMBRE CLIENTE],
-
-Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
-
-Primeramente espero que estés pasando un excelente día. Comprendo que te gustaría saber en cuanto tiempo veras reflejado tu dinero de regreso en la orden que cancelaste.
-
-He revisado tu consulta acerca del pedido [PEDIDO], y me gustaría explicarte cómo funcionan en Amazon las transacciones.
-
-En el momento en el que haces tú pedido, el banco verifica tu tarjeta y reserva los fondos. En algunos casos cuando la orden es cancelada la verificación toma unos días en removerse de tu cuenta, de igual manera, puedes tener tranquilidad que pronto se removerá.
-
-Normalmente esta autorización debería eliminarse en un tiempo estimado de 15 días naturales, sin embargo, algunas entidades bancarias pueden retener los fondos por mas tiempo, esto depende de las políticas de cada entidad bancaria.
-
-En caso de que sigas visualizando la retención del monto por MX$[MONTO] después de 15 días, te recomiendo, contactes a tu banco y les brindes los detalles que te brindare a continuación :
-
-Fecha y hora de la autorización: [DATE] a las [TIME]
-Monto del pedido: Mex$[MONTO]
-
-Con esta información ellos te pueden explicar el tiempo que toma para una autorización sea removida de tu cuenta.
-
-[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
-
-Gracias por ser parte de la gran familia de Amazon.
-
-¡Te deseo un feliz día y un buen fin de semana!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
