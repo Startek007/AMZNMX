@@ -1,4 +1,18 @@
-🙈 jhoselyn.nyota@lm0k.com
+
+
+Authorizacion/ Charge #2
+
+Buen día! Soy Kathy, el agente que le atendió en la llamada.
+
+Lamento que veas dos transacciones por tu pedido 701-2182870-9571405.
+
+Como mencioné en la llamada, en el momento en el que haces tú pedido, el banco verifica tu tarjeta y reserva los fondos. Cuando inicia la etapa de envío, Amazon te realiza el cargo oficial por el valor total. En algunos casos la primera verificación toma unos días en removerse de tu cuenta, de igual manera, puedes tener tranquilidad que pronto se removerá.
+
+Algunos bancos realizan una nueva transacción en el momento de hacer el cargo y no toman el monto que ya tenían retenido. Esto causa que se vean dos transacciones; sin embargo, una de ellas es normalmente una autorización, que debe ser removida por el banco.
+
+En caso de que en unos días sigas visualizando la retención del dinero, te recomiendo, contactes a tu banco para mas información sobre las transacciones. Ellos te dirán por qué los fondos en tu cuenta pueden no estar disponibles y aclarar por cuánto tiempo retienen las autorizaciones para las compras en línea. Este período de retención varía según el banco.
+
+Espero que esto sea de mucha ayuda. ¡Te deseo un feliz día y un buen fin de semana!
 
 --------------------------------------------------------------------------------------------------------------------------------
 Hola [NOMBRE CLIENTE]
