@@ -144,6 +144,24 @@ Con esta información tu entidad bancaria cuanto tiempo tarda en ser removida un
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Hola [NOMBRE CLIENTE]
+
+Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Antes que nada, me disculpo contigo por el inconveniente con el pedido [PEDIDO]. Comprendo que el artículo no esta funcionando correctamente y por esto has decidido devolverlo.
+
+He revisado a detalle tu pedido, y en este caso aunque nos encantaría enviarte un reemplazo, el artículo es importado desde el inventario de Amazon EE.UU y no contamos con el mismo en nuestro inventario de Amazon México. Sin embargo, podemos ofrecerte un reembolso por el mismo.
+
+Los reembolsos pueden ser como saldo de Tarjeta de Regalo Amazon que puede tardar de 2 a 48 horas o lo podemos reembolsar a tu método de pago original que puede tardar un máximo de 15 días naturales para verse reflejados en tu estado de cuenta.
+
+Puedes responder este correo con la opción de reembolso que más te parezca conveniente para que podamos enviarte la etiqueta de devolución a la brevedad de lo posible.
+
+Espero esta información resuelva tus dudas.
+
+¡Te deseo un feliz fin de semana!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Hola [NOMBRE CLIENTE]:
 
 Mi nombre es [CSA] de Atención al Cliente de Amazon México.
