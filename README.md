@@ -279,6 +279,24 @@ Uno de los objetivos de Amazon es brindar un servicio oportuno y eficiente, pero
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#cancelprime_v1
+
+Hola [NOMBRE CLIENTE],
+
+Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Comprendo que nos contactas debido a que has recibido un cargo por la membresía Prime de Amazon México.
+
+En base a tu solicitud he procedido a cancelar la membresía y solicitar un reembolso completo de la misma por el monto de MEX$449.00. Este reembolso se vera reflejado en tu estado de cuenta dentro de los próximos 15 días naturales.
+
+De igual manera puedes suscribirte nuevamente cuando tu lo desees.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Ten un buen día!
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Hola [CLIENTE NOMBRE],
 
 Mi nombre es José de Atención al Cliente de Amazon México.
