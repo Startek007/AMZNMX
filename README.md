@@ -58,7 +58,7 @@ TIMER - > https://online-timer.en.downloadastro.com/tools/#660000
 
 Acortador de Links -> https://bitly.com/  https://is.gd/create.php
 
-Llamar al cliente -> https://amzn.to/2pEeol7
+Llamar al cliente -> https://is.gd/hfTr2L
  
  Amazon Mexico: +52 442 348 9587 
 Correos de México +527626220501
