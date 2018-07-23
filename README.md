@@ -1635,7 +1635,30 @@ Recibirás tu tarjeta física de 4-6 días hábiles después de haber depositado
 https://amzn.to/2In1qA7
 
 Si ya realizaste la recarga y no la has recibido, te recomendamos llamar a Banorte. Por seguridad, el Banco brinda esta información únicamente al titular de la tarjeta.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+Hola (Cliente):
+
+Mi nombre es (CSA) de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Antes que nada, me disculpo contigo por el inconveniente ya que estas a la espera del pago de tu pedido. Comprendo que esto te ha generado preocupación.
+
+He revisado detalladamente tu pedido y en este caso me gustaría explicarte como funcionan las transacciones en Amazon.
+
+Cuando realizas un pedido en Amazon, enviamos la información del cargo a tu banco para que ellos aprueben la autorización del monto. En caso de ser aprobada el banco automáticamente retiene los fondos. Cuando inicia la etapa de envío, Amazon te realiza el cargo oficial por el valor total. En algunos casos, cuando el pedido es cancelado, la primera verificación toma unos días en removerse de tu cuenta, de igual manera, puedes tener tranquilidad que pronto se removerá.
+
+Estas autorizaciones se realizan para comprobar que la tarjeta de crédito/débito se encuentren vigentes, que tengan el saldo suficiente para recibir el cargo del pedido y verificar que las tarjetas no cuenten con restricciones para compras en línea.
+
+En caso de que continúes visualizando esta autorización por más de 10 días, te recomiendo, contactes a tu banco ya que tu entidad bancaria puede decirte cuanto tiempo tarda en ser removida una autorización por compras en linea.
+
+(Cliente), quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+
+​​​​​​​*************************************************************************************************************************
+¡Ten un buen día!
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Order canceled-Aplicar promocion. 
 
 Hola (Cliente):
