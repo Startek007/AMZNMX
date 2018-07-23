@@ -1635,7 +1635,33 @@ Recibirás tu tarjeta física de 4-6 días hábiles después de haber depositado
 https://amzn.to/2In1qA7
 
 Si ya realizaste la recarga y no la has recibido, te recomendamos llamar a Banorte. Por seguridad, el Banco brinda esta información únicamente al titular de la tarjeta.
-------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Order canceled-Aplicar promocion. 
+
+Hola (Cliente):
+
+Mi nombre es (CSA) de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Te pido disculpas por el inconveniente referente a tu pedido (PEDIDO ) que fue cancelado porque el pago no pudo ser completado.
+
+En este caso, para ayudarte de la mejor manera posible, he realizado una profunda investigación y una vez que un pedido es cancelado, si deseas los artículos, hay que realizar una nueva compra ya que, por políticas de seguridad, no podemos restablecer pedidos cancelados.
+
+En los siguientes enlaces podrás ver los artículos desde la pagina de Amazon.com.mx para que puedas realizar el nuevo pedido :
+
+1. (Enlace)
+
+2. (Enlace)
+
+3. (Enlace)
+
+Una vez que procedas a realizar el nuevo pedido, por favor, solamente contesta a este correo electrónico y procederemos a aplicar la promoción de la mejor manera posible. En cuanto recibamos tu mensaje, llevaremos a cabo las acciones necesarias.
+
+Marcelo, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día y una excelente semana!
+---------------------------------------------------------------------------------------------------------------------------------
 ORDER STUCK.
 
 Hola [NOMBRE CLIENTE]:
