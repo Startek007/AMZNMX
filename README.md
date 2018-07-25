@@ -470,28 +470,26 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ¡Te deseo un feliz día y un buen fin de semana!
 
----------------------------------------------------------------------------------------------------------------------------------Hola [NOMBRE CLIENTE]:
+---------------------------------------------------------------------------------------------------------------------------------
+#DHL #estado #devolucion
 
-Mi nombre es [CSA] de Atención al Cliente de Amazon México. Es un gusto atenderte.
+Hola [NOMBRE CLIENTE]:
 
-Muchas gracias por notificarnos que se ha realizado la devolución de tu pedido [pedido].
+Mi nombre es [CSA] de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Muchas gracias por notificarnos que se ha realizado la devolución de tu pedido [PEDIDO].
 
 Entiendo que nos has contactado preguntando por la información sobre cuando sera emitido tu reembolso.
 
 Te confirmo que DHL ya ha entregado el paquete en nuestras instalaciones y en las próximas horas el paquete será asignado a una revisión de rutina, donde van a escanear la etiqueta de devolución para que se pueda procesar el reembolso según tu solicitud.
 
-Una vez entregado, el paquete será asignado a una revisión de rutina, donde van a escanear la etiqueta de devolución para que se pueda procesar el reembolso según tu solicitud.
+Una vez finalizado el proceso, te enviaremos un correo electrónico cuando el reembolso haya sido procesado. El tiempo máximo para recibir esta confirmación es de dos semanas luego de que enviaste el producto de regreso con DHL.
 
-Te enviaremos un correo electrónico cuando el reembolso haya sido procesado. El tiempo máximo para recibir esta confirmación es de dos semanas luego de que enviaste el producto de regreso con DHL.
-
-Para tu tranquilidad seguiré dándole seguimiento a tu caso para que tu reembolso sea procesado y notificado a la brevedad. 
-
-[Cliente], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
 
 Gracias por ser parte de la gran familia de Amazon.
 
 ¡Te deseo un feliz día!
-
 ---------------------------------------------------------------------------------------------------------------------------------
 
 Out of Stock 
