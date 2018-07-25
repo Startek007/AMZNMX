@@ -8,6 +8,8 @@ Mi nombre es José, asesor de atención al cliente de Amazon México, quien tien
 Correos de México +527626220501
 
 Este número si funciona :')
+
+UPS 18007827892 / 9 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 *Estafeta: +52-555-861-9500 Extensión:42325
 Numero de extensiones de estafeta:
