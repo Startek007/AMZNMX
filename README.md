@@ -41,7 +41,7 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ¡Te deseo un feliz día!
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Account -> juanjo0743@teleworm.us
 Contra -> Arias007
@@ -1783,3 +1783,33 @@ He revisado detalladamente la información de rastreo de tu pedido y me he puest
 Ten la tranquilidad que todas tus compras están respaldadas por nosotros por lo que si no lo recibes a más tardar el [DATE] puedes contactarnos y nosotros procederemos con el reembolso correspondiente.
 Te aseguro que el transportista está realizando las gestiones que están a su alcance para agilizar ésta entrega. Te enviaremos una notificación a tu correo electrónico cuando el producto esté en ruta hacia tu dirección.
 Cuando compras un producto importado desde Amazon EE.UU las fechas brindadas suelen ser estimadas, ya que en ocasiones se puede durar un poco más de lo esperado en la inspección aduanal.
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+SELLER 
+
+Hola (Cliente):
+
+Mi nombre es (CSA) de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Me disculpo por los inconvenientes que has tenido con tu pedido (Pedido) ya que te llego dañado.
+
+Al revisar los detalles, veo que fue realizado con (Vendedor), uno de nuestros vendedores afiliados. Para poder ayudarte con esta situación, le he enviado un correo explicando lo que ocurrió y solicitando de manera inmediata una solución.
+
+En Amazon respaldamos a nuestros clientes y al mismo tiempo mediar con el vendedor, el proceso a seguir es brindar al vendedor la oportunidad para poder ofrecer opciones para tu conveniencia. Recibiremos respuesta del vendedor en los siguientes 2 días hábiles. 
+
+Para poder visualizar el correo que he enviado al vendedor para interceder dale click al siguiente enlace:
+
+https://www.amazon.com.mx/gp/...nication-manager/outbox.html
+
+De igual manera, puedes tener tranquilidad ya que tu compra tiene el respaldo de la Garantía de la A a la Z. En caso de no recibir una respuesta de parte del vendedor, te estaré contactando para iniciar el proceso de dicha garantía.
+
+Para ello, realizare un seguimiento personal en tu pedido para asegurarnos de  recibir una respuesta del vendedor y realizar las acciones necesarias. 
+
+(Cliente), quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos y te agradezco sinceramente tu comprensión y tu paciencia mientras continuamos trabajando en tu pedido.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
