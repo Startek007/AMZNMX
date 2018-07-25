@@ -163,6 +163,27 @@ Espero esta información resuelva tus dudas.
 
 ¡Te deseo un feliz fin de semana!
 
+---------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+
+#devolucionnoprocesada_v1 #devoluciones
+
+Hola [NOMBRE CLIENTE],
+
+Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Antes que nada, me disculpo por el inconveniente con tu pedido 701-5858972-6090649. Comprendo que has recibido el artículo incorrecto y debido a esto has procedido a devolverlo.
+
+Me gustaría notificarte que hemos recibido tu devolución y he procesado el reembolso por le monto de MEX$[MONTO] a tu método de pago original.
+
+Normalmente estos reembolsos se ven reflejados en tu estado de cuenta en un período de 15 días naturales.
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #cambio #direccion #pending #envio
 
