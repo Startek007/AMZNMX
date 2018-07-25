@@ -403,6 +403,23 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ¡Ten un buen día!
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#transportista #instrucciones 
+
+Hola [NOMBRE CLIENTE],
+
+Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Comprendo que nos contactas debido a que deseas dar instrucciones especiales de entrega para tu pedido [PEDIDO].
+
+Revisando el estado de tu pedido puedo ver que fue enviado a través del transportista [TRANSPORTISTA], para ayudarte me he puesto en contacto con ellos y les he provisto tus instrucciones de entrega.
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
