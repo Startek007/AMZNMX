@@ -318,6 +318,26 @@ Monto : $[MONTO].
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#paqueteatrasado_v1 #tarde #delay
+
+Hola [CLIENTE]:
+
+Mi nombre es [CSA] de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Lamento mucho saber que aún estás a la espera de tu pedido [PEDIDO].
+
+He revisado detalladamente la información de rastreo de tu pedido que nos brinda [TRANSPORTISTA] y puedo
+confirmar que el pedido se encuentra atrasado pero continua en tránsito.
+
+Entiendo que [SITUACION] por lo que necesitas que llegue lo antes posible. No te preocupes, me he puesto
+en contacto con [TRANSPORTISTA] para notificarlos de este retraso y solicitar que actualicen la información de seguimiento y entreguen el paquete a la brevedad.
+
+En caso de que no lo recibas para el día [FECHA Y HORA DE LOS TRACES], por favor avísanos.
+
+Agradecemos tu comprensión y paciencia en este caso. 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #Traces_v2
 
 Hola [NOMBRE CLIENTE],
