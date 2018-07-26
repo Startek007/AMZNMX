@@ -117,6 +117,26 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ¡Ten un buen día!
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#confirmacionorden_v1
+
+Hola [NOMBRE CLIENTE],
+
+Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Comprendo que nos contactas debido a que deseas saber el estado de tu pedido [PEDIDO].
+
+He revisado a detalle tu pedido, y me gustaría informarte que la autorización bancaria del pedido ha sido aprobada exitosamente, de igual manera tu pedido ya se encuentra en preparación avanzada en nuestro centro de distribución para ser enviado con el transportista asignado lo mas pronto posible y sea entregado en la fecha establecida que es el día [DATE].
+
+Cuando el pedido se envíe, te enviaremos un correo electrónico para que puedas rastrear el paquete o también puedes registrarte para recibir alertas mediante mensajes de texto aquí:
+
+https://www.amazon.com.mx/gp/css/notifications
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Ten un buen día!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
