@@ -168,6 +168,40 @@ Espero esta información resuelva tus dudas.
 ---------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------
 
+#amazonbasics_v1 #amazonprime100_v1
+
+Hola [NOMBRE CLIENTE],
+
+Mi nombre es [CSA], asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Lamento el inconveniente que se esta presentando con las promociónes de Amazon Basics y de PRIME100. Comprendo que estas intentando realizar una compra, sin embargo, por alguna razón no recibes el descuento.
+
+He revisado detalladamente la información acerca de las promociones, y en este caso veo que uno de los requisitos para ser elegible para los descuentos es haber recibido el código de invitación en tu correo electrónico. De igual manera, he revisado los correos enviados a tu cuenta y de momento no he encontrado los correos de invitación para que puedas acceder a las promociones. Esta puede ser la principal razón del porque no ves reflejado el descuento a la hora de finalizar el pedido.
+
+Sin embargo, en caso de que confirmes que si has recibido el correo de invitación a la promoción de Amazon Basics, te adjuntos unos de los términos y condiciones que puedes verificar antes de realizar el pedido :
+
+1. La compra debe ser igual o mayor a MEX$400.00.
+2. Todos los productos deben ser vendidos y enviados por Amazon México.
+3. Verifica que los productos sean participantes de la promoción de Amazon Basics.
+
+Te adjunto el enlace de los términos y condiciones de la promoción : https://is.gd/nVtuhl
+
+Estos son los términos y condiciones para la promoción de PRIME100 :
+
+1. La compra debe ser igual o mayor a MEX$300.00.
+2. Todos los productos deben ser vendidos y enviados por Amazon México.
+
+Igualmente te dejo el enlace de los términos y condiciones de la promoción : https://is.gd/iEk4zC
+
+Quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+---------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+
+
 #devolucionnoprocesada_v1 #devoluciones
 
 Hola [NOMBRE CLIENTE],
@@ -200,6 +234,28 @@ He revisado tu pedido detalladamente, y en este caso debido a que el paquete ya 
 Sin embargo, una vez sea enviado y obtengamos el número de rastreo, yo me estaré comunicando con el transportista para darle los detalles de la nueva [fecha/dirección] de entrega para que puedas recibirlo el [DATE].
 
 Para tu tranquilidad y confianza, he creado el seguimiento correspondiente a tu caso y estaré trabajando en el para ti. Una vez tenga la información completa del envío y el cambio de [fecha/dirección] te estaré contactando nuevamente.
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#solicitudreembolso_v1
+
+Hola [NOMBRE CLIENTE],
+
+Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Antes que nada, me disculpo por el inconveniente presentado con tu pedido [PEDIDO]. Comprendo que el pedido [ISSUE]
+
+De acuerdo con tu solicitud, te puedo confirmar que he solicitado el reembolso de tu pedido 702-6909557-4513856, por un monto de Mex$[MONTO] como Saldo de Tarjeta de Regalo Amazon.
+
+Normalmente estos reembolsos pueden tardar de 2 a 48 horas en aparecer en tu cuenta. Recibirás un correo electrónico de confirmación una vez sea completado.
+
+Una vez completado puedes revisar el balance en el siguiente enlace : https://www.amazon.com.mx/gp/css/gc/balance/
 
 [NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
 
