@@ -18,7 +18,32 @@ Numero de extensiones de estafeta:
 42411
 42412
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+Hola Arturo:
+
+Mi nombre es Andrea de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Te llamé al número de teléfono que figura en tu cuenta de Amazon.com.mx pero no pude ponerme en contacto contigo.
+
+Me disculpo por la situación que se presentó con tu pedido #701-9939314-3970620 ya que no lo recibiste. 
+
+En respuesta a tu solicitud, con mucho gusto podemos realizar un reemplazo para tu pedido. En este caso, para realizar el cambio de domicilio en tu reemplazo necesitamos realizar un paso adicional de seguridad en el cual necesitamos los utimos 4 dígitos de una de las tarjetas de crédito/ débito utilizadas recientemente en tu cuenta de Amazon.com.mx.
+
+Sin embargo, nos tomamos estos cambios muy seriamente y por ello no puedo seguir investigando el asunto vía correo electrónico ya que no es un método seguro para transmitir información sensible. Por favor contáctanos por teléfono para que podamos continuar la investigación.
+
+Puedes contactarnos por teléfono los 7 días de la semana de 7 a.m. a 10 p.m. (Horario Central), a través de este enlace: 
+
+https://www.amazon.com.mx/gp/help/customer/contact-us 
+
+Arturo, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------
 Solicitar Factura CFDI en Amazon. 
 
 **************************************************************************************
