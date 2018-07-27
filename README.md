@@ -1551,33 +1551,38 @@ Monto del pedido: Mex$[MONTO]
 
 Puedes presentar este correo electrónico a tu banco como comprobante oficial por parte de Amazon. De esta manera ellos podrán decirte por qué los fondos en tu cuenta pueden no estar disponibles y aclarar por cuánto tiempo retienen las autorizaciones de pago para pedidos en línea.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#pagodeclinado_v1
 
-Pago Rechazado / Payment declined / authorization
+Hola [NOMBRE CLIENTE]:
 
-Cuando el pago del pedido ha sido rechazado y se vuelve a intentar y queda pendiente de autorización.
+Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
 
-#paymentdeclinevc
+Lamento la situación que se esta presentando con el pago del pedido [PEDIDO].
 
-Hola [NOMBRE CLIENTE]: 
+Te comento [NOMBRE CLIENTE], cuando realizas un pedido, contactamos a tu banco para solicitarles autorización y poder realizar un cobro a tu tarjeta. En este caso, no obtuvimos dicha autorización ya que el pago está siendo declinado por el banco emisor de tu tarjeta. Te aseguro que, al ser Amazon un comercio, el principal interés es que tus compras se completen sin ningún tipo de inconveniente o atraso.
 
-Mi nombre es [CSA] de Atención al Cliente de Amazon México. Es un gusto atenderte. 
+Por tu seguridad el banco no nos proporciona mayores detalles, debido a esto no contamos con la información para determinar la razón del rechazo. Un cargo puede fallar por una variedad de motivos. Estas son algunas cosas que te recomendamos verificar:
 
-Lamento la situación que se presentó con el cobro de tu pedido #[PEDIDO].
+- ¿Ingresaste la fecha de vencimiento correctamente? ¿La tarjeta ha vencido?
+- ¿Ingresaste la dirección de cobro (a la que te llega el estado de cuenta) y número de teléfono asociados con tu tarjeta de crédito correctamente?
+- ¿Has excedido tu límite de crédito?
+- ¿Has reemitido, actualizado o mejorado tu tarjeta de crédito? (Por ejemplo, de estándar a oro, o haber recibido
+una nueva tarjeta con un chip).
 
-En ocasiones, la solicitud de autorización por parte del banco no se concreta correctamente, por esta razón, he procedido a hacer una nueva solicitud para que esta se apruebe. Si todo se desarrolla exitosamente, el pedido continuará en su proceso de preparación y se te enviará un correo de confirmación tan pronto como sea despachado.
+Si la tarjeta ha sido actualizada o renovada recientemente, necesitaremos recibir la información nueva para poder procesar este pedido.
 
-Algunas de las razones por la cuales el pago es declinado son las siguientes: 
+Si ya has revisado los puntos anteriores, te aconsejamos contactar al banco emisor de tu tarjeta para consultar directamente por sus políticas y restricciones acerca de las compras electrónicas o por Internet, ya que esto podría ser la razón del rechazo.
 
--Información del banco no concuerde con la ingresada en Amazon. 
+Algunos bancos pueden colocar bloqueos de seguridad en las tarjetas luego de cierta cantidad de transacciones o por el monto de las mismas.
 
--El banco indique que no hay fondos suficientes. 
+Si tienes otro método de pago, también puedes ingresarlo a los datos de tu pedido e intentar la transacción con el nuevo método.
 
--Límites de crédito o débito por transacción. 
+Quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
 
--Procesos especiales para compras en línea. 
+Gracias por ser parte de la gran familia de Amazon.
 
-En caso de que el pago sea rechazado nuevamente, [NOMBRE CLIENTE] te recomiendo contactar con el banco y preguntar cuál es el proceso a seguir para poder obtener aprobación del cargo en tu método de pago de preferencia. 
+¡Te deseo un feliz día!
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
