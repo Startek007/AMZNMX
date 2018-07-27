@@ -635,6 +635,32 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#outofstock_v1 #nodisponible_v1
+
+Hola [NOMBRE CLIENTE],
+
+Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Me disculpo por los inconvenientes que se han presentado con esta situación. Tras revisar detalladamente tu pedido, veo que al momento de realizar la compra quedaban pocas unidades en inventario.
+
+Esta información la corroboramos en el correo electrónico de confirmación del pedido que te enviamos el día [DATE], cuando pusiste la orden, al indicar que "Tu solicitud será revisada contra disponibilidad de inventario, de ser confirmada recibirás un correo electrónico con más detalles". En algunas ocasiones, las actualizaciones en la página toman un tiempo en reflejarse a la hora del cliente realizar la compra.
+
+Incluso la fecha estimada de envío proporcionada en dicha comunicación fue: "Aún no disponible. Te notificaremos tan pronto tengamos una fecha de entrega. Puedes cancelarlo en cualquier momento previo al proceso de envío."
+
+Como comprenderás, Amazon al igual que otras tiendas es distribuidor, por esa razón nosotros dependemos de que los fabricantes nos hagan llegar las unidades que ofrecemos a nuestros clientes. Siempre se conversan fechas posibles para las entregas y por eso es que se ofrecen los productos y una fecha estimada. Si esas fechas no se cumplen por parte del fabricante, debemos informar a los clientes sobre estos posibles cambios.
+
+Puedo asegurarte que en Amazon continuamos trabajando para abastecer el inventario del [ITEM]. Te estaremos informando acerca de la disponibilidad, según lo que indique el proveedor al respecto y en el momento que se envíe dicho pedido se aplicará el envío seleccionado.
+
+Te recomiendo lo siguiente, en caso de que necesitaras el producto lo más pronto posible, puedes realizar la cancelación sin ningún tipo de cargos adicionales. En caso de que puedas esperar, nosotros vamos a hacer todo lo que está a nuestro alcance por abastecer el inventario de la manera más pronta posible.
+
+Quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día y un excelente fin semana!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #promo #libros #noaplica
 
 Hola [NOMBRE CLIENTE]
