@@ -279,7 +279,28 @@ Espero esta información resuelva tus dudas.
 
 ¡Te deseo un feliz fin de semana!
 
----------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------Hola [CLIENTE]:
+
+Mi nombre es [CSA] de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+He recibido tu consulta sobre cómo utilizar tu saldo de tarjeta de regalo.
+
+El saldo de tu Tarjeta de Regalo de Amazon.com.mx se utilizará automáticamente en tu próximo pedido que
+califique. Cuando realices un pedido utilizando el Carrito de compras verás la opción de seleccionar "Usar saldo
+promocional o de Tarjeta de Regalo de Amazon.com.mx" en la página de resumen del pedido. Si quieres utilizar
+el saldo, esta opción debe estar seleccionada.
+
+Todo saldo de Tarjeta de Regalo de Amazon.com.mx que no se utilice se mantendrá en tu cuenta hasta que se
+aplique a un pedido.
+
+Puedes ver el saldo y el historial de uso en Mi cuenta:
+
+https://www.amazon.com.mx/gp/css/gc/balance/
+
+Para obtener más información acerca de cómo usar tarjetas de regalo, consulta nuestras páginas de Ayuda:
+
+http://www.amazon.com.mx/gp/help/customer/display.html/?nodeId=200138510
+
 ---------------------------------------------------------------------------------------------------------------------------------
 
 #amazonbasics_v1 #amazonprime100_v1
