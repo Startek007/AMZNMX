@@ -777,6 +777,34 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ¡Te deseo un feliz día y una excelente semana!
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#noretornable_v1
+
+Hola [NOMBRE CLIENTE]:
+
+Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Lamento la situación que se presentó con tu pedido #[PEDIDO].
+
+En esta ocasión, no requerimos que devuelvas el producto. Te invitamos a conservarlo, donarlo o desecharlo, sea cual sea la opción más adecuada y conveniente para ti.
+
+He procesado un reembolso a tu método de pago original de Mex$[MONTO] por tu pedido #[PEDIDO]. Si bien este reembolso ya se completó en nuestro sistema, es probable que tu banco tenga algún proceso adicional. El tiempo de acreditación del dinero por parte del banco puede variar según la entidad, pero para tu tranquilidad este proceso debería estar listo en un máximo de 15 días naturales.
+
+​He procesado un reembolso de Mex$[MONTO] por tu pedido #[PEDIDO] como tarjeta de regalo a tu cuenta de Amazon. De esta manera tendrás el reembolso de una manera más rápida, el saldo registra aproximadamente dentro 2 a 48 horas y se aplicará automáticamente a tu siguiente pedido que cumpla los requisitos. Podrás ver tu saldo y actividad aquí:
+
+https://www.amazon.com.mx/gp/css/gc/balance/
+
+Podrás ver la solicitud de reembolso aquí:
+https://www.amazon.com.mx/gp/css/summary/edit.html?orderID=[PEDIDO]
+
+En caso de que prefieras cambiar tu reembolso a tu tarjeta original de pago, por favor indícalo contestando este correo antes de usar el saldo de la tarjeta de regalo. Las devoluciones a tarjeta de crédito y débito pueden durar unos 15 días naturales.
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
