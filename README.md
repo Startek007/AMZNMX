@@ -192,7 +192,43 @@ Con esta información tu entidad bancaria puede decirte cuanto tiempo tarda en s
 ¡Te deseo un feliz día!
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+
+#cargodesconocido #enviodividido_v1
+
+Hola [NOMBRE CLIENTE],
+
+Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Comprendo que nos contactas debido a un cargo que se ha hecho en tu cuenta del cual desconoces.
+
+He revisado a detalle tu cuenta, y me gustaría informarte que este cargo por el monto de MEX$[MONTO] es debido al pedido [PEDIDO].
+
+Para darte una mejor explicación como verás este pedido era por el monto de MEX$[MONTO], sin embargo se dividió en dos envíos. El primer envío fue por el primer artículos que es el siguientes :[ITEM], y el monto por este envío fue por MEX$[MONTO].
+
+El segundo envío fue por los artículos [ITEM], y el monto de este fue por MEX$[MONTO]. Al sumar los dos envíos da un total de MEX$[MONTO].
+
+Espero esta información sea de ayuda.
+
+¡Te deseo un feliz día!
+
+---------------------------------------------------------------------------------------------------------------------------------Hola [NOMBRE CLIENTE],
+
+Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Comprendo que nos contactas debido a un cargo que se ha hecho en tu cuenta del cual desconoces.
+
+He revisado a detalle tu cuenta, y me gustaría informarte que este cargo por el monto de MEX$[MONTO] es debido al pedido [PEDIDO].
+
+Para darte una mejor explicación como verás este pedido era por el monto de MEX$[MONTO], sin embargo se dividió en dos envíos. El primer envío fue por el primer artículos que es el siguientes :[ITEM], y el monto por este envío fue por MEX$[MONTO].
+
+El segundo envío fue por los artículos [ITEM], y el monto de este fue por MEX$[MONTO]. Al sumar los dos envíos da un total de MEX$[MONTO].
+
+Espero esta información sea de ayuda.
+
+¡Te deseo un feliz día!---------------------------------------------------------------------------------------------------------------------------------
+
 
 Hola [NOMBRE CLIENTE]
 
