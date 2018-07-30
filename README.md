@@ -66,7 +66,40 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ¡Te deseo un feliz día!
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+Hola (Cliente):
+
+Mi nombre es (CSA) de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Te llamé al número de teléfono que figura en tu cuenta de Amazon.com.mx pero no pude ponerme en contacto contigo.
+
+Me disculpo por la situación que se presentó con tu pedido (PEDIDO) ya que no te llegaron algunos artículos. 
+
+En respuesta a tu consulta he revisado a detalle tu pedido, y en este caso aunque nos encantaría enviarte un reemplazo, el artículo es vendido por (VENDEDOR EXTERNO), uno de nuestros vendedores externos y no contamos con el mismo en nuestro inventario de Amazon México.
+
+Por ello, para ayudarte de la mejor manera posible, podemos gestionar la devolución del articulo y de esta manera realizar un reembolso completo.
+
+Para tu facilidad haz clic en el siguiente enlace para imprimir la etiqueta de devolución del articulo:  
+
+https://www.amazon.com.mx/gp/orc/rml/(RMA)
+
+Si el enlace no funciona, asegúrate de haber ingresado en la misma cuenta desde la que realizaste este pedido.
+
+La devolución del articulo se hará con DHL. Puedes contactar a DHL al número 01-800-7656-345 para agendar una recolección.
+
+Además, puedes rastrear tu paquete en: http://www.dhl.com.mx/es.html
+
+Una vez entregado, el paquete será asignado a una revisión de rutina, donde van a escanear la etiqueta de rastreo para que se pueda procesar el reembolso a tu método original de pago. 
+
+Te enviaremos un correo electrónico cuando el reembolso haya sido procesado. El tiempo máximo para recibir esta confirmación es de dos semanas luego de que se envió el producto de regreso con DHL.
+
+Maria, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Ten un buen día!
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Account -> juanjo0743@teleworm.us
 Contra -> Arias007
