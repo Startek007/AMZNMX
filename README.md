@@ -1462,7 +1462,37 @@ Cuando el pedido vaya a ser cobrado, se tiene que cobrar el monto de Mex$[MONTO]
 
 Ten por seguro que cuentas con nuestro total respaldo, por lo que ante cualquier duda adicional que tengas, estamos para servirte.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+
+TRACES - PERDIDO EN TRANSITO
+
+Hola (CLIENTE):
+
+Mi nombre es (CSA) de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Lamento mucho saber que aún estás a la espera de tu pedido #(PEDIDO) para el articulo (ARTICULO).
+
+Tras contactar a (TRANSPORTISTA), puedo confirmar que lastimosamente el paquete se ha extraviado en tránsito. 
+
+En este caso, debido a este inconveniente, te podemos ofrecer las siguientes opciones, de las cuáles debes elegir la que mejor te parezca:
+
+1. Te podemos enviar un reemplazo sin ningún costo adicional (sujeto a disponibilidad al momento de la solicitud).
+
+2. Te podemos hacer un reembolso completo, ya sea a tu método de pago original o como saldo de tarjeta de regalo en tu cuenta de Amazon. 
+
+Los reembolsos a tarjeta tardan hasta 15 días naturales o saldo de regalo de 2 a 48 horas.
+
+Por favor, solamente contesta a este correo electrónico dejándonos saber cuál es tu decisión respecto a las opciones que te ofrecemos. 
+
+Para tu tranquilidad seguiré dándole seguimiento a tu caso para que, en cuanto recibamos tu mensaje, llevemos a cabo las acciones necesarias a la brevedad.
+
+(CLIENTE), quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Ten un buen día!
+
+-----------------------------------------------------------------------------------------------------------------------------------
 
 Confirmación de compra con MSI 
 
