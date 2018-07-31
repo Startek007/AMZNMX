@@ -176,6 +176,29 @@ Gracias por ser parte de la gran familia de Amazon.
 ¡Ten un buen día!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#confirmacionreembolso_v1
+
+Hola [NOMBRE CLIENTE]:
+
+Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
+
+De acuerdo con tu solicitud, te puedo confirmar que se completó el reembolso de tu pedido [PEDIDO] el [DATE], por un monto de Mex$[MONTO]. Si bien este reembolso ya se completó en nuestro sistema, es probable que tu banco tenga algún proceso adicional. 
+
+El tiempo de acreditación del dinero por parte del banco puede variar según la entidad, pero para tu tranquilidad este proceso debería estar listo en un máximo de 15 días naturales.
+
+Puedes observar la confirmación del reembolso aquí: http://www.amazon.com.mx/gp/css/summary/edit.html?orderID=[PEDIDO]
+
+Si deseas conocer el tiempo exacto que tarda tu banco para este trámite, por favor contáctalos. Este correo
+puedes presentarlo como un comprobante oficial por parte de Amazon.
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #confirmacionorden_v1
 
 Hola [NOMBRE CLIENTE],
