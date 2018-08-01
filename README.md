@@ -2143,4 +2143,41 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ¡Te deseo un feliz día!
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+Hola Jair:
+
+Mi nombre es Andrea de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Me disculpo por la situación que se esta presentando con el articulo (Articulo). Comprendo que estas intentando realizar una compra, sin embargo, por alguna razón no recibes el descuento del carrito del ahorro.
+
+En respuesta a tu consulta, he realizado una profunda investigación y para ayudarte de la mejor manera posible, debido al inconveniente, puedes realizar el pedido de este articulo con las 4 unidades siguiendo los términos y condiciones y en caso de que no sea aplicado de manera automatica, aplicaremos el descuento de manera manual y para ello, te ofrecemos las siguientes opciones, de las cuáles debes elegir la que mejor te parezca:
+
+1. Te ofrecemos un crédito promocional por el monto del descuento. Este monto se agregara a tu cuenta, y puedes usarlo la próxima vez que compres un producto vendido y despachado por Amazon.com.mx.
+
+2. Te podemos hacer un reembolso por el monto del descuento, ya sea a tu método de pago original o como saldo de tarjeta de regalo en tu cuenta de Amazon.
+
+Los reembolsos a tarjeta tardan hasta 15 días naturales o saldo de regalo de 2 a 48 horas.
+
+Por favor, solamente contesta a este correo electrónico dejándonos saber cuál es tu decisión respecto a las opciones que te ofrecemos.
+
+Para tu tranquilidad, realizare un seguimiento personal para realizar las acciones necesarias y te sea notificado a la brevedad.
+
+De igual manera, al realizar el pedido, verifica que hayas redimido el código promocional PD18CARRITO en la página de “Revisa tu pedido” en la sección de “Tarjetas de regalo y códigos promocionales” y da click en “Aplicar” que los artículos que estén en tu carrito de compra estén participando en la promoción y que sean vendidos y enviados por Amazon México.
+
+Todos los artículos participantes se encuentran en las siguientes liga :
+
+https://www.amazon.com.mx/carritodelahorro
+
+Puede ver los términos y condiciones de la promoción en la siguiente liga:
+
+https://www.amazon.com.mx/gp/browse.html/ref=pe_3853740_293673070_pe_tag/?node=17916864011
+
+(Cliente), quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos. Quedamos atentos a tu respuesta.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Ten un buen día!
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
