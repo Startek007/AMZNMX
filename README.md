@@ -2180,4 +2180,34 @@ Gracias por ser parte de la gran familia de Amazon.
 
 
 
-----------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+NO TRACES/ DELIVERED NOT RECEIVED
+
+ENTREGADO NO RECIBIDO. 
+
+Hola (Cliente):
+
+Mi nombre es (CSA) de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Lamento mucho saber que aún estás a la espera de tu pedido # (pedido) para el articulo (articulo).
+
+Como nos informas, el paquete aparece como entregado, sin embargo, aún no lo has recibido y debido a ello, podemos confirmar que lastimosamente el paquete se ha extraviado.
+
+En este caso, aunque nos encantaría enviarte un reemplazo, el artículo es vendido por (Vendedor), uno de nuestro vendedores afiliados y no contamos con el mismo en nuestro inventario de Amazon México.
+
+Debido a este inconveniente, te podemos ofrecer las siguientes opciones, de las cuáles debes elegir la que mejor te parezca:
+
+1.  Te podemos hacer un reembolso completo a tu método de pago original y se vera reflejado en el estado de cuenta de tu tarjeta de crédito en 15 días naturales.
+
+2. Te podemos hacer un reembolso completo como saldo de tarjeta de regalo en tu cuenta de Amazon.com.mx y se vera reflejado en tu cuenta de 2-48 horas. 
+
+Por favor, solamente contesta a este correo electrónico dejándonos saber cuál es tu decisión respecto a las opciones que te ofrecemos.
+
+Para tu tranquilidad seguiré dándole seguimiento a tu caso para que, en cuanto recibamos tu mensaje, llevemos a cabo las acciones necesarias a la brevedad.
+
+(Cliente), quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Ten un buen día!
+--------------------------------------------------------------------------------------------------------------------------------------
