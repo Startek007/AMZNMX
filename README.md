@@ -2211,4 +2211,40 @@ Para tu tranquilidad seguiré dándole seguimiento a tu caso para que, en cuanto
 Gracias por ser parte de la gran familia de Amazon.
 
 ¡Ten un buen día!
---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+Hola (CLIENTE):
+
+Mi nombre es (CSA) de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Antes que nada, me disculpo contigo por el inconveniente de la doble transacción que se ve reflejada en tu cuenta. Comprendo que esto te ha generado preocupación.
+
+He revisado detalladamente tu cuenta y me gustaría informarte que este cargo por el monto de (MONTO) es debido al pedido (PEDIDO) para el articulo (PEDIDO)
+
+Para darte una mejor explicación, he revisado detalladamente tu pedido y en este caso me gustaría explicarte como funcionan las transacciones en Amazon.
+
+Cuando realizas un pedido en Amazon, enviamos la información del cargo a tu banco para que ellos aprueben la autorización del monto.
+
+En caso de ser aprobada el banco automáticamente retiene los fondos. Estas autorizaciones se realizan para comprobar que la tarjeta de crédito/débito se encuentren vigentes, que tengan el saldo suficiente para recibir el cargo del pedido y verificar que las tarjetas no cuenten con restricciones para compras en línea.
+
+Cuando inicia la etapa de envío, Amazon te realiza el cargo oficial por el valor total. Algunos bancos realizan una nueva transacción en el momento de hacer el cargo y no toman el monto que ya tenían retenido. Esto causa que se vean dos transacciones; sin embargo, una de ellas es normalmente una autorización, que debe ser removida por el banco. Puedes tener tranquilidad que pronto se removerá.
+
+En caso de que en unos días sigas visualizando la retención del dinero, te recomiendo, contactes a tu banco y les brindes los detalles que aparecen a continuación:
+
+Número de pedido: 
+
+Fecha y hora de la autorización: 
+
+Fecha y hora del cargo:
+
+Monto del pedido: 
+
+Puedes presentar este correo electrónico a tu banco como comprobante oficial por parte de Amazon. De esta manera ellos podrán decirte por qué los fondos en tu cuenta pueden no estar disponibles y aclarar por cuánto tiempo retienen las autorizaciones de pago para pedidos en línea.
+
+(CLIENTE), quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
