@@ -1103,6 +1103,32 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#contactovendedor_v2
+
+Hola [NOMBRE CLIENTE]:
+
+Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Me disculpo por los inconvenientes que has tenido con tu orden [PEDIDO]. Comprendo que no recibir tu paquete en el tiempo estimado ha generado preocupación en tu persona.
+
+[NOMBRE CLIENTE], he revisado tu pedido detalladamente y puedo ver que ya te has contactado en varias ocasiones con el vendedor, en este caso basándome en tu solicitud e instrucciones, he contactado nuevamente al vendedor solicitando un reemplazo a la brevedad de lo posible y especificando que este sea enviado con un transportista diferente.
+
+Para poder visualizar el correo que he enviado al vendedor para interceder dale click al siguiente enlace:
+
+https://www.amazon.com.mx/gp/...nication-manager/outbox.html
+
+Ten la tranquilidad de que siempre te estaremos respaldando en todas tus compras.
+
+Recuerda que tu compra cuenta con la cobertura de la Garantía de la A a la Z. En dado caso que para el día [DATE] no recibes una respuesta del vendedor, puedes proceder a realizar el reclamo de tu garantía por el pedido [PEDIDO] introduciendo este número en el siguiente enlace :
+
+https://www.amazon.com.mx/gp/a-z-guarantee/submit-claim.html
+
+Quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [NOMBRE CLIENTE], antes que nada, me disculpo por la situación que se esta presentando respecto a la transacción que estas viendo reflejada por el monto de MX$1.00 en tu cuenta.
 
 Me gustaría informarte que esta transacción que ves por ahora es solo una autorización que se envía al banco, ten la tranquilidad de que este proceso se realiza solo para verificar que tu tarjeta de crédito esta vigente y puede ser utilizada para compras en linea.
