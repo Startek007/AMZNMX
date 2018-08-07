@@ -2273,4 +2273,26 @@ Gracias por ser parte de la gran familia de Amazon.
 ¡Te deseo un feliz día!
 
 
----------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+
+Hola (CLIENTE):
+
+Te saluda (CSA) de Amazon Mexico. 
+
+Como te prometí, realice un seguimiento referente a la devolución y reembolso del articulo (ARTICULO) en tu pedido (PEDIDO).
+
+Me gustaría notificarte que hemos recibido tu devolución y he procesado el reembolso por el monto de () a tu método de pago original.
+
+Normalmente estos reembolsos se ven reflejados en tu estado de cuenta en un período de 15 días naturales.
+
+Una vez procesado, podrás ver la solicitud de reembolso aquí: 
+
+https://www.amazon.com.mx/gp/css/summary/edit.html?orderID=(PEDIDO)
+
+(CLIENTE), quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
