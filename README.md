@@ -147,7 +147,8 @@ Como mencioné en la llamada, [Resolución al problema]
 
 Espero que esto sea de mucha ayuda. ¡Te deseo un feliz día y un buen fin de semana!
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Hola [NOMBRE CLIENTE],
 
 Soy [CSC] de Atención al Cliente de Amazon México, un gusto atenderte el día de hoy.
@@ -655,7 +656,7 @@ Para solucionar tu situación te he enviado un correo que contiene el enlace que
 
 Una vez abras el correo veras un enlace de color azul donde deberás dar click y este mismo te llevara a la página web donde podrás introducir una nueva contraseña.
 
-[CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
 
 Gracias por ser parte de la gran familia de Amazon.
 
