@@ -222,6 +222,30 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#garantíaAlaZ_v1
+
+Hola [NOMBRE CLIENTE]:
+
+Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Lamento mucho que aun estés a la espera de recibir el pedido [PEDIDO], créeme que no es la experiencia de compra que deseamos brindarte.
+
+Tras verificar los detalles del pedido, veo que fue hecho con [SELLER], un vendedor afiliado. Verás, en Amazon damos la oportunidad a vendedores independientes de ofrecer sus productos a través de nuestra página y brindar soporte a los clientes directamente.
+
+En este caso, veo que has contactado al vendedor previamente y [SELLER] no trabajó de acuerdo a nuestros lineamientos, por lo que presenté la protección de la Garantía de la A a la Z.
+
+Esta gestión toma normalmente entre 1-2 días hábiles en ser procesadas; sin embargo, en algunas ocasiones podrían tomar máximo 2 semanas a partir de la fecha en que se presente.
+
+Si se aprueba, recibirás un reembolso al método de pago original. Para más información de nuestra Garantía de la A a la Z visita: http://amzn.to/1OycN4T Agradecemos tu amable paciencia y comprensión.
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #Autorización_v2 
 
 Hola [NOMBRE CLIENTE]
@@ -293,6 +317,7 @@ Espero esta información sea de ayuda.
 ---------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------
 
+#reemplazonodisponible_v1
 
 Hola [NOMBRE CLIENTE]
 
@@ -311,7 +336,11 @@ Espero esta información resuelva tus dudas.
 ¡Te deseo un feliz fin de semana!
 
 ---------------------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------------------Hola [CLIENTE]:
+---------------------------------------------------------------------------------------------------------------------------------
+
+#TarjetadeRegalo_v1
+
+Hola [CLIENTE]:
 
 Mi nombre es [CSA] de Atención al Cliente de Amazon México. Es un gusto atenderte.
 
@@ -432,6 +461,8 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#RespuestaTransportista_v1
+
 Hola [NOMBRE CLIENTE]:
 
 Mi nombre es [CSA] de Atención al Cliente de Amazon México.
@@ -439,7 +470,6 @@ Mi nombre es [CSA] de Atención al Cliente de Amazon México.
 Este correo electrónico es para informarte que hemos recibido respuesta de parte del transportista [NOMBRE TRANSPORTISTA] en referencia al numero de pedido [PEDIDO] para el producto [NOMBRE PRODUCTO O ARTICULO] con numero de guía [TRACKING NUMBER]. 
 
 [TRANSPORTISTA] ha respondido :
-
 
 
 [RESPUESTA DEL TRANSPORTISTA]
@@ -479,7 +509,7 @@ confirmar que el pedido se encuentra atrasado pero continua en tránsito.
 Entiendo que [SITUACION] por lo que necesitas que llegue lo antes posible. No te preocupes, me he puesto
 en contacto con [TRANSPORTISTA] para notificarlos de este retraso y solicitar que actualicen la información de seguimiento y entreguen el paquete a la brevedad.
 
-En caso de que no lo recibas para el día [FECHA Y HORA DE LOS TRACES], por favor avísanos.
+En caso de que no lo recibas para el día [DATE], por favor avísanos.
 
 Agradecemos tu comprensión y paciencia en este caso. 
 
@@ -525,7 +555,9 @@ Lamento que [RAZON DE LA DEVOLUCIÓN
 
 Te confirmo que el paquete se encuentra en este momento con DHL y estamos a la espera de que este sea entregado en nuestras instalaciones. Una vez entregado, el paquete será asignado a una revisión de rutina, donde van a escanear la etiqueta de rastreo para que se pueda procesar el reembolso.
 
-Te enviaremos un correo electrónico cuando el reembolso haya sido procesado. El tiempo máximo para recibir esta confirmación es de dos semanas ([Fecha Aproximada del Reembolso]) luego de que se envió el producto de regreso con DHL.
+Te enviaremos un correo electrónico cuando el reembolso haya sido procesado.
+
+Normalmente estos reembolsos son procesados en un período máximo de 2 semanas, sin embargo, si no recibes la notificación del reembolso antes de [DATE], te solicito amablemente nos contactes nuevamente para que podamos procesar el reembolso manualmente.
 
 Espero que tengas un buen día.
 
@@ -552,6 +584,8 @@ Gracias por ser parte de la gran familia de Amazon.
 ¡Ten un buen día!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Greetings_v1
 
 Hola [NOMBRE CLIENTE]: 
 
@@ -585,6 +619,8 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#nodisponible_v2 #outofstock_v2
+
 Hola [CLIENTE NOMBRE],
 
 Mi nombre es José de Atención al Cliente de Amazon México.
@@ -605,7 +641,9 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ¡Ten un buen día!
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Contraseña_v1
 
 Hola [NOMBRE CLIENTE],
 
@@ -625,11 +663,45 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#Despedidas_v1
+
 [NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
 
 Gracias por ser parte de la gran familia de Amazon.
 
 ¡Te deseo un feliz día y una excelente semana!
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz fin de semana!
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día y una excelente semana!
+
+Quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz fin de semana!
+
+Quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -671,7 +743,7 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#transportista #instrucciones 
+#InstruccionesTransportista_v1
 
 Hola [NOMBRE CLIENTE],
 
@@ -689,11 +761,13 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#AmazonRecargable_v1 #Banorte_v1
+
 Hola [NOMBRE CLIENTE],
 
 Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
 
-Primeramente espero que estés pasando un excelente día. Comprendo que has hecho el deposito de los MEX$500.00, sin embargo, no has recibido la tarjeta física.
+Comprendo que nos contactas debido a que has hecho el deposito de los MEX$500.00, sin embargo, no has recibido la tarjeta física.
 
 En este caso, he contactado a BANORTE, S.A  y ellos me han notificado que por seguridad, el Banco brinda esta información únicamente al titular de la tarjeta. En base a esto me han comentado que tienes que contactarte con ellos o acudir a una sucursal para que se pueda crear un folio y resolver tu caso.
 
@@ -737,7 +811,7 @@ Gracias por ser parte de la gran familia de Amazon.
 ¡Te deseo un feliz día y un buen fin de semana!
 
 ---------------------------------------------------------------------------------------------------------------------------------
-#DHL #estado #devolucion
+#DHL #estado #devolucion #EstadodeReembolso_v1
 
 Hola [NOMBRE CLIENTE]:
 
@@ -758,7 +832,7 @@ Gracias por ser parte de la gran familia de Amazon.
 ¡Te deseo un feliz día!
 ---------------------------------------------------------------------------------------------------------------------------------
 
-Out of Stock 
+#OutofStock_v3 #NoDisponible_v3 
 
 Hola [NOMBRE CLIENTE]:
 
@@ -844,7 +918,7 @@ En esta ocasión, no requerimos que devuelvas el producto. Te invitamos a conser
 
 He procesado un reembolso a tu método de pago original de Mex$[MONTO] por tu pedido #[PEDIDO]. Si bien este reembolso ya se completó en nuestro sistema, es probable que tu banco tenga algún proceso adicional. El tiempo de acreditación del dinero por parte del banco puede variar según la entidad, pero para tu tranquilidad este proceso debería estar listo en un máximo de 15 días naturales.
 
-​He procesado un reembolso de Mex$[MONTO] por tu pedido #[PEDIDO] como tarjeta de regalo a tu cuenta de Amazon. De esta manera tendrás el reembolso de una manera más rápida, el saldo registra aproximadamente dentro 2 a 48 horas y se aplicará automáticamente a tu siguiente pedido que cumpla los requisitos. Podrás ver tu saldo y actividad aquí:
+He procesado un reembolso de Mex$[MONTO] por tu pedido #[PEDIDO] como tarjeta de regalo a tu cuenta de Amazon. De esta manera tendrás el reembolso de una manera más rápida, el saldo registra aproximadamente dentro 2 a 48 horas y se aplicará automáticamente a tu siguiente pedido que cumpla los requisitos. Podrás ver tu saldo y actividad aquí:
 
 https://www.amazon.com.mx/gp/css/gc/balance/
 
@@ -884,13 +958,13 @@ Gracias por ser parte de la gran familia de Amazon.
 ¡Ten un buen día!
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#norecibido #deliverednotreceived #transportista
+#norecibido_v1 #deliverednotreceived_v1 #transportista
 
 Hola [NOMBRE CLIENTE]
 
 Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
 
-Andre, antes que nada, me disculpo por la situación que se esta presentando con tu pedido [PEDIDO]. Comprendo que puede ser preocupante para tu persona el no haber recibido tu paquete.
+[NOMBRE CLIENTE], antes que nada, me disculpo por la situación que se esta presentando con tu pedido [PEDIDO]. Comprendo que puede ser preocupante para tu persona el no haber recibido tu paquete.
 
 Sin embargo, ten la tranquilidad que en Amazon siempre respaldamos tus compras. Me gustaría explicarte que, en ocasiones, un transportista escanea un paquete como entregado por error cuando, en realidad, aún está en camino. Cuando esto ocurre, esperamos que el transportista entregue el paquete en el transcurso de un día hábil.
 
@@ -930,6 +1004,7 @@ Gracias por ser parte de la gran familia de Amazon.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#Irregularidades_v1 #Fake_v1 #Falso_v1
 
 Hola [NOMBRE CLIENTE]
 
@@ -973,6 +1048,8 @@ Puedes ver una lista completa de los beneficios de la membresía Prime en Amazon
 https://www.amazon.com.mx/gp/...isplay.html?nodeId=201910360
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Reembolsocompleto_v1 #Confirmación_v1
 
 Hola [NOMBRE CLIENTE],
 
@@ -1018,6 +1095,8 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#Cancelarordern_v1 #Cancelación_v1
+
 Hola [NOMBRE CLIENTE],
 
 Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
@@ -1038,6 +1117,8 @@ Gracias por ser parte de la gran familia de Amazon.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EstadodeReembolso_v1 #Reembolsoenproceso_v1
 
 Hola [NOMBRE CLIENTE],
 
@@ -1129,6 +1210,8 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#MEX$1_Autorización_v1
+
 [NOMBRE CLIENTE], antes que nada, me disculpo por la situación que se esta presentando respecto a la transacción que estas viendo reflejada por el monto de MX$1.00 en tu cuenta.
 
 Me gustaría informarte que esta transacción que ves por ahora es solo una autorización que se envía al banco, ten la tranquilidad de que este proceso se realiza solo para verificar que tu tarjeta de crédito esta vigente y puede ser utilizada para compras en linea.
@@ -1143,7 +1226,7 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ¡Te deseo un feliz día y un buen fin de semana!
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hola [NOMBRE CLIENTE]: 
 
@@ -1160,9 +1243,9 @@ Como opción adicional, puedes rechazar el pedido al momento de la entrega o pod
 Para más información sobre los pedidos a meses sin intereses, por favor visita los siguientes enlaces:
 https://www.amazon.com.mx/gp/...1-1?ie=UTF8&nodeId=202057450
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Retroalimentación Transportista
+Retroalimentación_Transportista_v1
 
 Para el transportista
 
@@ -1178,9 +1261,9 @@ Muchas gracias por la atención brindada.
 
 A continuación, va incluida una encuesta que es únicamente para clientes, por favor no responder a la misma.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#refundprime #reembolso #prime #completo
+Refund_Prime_Completo_v1
 
 Hola [NOMBRE CLIENTE],
 
@@ -1200,9 +1283,9 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ¡Te deseo un feliz día y una excelente semana!
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#pricechange #change #price
+Cambio_Precio_v1
 
 Mi nombre es [CSA] de Atención al Cliente de Amazon México. Es un gusto atenderte. 
 
@@ -1214,32 +1297,9 @@ Quedamos atentos a tu respuesta para brindarte detalles.
 
 En general, te comento que los precios pueden variar por diversos factores, como disponibilidad del producto, su demanda y la velocidad del envío que hayas seleccionado. También al observar el producto en la página podrías encontrar diferentes precios si es que el mismo producto es vendido por diferentes vendedores. Además, en el caso de los productos importados desde Amazon EE.UU, el producto podría llevar costos de importación adicionales que se muestran durante el proceso de compra.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Consulta sobre cómo conseguir una factura, consulta antes de la compra
-
-Hola [NOMBRE CLIENTE]: 
-
-Mi nombre es [CSA] de Atención al Cliente de Amazon México. Es un gusto atenderte. 
-
-He recibido tu consulta sobre la facturación del
-
-Para poder solicitar una factura electrónica (CFDI, Comprobante Fiscal Digital por Internet), debes contar con un RFC y registrarlo en tu cuenta de Amazon. Podemos proporcionar facturas electrónicas para los pedidos vendidos y enviados por Servicios Comerciales Amazon México. Hay instrucciones detalladas sobre cómo solicitar una factura CFDI en nuestras páginas de Ayuda:
-
-http://www.amazon.com.mx/gp/h...isplay.html?nodeId=202057430
-
-Si necesitas una factura CFDI de un producto vendido por un vendedor tercero, contacta al vendedor directamente y solicítale una. Recuerda que algunos vendedores son extranjeros y no están registrados para fines fiscales en México. En este caso, no podrán emitir facturas CFDI. Como recomendación, si necesitas la factura es mejor confirmar con ellos si pueden generar la factura antes de hacer la compra. Puedes ver más información sobre cómo contactar a los vendedores aquí:
-
-http://www.amazon.com.mx/gp/h...isplay.html?nodeId=201889690
-
-Para los productos vendidos por Amazon EE. UU. lamentablemente, no podemos proporcionar facturas electrónicas CFDI. Sin embargo puedes imprimir tu recibo aquí: https://www.amazon.com.mx/gp/...ry/edit.html?orderID=[PEDIDO].
-Los comprobantes fiscales digitales (CFDI) son emitidos conforme a las disposiciones establecidas por el SAT y contienen la clave del RFC. No requieren contener nombre, denominación o razón social ni domicilio fiscal. Para más información puedes consultar directamente la página oficial del SAT:
-
-http://www.sat.gob.mx/informa...actura_electronica_cfdi.aspx
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Meses sin Intereses/ MSI no aplicado debido al cargo Declinado
+MSI_No_Aplicado_v1 / CargoDeclinado
 
 Hola [NOMBRE CLIENTE]: 
 
@@ -1256,12 +1316,13 @@ Como opción adicional, puedes rechazar el pedido al momento de la entrega o pod
 Para más información sobre los pedidos a meses sin intereses, por favor visita los siguientes enlaces:
 https://www.amazon.com.mx/gp/...1-1?ie=UTF8&nodeId=202057450
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+MSI_No_Aplicado_v2 / CargoDeclinado
 
 Hola [NOMBRE CLIENTE]: 
 
 Mi nombre es [CSA] de Atención al Cliente de Amazon México. Es un gusto atenderte. 
-
 
 Lamento que no se haya aplicado el sistema de meses sin intereses en tu pedido #[PEDIDO].
 
@@ -1278,9 +1339,9 @@ https://tiny.amazon.com/lyjw38u9/amazmxgphelpcustdispref
 
 Si tienes alguna consulta adicional sobre estas opciones, visita: https://www.amazon.com.mx/gp/help/customer/contact-us
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Confirmar tiempo reembolso 
+Tiempo_Reembolso_v1 
 
 Hola [NOMBRE CLIENTE]: 
 
@@ -1296,7 +1357,7 @@ Te confirmo que el paquete se encuentra en este momento con [Transportista] y es
 
 Te enviaremos un correo electrónico cuando el reembolso haya sido procesado. El tiempo máximo para recibir esta confirmación es de dos semanas luego de que enviaste el producto de regreso con [TRANSPORTISTA].
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Si el cliente canceló, dice que no lo hizo y pide igualación de Precio / Order cancelled / Price match
 
@@ -1316,7 +1377,7 @@ Para obtener más información acerca de nuestros precios, visita nuestras pági
 
 https://www.amazon.com.mx/gp/...splay.html/?nodeId=201133150
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Si el cliente solicita el reemplazo
 
@@ -1342,14 +1403,14 @@ Si el enlace no funcionara, asegúrate de haber ingresado en la misma cuenta des
 
 (SI ES UNA ETIQUETA PREPAGADA)
 
-Puedes contactar a DHL al número 01-800-7656-345 para agendar una recolección. Además, puedes rastrear tu paquete en: http://www.dhl.com.mx/es.html
+Puedes contactar a DHL al número +52 (55) 5345 7000 para agendar una recolección. Además, puedes rastrear tu paquete en: http://www.dhl.com.mx/es.html
 
 (SI LA ETIQUETA ES ANYCARRIER)
 En este caso, la devolución debe realizarse con el transportista de tu preferencia. Luego envíanos una copia de la factura respondiendo a este mismo correo electrónico o bien a la dirección primary@amazon.com y te reembolsaremos el costo del retorno como una tarjeta de regalo a tu cuenta de Amazon.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Opción reemplazo reembolso /Replacement or refund
+Reemplazo_o_Reembolso_v1
 
 Hola [NOMBRE CLIENTE]: 
 
@@ -1365,7 +1426,7 @@ En este caso, podemos gestionar la devolución del producto y te podemos ofrecer
 
 Por favor, solamente contesta a este correo electrónico dejándonos saber cuál es tu decisión respecto a las opciones que te ofrecemos. En cuanto recibamos tu mensaje, llevaremos a cabo las acciones necesarias.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Pedido cancelado por vendedor /Order cancelled Third party seller
 
@@ -1387,9 +1448,9 @@ Por favor espera dos días hábiles para recibir una respuesta. Cuando el vended
 
 Recuerda que con las compras realizadas a vendedores cuentas con el respaldo de la Garantía de la A a la Z.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Seguimiento / followup
+Seguimiento_v1
 
 Hola [NOMBRE CLIENTE]: 
 
@@ -1401,9 +1462,9 @@ Te comento [NOMBRE CLIENTE], he abierto una investigación con nuestros especial
 
 Muchas gracias por tu paciencia mientras continuamos trabajando tu caso.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Si pasó la fecha garantizada /Missed GDD Guaranteed delivery date
+Pedido_Atrasado_Delay_v1
 
 Hola [NOMBRE CLIENTE]: 
 
@@ -1423,9 +1484,9 @@ Si no te funciona esperar por el producto hasta el [DATE], que es la fecha máxi
 
 Si te parece esperar por el pedido hasta la fecha estimada de entrega actual, no es necesario que nos indiques. En caso de que no lo recibas para el día [DATE], por favor avísanos.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Si el cliente pide una nueva entrega. /Reschedule delivery
+Reschedule_v1
 
 Hola [NOMBRE CLIENTE]: 
 
@@ -1443,10 +1504,9 @@ Número de rastreo:
 Teléfono:
 Sitio web:
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Paquete perdido / No es posible localizar el paquete / Lost in transit
-Si el pedido registra como perdido
+Paquete_Perdido_v1
 
 Hola [NOMBRE CLIENTE]: 
 
@@ -1469,9 +1529,9 @@ En este caso, a pesar de que nos encantaría, no te podemos enviar un reemplazo 
 
 Si prefieres cambiar tu reembolso a tu tarjeta original de pago, por favor indícalo contestando este correo antes de usar la tarjeta de regalo. Las devoluciones a tarjeta de crédito/débito pueden durar 15 días naturales por parte del banco.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Se cobró un precio erróneo / Charged wrong price
+Precio_Erroneo_v1
 
 Cuando el sistema cobra un monto diferente al del correo de confirmación, primero revisar con DART
 
@@ -1493,13 +1553,13 @@ Ten por seguro que cuentas con nuestro total respaldo, por lo que ante cualquier
 
 TRACES - PERDIDO EN TRANSITO
 
-Hola (CLIENTE):
+Hola [NOMBRE CLIENTE]:
 
 Mi nombre es (CSA) de Atención al Cliente de Amazon México. Es un gusto atenderte.
 
-Lamento mucho saber que aún estás a la espera de tu pedido #(PEDIDO) para el articulo (ARTICULO).
+Lamento mucho saber que aún estás a la espera de tu pedido [PEDIDO].
 
-Tras contactar a (TRANSPORTISTA), puedo confirmar que lastimosamente el paquete se ha extraviado en tránsito. 
+Tras contactar a [TRANSPORTISTA], puedo confirmar que lastimosamente el paquete se ha extraviado en tránsito. 
 
 En este caso, debido a este inconveniente, te podemos ofrecer las siguientes opciones, de las cuáles debes elegir la que mejor te parezca:
 
@@ -1513,13 +1573,13 @@ Por favor, solamente contesta a este correo electrónico dejándonos saber cuál
 
 Para tu tranquilidad seguiré dándole seguimiento a tu caso para que, en cuanto recibamos tu mensaje, llevemos a cabo las acciones necesarias a la brevedad.
 
-(CLIENTE), quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
 
 Gracias por ser parte de la gran familia de Amazon.
 
 ¡Ten un buen día!
 
------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Confirmación de compra con MSI 
 
@@ -1538,7 +1598,7 @@ Dicho esto [NOMBRE CLIENTE], si tu banco realizó el cargo por la totalidad, te 
 
 Puedes presentarles este correo electrónico como comprobante oficial por parte de Amazon.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Meses sin Intereses/ MSI no aplicado debido al cargo Declinado / Payment declined MSI 
 
@@ -1557,9 +1617,9 @@ Como opción adicional, puedes rechazar el pedido al momento de la entrega o pod
 Para más información sobre los pedidos a meses sin intereses, por favor visita los siguientes enlaces:
 https://www.amazon.com.mx/gp/...1-1?ie=UTF8&nodeId=202057450
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Meses sin intereses / Cómo aplicar
+MSI_Aplicar_v1
 
 #payments_installments_how
 
@@ -1580,9 +1640,9 @@ Si gustas obtener más información sobre los requisitos de los planes de pago c
 
 https://www.amazon.com.mx/gp/...splay.html/?nodeId=202057450 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Disponibilidad de un producto / Availability of an item / Out of stock
+Disponibilidad_Artículo_v1
 
 Hola [NOMBRE CLIENTE]: 
 
@@ -1595,9 +1655,9 @@ Revisando en nuestra página web veo que efectivamente estos productos están te
 (SI HAY OPCIÓN DE REGISTRAR EL CORREO PARA NOTIFICACIÓN)
 Otra alternativa sería realizar la compra desde ahora y te enviaremos un correo electrónico cuando el producto esté disponible. Si lo compras ahora, Amazon mantendrá el mismo precio aunque pueda aumentar de modo considerable en nuestra página web y si luego ya no necesitas el artículo o encuentras una alternativa más conveniente, recuerda que puedes cancelar el pedido y no te cobraremos.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Producto no disponible, lo tenía en el carrito / Out of stock in the shopping cart
+No_Disponible_Carrito_v1
 
 Hola [NOMBRE CLIENTE]: 
 
@@ -1614,9 +1674,9 @@ El producto que nos mencionas, con ASIN XXXXX esta temporalmente agotado y estam
 
 Ya que es un producto con una gran demanda, te recomendamos estar atento nuestro sitio web, en cuanto tengamos más unidades tendremos toda la información disponible en nuestra página.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Cerrar la cuenta / close account
+Cerrar_Cuenta_v1
 
 Si el cliente confirma los datos para cerrar la cuenta
 
@@ -1632,9 +1692,9 @@ Si decides abrir una cuenta nueva con nosotros en el futuro, puedes usar tu dire
 
 [NOMBRE CLIENTE], te agradecemos por elegirnos y te deseamos lo mejor para el futuro.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Suspicious E-mail Received 
+Spam_v1 Correo_Sospechoso_v1
 
 Correo fraudulento 
 
@@ -1652,9 +1712,9 @@ Si has abierto un archivo adjunto de un correo electrónico, te sugerimos que us
 
 Si respondes a un correo electrónico sospechoso o visitas una web falsa e introduces tus datos de inicio de sesión de Amazon.com.mx (o de cualquier otra información personal), personas no autorizadas pueden obtener dicha información. En este caso, te recomendamos que actualices tu contraseña de Amazon.com.mx inmediatamente. Si has facilitado información financiera, contacta con tu entidad bancaria o proveedor de tarjetas de crédito e informa de lo sucedido.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-FRSADMIN / Orden cancelada fraude / Order cancelled fraud frsadmin
+FRSADMIN_v1
 
 Hola [NOMBRE CLIENTE],
 
@@ -1666,9 +1726,9 @@ Queremos informarte que hemos trabajado en conjunto con nuestro departamento de 
 
 Te recomendamos revisar los datos de tu tarjeta y realizar el pedido nuevamente. En caso de que la situación persista, por favor contacta a tu banco o cambia el método de pago.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Arrange Pick UP DHL
+Pick_Up_v1
 
 Hola [NOMBRE CLIENTE]: 
 
@@ -1680,9 +1740,9 @@ Por favor contacta a DHL al número 01-800-7656-345 para agendar una recolecció
 
 Además puedes rastrear tu paquete en: http://www.dhl.com.mx/es.html
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Solicitar Garantía de la A a la Z / A to Z Guarantee Claim
+Garantía_A_Z_v2
 
 Hola [NOMBRE CLIENTE]: 
 
@@ -1698,9 +1758,9 @@ Esta gestión toma normalmente entre 1-2 días hábiles en ser procesadas; sin e
 
 Para más información de nuestra Garantía de la A a la Z visita: http://amzn.to/1OycN4T
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Contacto vendedor, cuando le escribes a un vendedor, primer contacto / Contact seller
+Contacto_Vendedor_Seller_v1
 
 Hola [NOMBRE CLIENTE]: 
 
@@ -1722,7 +1782,7 @@ De igual manera, puedes tener tranquilidad ya que tu compra tiene el respaldo de
 
 https://www.amazon.com.mx/gp/a-z-guarantee/submit-claim.html
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Cargo encontrado / Unknown Charge Found 
 
@@ -1739,7 +1799,7 @@ Quisiera explicarte por qué se cobró la membresía. El [FECHA DE LA MEMBRESÍA
 Cabe mencionar que la membresía es opcional, por lo que si deseas proceder con la cancelación, por favor responde a este correo electrónico confirmando la solicitud y con gusto te ayudaremos con la gestión.
 [DESPEDIDA DE ACUERDO AL ESCENARIO].
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Cargo desconocido Cargo no encontrado / Unknown charge not found
 
@@ -1761,9 +1821,10 @@ Por seguridad, por favor comparte esta información únicamente vía telefónica
 
 Ten en cuenta que por asuntos legales y de privacidad estamos limitados en cuanto a la información que podemos proporcionar. Dependiendo del resultado de nuestra investigación, es posible que debas contactar a tu banco para resolver este tema.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Facturación > Solicitud de factura CFDI 
+
+Facturación_Solicitud_CFDI_v1
 
 Factura manual solicitada 
 
@@ -1783,9 +1844,7 @@ Los comprobantes fiscales digitales (CFDI) son emitidos conforme a las disposici
 
 http://www.sat.gob.mx/informa...actura_electronica_cfdi.aspx 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Autorización vs Cargo / Authorization vs Charge
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #autovscargov1
 
@@ -1809,6 +1868,7 @@ Monto del pedido: Mex$[MONTO]
 Puedes presentar este correo electrónico a tu banco como comprobante oficial por parte de Amazon. De esta manera ellos podrán decirte por qué los fondos en tu cuenta pueden no estar disponibles y aclarar por cuánto tiempo retienen las autorizaciones de pago para pedidos en línea.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #pagodeclinado_v1
 
 Hola [NOMBRE CLIENTE]:
@@ -1841,7 +1901,7 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ¡Te deseo un feliz día!
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Contactar al fabricante / return window expired / contact manufacturer
 
@@ -1868,9 +1928,9 @@ El fabricante puede exigir una prueba de compra, como una factura, antes de envi
 
 https://www.amazon.com.mx/gp/...ry/print.html?orderID=[ORDER ID]
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Pedido cancelado por falta de inventario Amazon MX. / Out of stock cancelled
+Cancelado_Inventario_v1
 
 #OR_canceled_MX
 
@@ -1888,7 +1948,7 @@ Puedo confirmar que el producto ya no se encuentra disponible en la página vend
 
 En el caso de cancelaciones de pedidos a Meses sin intereses se procede entonces a realizar un reembolso, el cual puede tomar entre solo unos días, máximo unos 15 días naturales por parte del banco. 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Si no hay información del paquete en el rastreo / No info tracking number
 #S_lost_noinfo
@@ -1926,7 +1986,7 @@ Quedamos atentos a tu respuesta en caso de que quieras realizar el cambio en el 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Hola (Cliente):
+Hola [NOMBRE CLIENTE]:
 
 Mi nombre es (CSA) de Atención al Cliente de Amazon México. Es un gusto atenderte.
 
@@ -1936,9 +1996,9 @@ En respuesta a tu consulta, he realizado una profunda investigación y encontram
 
 Hemos corregido el inconveniente y tu pedido se despacho con los siguientes transportistas:
 
-Para el articulo (PRODUCTO), tu pedido se despacho con (TRANSPORTISTA) con el numero de guía (NUMERO DE GUIA).
+Tu pedido se despacho con el transportista [TRANSPORTISTA] con numero de guía [TRACKING].
 
-Los artículos serán entregados el día (FECHA DE ENTREGA).
+Los artículos serán entregados el día [DATE].
 
 Puedes ver la información de rastreo disponible en el resumen del pedido en Mi cuenta:
 
@@ -1952,7 +2012,7 @@ Como compensación por el inconveniente, queremos ofrecerte las siguientes opcio
 
 Por favor, solamente contesta a este correo electrónico dejándonos saber cuál es tu decisión respecto a las opciones que te ofrecemos. En cuanto recibamos tu mensaje, llevaremos a cabo las acciones necesarias.
 
-(CLIENTE), quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
 
 Gracias por ser parte de la gran familia de Amazon.
 
@@ -1982,7 +2042,7 @@ Cuando compras un producto importado desde Amazon EE.UU. las fechas brindadas su
 
 He programado un seguimiento para monitorear tu pedido y confirmar contigo si recibiste el pedido en la fecha máxima, para tomar las acciones que sean necesarias.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Fuera de inventario / Out of stock
 
@@ -2000,7 +2060,7 @@ Te recomiendo lo siguiente, en caso de que necesitaras el producto lo más pront
 
 Cuando el pedido se despache, te enviaremos un correo electrónico para que puedas rastrear el paquete, incluyendo la fecha de entrega actualizada.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Cuando el cliente dice que la página le dio una fecha es diferente.*
 
@@ -2018,15 +2078,9 @@ Al hacer un pedido, el sistema te permite verificar la fecha de entrega en la p�
 
 Cuando el pedido sea enviado recibirás un correo electrónico. En caso de que ya no necesites el producto y prefieras un reembolso, puedes rechazar el paquete al momento de la entrega
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#outofstock #inventario 
-
-Como comprenderás Amazon al igual que otras tiendas es distribuidor, por esa razón nosotros también dependemos de que los fabricantes nos hagan llegar las unidades que ofrecemos a nuestros clientes. Siempre se conversan fechas posibles para las entregas y por eso es que se ofrecen los productos y una fecha estimada. Si esas fechas no se cumplen por parte del fabricante nosotros debemos informar a los clientes sobre estos posibles cambios.
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Cambiar USO factura CFDI
+Uso_Factura_CFDI_v1
 
 #payments_CFDI_uso 
 
@@ -2040,7 +2094,9 @@ http://www.sat.gob.mx/informa...Documents/GuiaAnexo20DPA.pdf
 
 Si bien el uso es un requisito fiscal, al mismo tiempo el SAT menciona que si se le da otro uso no habrá inconvenientes.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Banorte_v2
 
 Hola [NOMBRE CLIENTE],
 
@@ -2053,8 +2109,13 @@ Recibirás tu tarjeta física de 4-6 días hábiles después de haber depositado
 https://amzn.to/2In1qA7
 
 Si ya realizaste la recarga y no la has recibido, te recomendamos llamar a Banorte. Por seguridad, el Banco brinda esta información únicamente al titular de la tarjeta.
--------------------------------------------------------------------------------------------------------------------------------
-Hola (Cliente):
+
+---------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+
+Autorización_Orden_Cancelada_v1
+
+Hola [NOMBRE CLIENTE]:
 
 Mi nombre es (CSA) de Atención al Cliente de Amazon México. Es un gusto atenderte.
 
@@ -2072,11 +2133,8 @@ En caso de que continúes visualizando esta autorización por más de 10 días,�
 
 Gracias por ser parte de la gran familia de Amazon.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-​​​​​​​*************************************************************************************************************************
-¡Ten un buen día!
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Order canceled-Aplicar promocion. 
 
 Hola (Cliente):
@@ -2127,8 +2185,9 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ¡Ten un buen día!
 
--------------------------------------------------------------------------------------------------------------------------------------
-#aduanas #retraso 
+---------------------------------------------------------------------------------------------------------------------------------
+
+Aduanas_Retraso_v1
 
 Hola [NOMBRE CLIENTE],  
 
@@ -2142,40 +2201,13 @@ Ten la tranquilidad que todas tus compras están respaldadas por nosotros por lo
 Te aseguro que el transportista está realizando las gestiones que están a su alcance para agilizar ésta entrega. Te enviaremos una notificación a tu correo electrónico cuando el producto esté en ruta hacia tu dirección.
 Cuando compras un producto importado desde Amazon EE.UU las fechas brindadas suelen ser estimadas, ya que en ocasiones se puede durar un poco más de lo esperado en la inspección aduanal.
 
-
----------------------------------------------------------------------------------------------------------------------------------
-SELLER 
-
-Hola (Cliente):
-
-Mi nombre es (CSA) de Atención al Cliente de Amazon México. Es un gusto atenderte.
-
-Me disculpo por los inconvenientes que has tenido con tu pedido (Pedido) ya que te llego dañado.
-
-Al revisar los detalles, veo que fue realizado con (Vendedor), uno de nuestros vendedores afiliados. Para poder ayudarte con esta situación, le he enviado un correo explicando lo que ocurrió y solicitando de manera inmediata una solución.
-
-En Amazon respaldamos a nuestros clientes y al mismo tiempo mediar con el vendedor, el proceso a seguir es brindar al vendedor la oportunidad para poder ofrecer opciones para tu conveniencia. Recibiremos respuesta del vendedor en los siguientes 2 días hábiles. 
-
-Para poder visualizar el correo que he enviado al vendedor para interceder dale click al siguiente enlace:
-
-https://www.amazon.com.mx/gp/...nication-manager/outbox.html
-
-De igual manera, puedes tener tranquilidad ya que tu compra tiene el respaldo de la Garantía de la A a la Z. En caso de no recibir una respuesta de parte del vendedor, te estaré contactando para iniciar el proceso de dicha garantía.
-
-Para ello, realizare un seguimiento personal en tu pedido para asegurarnos de  recibir una respuesta del vendedor y realizar las acciones necesarias. 
-
-(Cliente), quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos y te agradezco sinceramente tu comprensión y tu paciencia mientras continuamos trabajando en tu pedido.
-
-Gracias por ser parte de la gran familia de Amazon.
-
-¡Te deseo un feliz día!
-
 --------------------------------------------------------------------------------------------------------------------------------
-Hola Jair:
 
-Mi nombre es Andrea de Atención al Cliente de Amazon México. Es un gusto atenderte.
+Hola [NOMBRE CLIENTE]:
 
-Me disculpo por la situación que se esta presentando con el articulo (Articulo). Comprendo que estas intentando realizar una compra, sin embargo, por alguna razón no recibes el descuento del carrito del ahorro.
+Mi nombre es [CSA] de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Me disculpo por la situación que se esta presentando con el articulo [ITEM]. Comprendo que estas intentando realizar una compra, sin embargo, por alguna razón no recibes el descuento del carrito del ahorro.
 
 En respuesta a tu consulta, he realizado una profunda investigación y para ayudarte de la mejor manera posible, debido al inconveniente, puedes realizar el pedido de este articulo con las 4 unidades siguiendo los términos y condiciones y en caso de que no sea aplicado de manera automatica, aplicaremos el descuento de manera manual y para ello, te ofrecemos las siguientes opciones, de las cuáles debes elegir la que mejor te parezca:
 
@@ -2199,7 +2231,7 @@ Puede ver los términos y condiciones de la promoción en la siguiente liga:
 
 https://www.amazon.com.mx/gp/browse.html/ref=pe_3853740_293673070_pe_tag/?node=17916864011
 
-(Cliente), quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos. Quedamos atentos a tu respuesta.
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos. Quedamos atentos a tu respuesta.
 
 Gracias por ser parte de la gran familia de Amazon.
 
@@ -2208,21 +2240,20 @@ Gracias por ser parte de la gran familia de Amazon.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------
-NO TRACES/ DELIVERED NOT RECEIVED
 
-ENTREGADO NO RECIBIDO. 
+NO_TRACES_v1
 
-Hola (Cliente):
+Hola [NOMBRE CLIENTE]:
 
-Mi nombre es (CSA) de Atención al Cliente de Amazon México. Es un gusto atenderte.
+Mi nombre es [CSA] de Atención al Cliente de Amazon México. Es un gusto atenderte.
 
-Lamento mucho saber que aún estás a la espera de tu pedido # (pedido) para el articulo (articulo).
+Lamento mucho saber que aún estás a la espera de tu pedido [PEDIDO].
 
 Como nos informas, el paquete aparece como entregado, sin embargo, aún no lo has recibido y debido a ello, podemos confirmar que lastimosamente el paquete se ha extraviado.
 
-En este caso, aunque nos encantaría enviarte un reemplazo, el artículo es vendido por (Vendedor), uno de nuestro vendedores afiliados y no contamos con el mismo en nuestro inventario de Amazon México.
+En este caso, aunque nos encantaría enviarte un reemplazo, el artículo es vendido por [SELLER], uno de nuestro vendedores afiliados y no contamos con el mismo en nuestro inventario de Amazon México.
 
-Debido a este inconveniente, te podemos ofrecer las siguientes opciones, de las cuáles debes elegir la que mejor te parezca:
+En base a esto, te podemos ofrecer las siguientes opciones, de las cuáles debes elegir la que mejor te parezca:
 
 1.  Te podemos hacer un reembolso completo a tu método de pago original y se vera reflejado en el estado de cuenta de tu tarjeta de crédito en 15 días naturales.
 
@@ -2232,11 +2263,12 @@ Por favor, solamente contesta a este correo electrónico dejándonos saber cuál
 
 Para tu tranquilidad seguiré dándole seguimiento a tu caso para que, en cuanto recibamos tu mensaje, llevemos a cabo las acciones necesarias a la brevedad.
 
-(Cliente), quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
 
 Gracias por ser parte de la gran familia de Amazon.
 
 ¡Ten un buen día!
+
 ---------------------------------------------------------------------------------------------------------------------------------
 Hola (CLIENTE):
 
@@ -2295,4 +2327,3 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ¡Te deseo un feliz día!
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
