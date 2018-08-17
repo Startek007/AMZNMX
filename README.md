@@ -301,6 +301,26 @@ Espero esta información sea de ayuda.
 ---------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------
 
+Reembolso_Vendedor_Seller_v1
+
+Hola [NOMBRE CLIENTE]
+
+
+Soy nuevamente [CSA], asesor de atención al cliente de Amazon México
+
+He estado dándole seguimiento a tu pedido [PEDIDO], por el cual se había contactado al vendedor solicitando un reembolso.
+
+[NOMBRE CLIENTE], permíteme informarte que el vendedor [SELLER], ha hecho un reembolso por el monto MEX$[MONTO] a tu método de pago original. Ellos te notifican un tiempo estimado de reembolso de 3-5 días, sin embargo estos reembolsos normalmente se ven reflejados en tu estado de cuenta, en un período de no más de 15 días naturales.
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día y un buen fin de semana!
+
+---------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+
 Hola [NOMBRE CLIENTE],
 
 Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
