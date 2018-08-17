@@ -4,6 +4,8 @@ Hola [NOMBRE CLIENTE],
 
 Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
 
+Página para revisar la grámatica y ortografía : https://languagetool.org/es/
+
 AssureForce: https://adfs.startek.com/adfs/ls/idpinitiatedsignon
 
 Correos de México +527626220501
