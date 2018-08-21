@@ -9,8 +9,11 @@ Página para revisar la grámatica y ortografía : https://languagetool.org/es/
 AssureForce: https://adfs.startek.com/adfs/ls/idpinitiatedsignon
 
 Correos de México +527626220501
-
 Este número si funciona :')
+
+DHL : +52 (55) 5345 7000
+
+Cuenta : amazoncustomerservice@teleworm.us Contra : Arias007 :v
 
 UPS 18007827892 / 9 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
