@@ -546,6 +546,26 @@ Agradecemos tu comprensión y paciencia en este caso.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Retraso_aduanas_v2
+
+Hola [NOMBRE CLIENTE],
+
+Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Antes que nada, me disculpo por el inconveniente que se esta presentando con el pedido [PEDIDO]. Comprendo que no se te ha sido entregado en la fecha estimada.
+
+[NOMBRE CLIENTE], para obtener más información acerca del retraso, me he comunicado directamente con DHL y ellos me han notificado que el paquete tuvo inconvenientes con el proceso aduanal. Debido a este percance, DHL tomo la decisión de retornar el paquete a nuestras instalaciones.
+
+En este caso, para poder solucionar la situación podemos ofrecerte un reembolso completo, ya sea a tu método de pago original o como saldo de tarjeta de regalo en tu cuenta de Amazon. La diferencia entre estos dos es que, el método original puede tardar un período de 15 días naturales en verse reflejado en tu cuenta, en cambio el saldo de regalo Amazon se vería reflejado en tu cuenta en un máximo de 2 a 48 horas.
+
+Quedamos a la expectativa de tu respuesta para proceder con la opción que sea más conveniente para ti.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Ten un buen día!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #Traces_v2
 
 Hola [NOMBRE CLIENTE],
