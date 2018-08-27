@@ -428,6 +428,32 @@ Gracias por ser parte de la gran familia de Amazon.
 ---------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------
 
+Cuenta_Celular_Not_Found
+
+Hola [NOMBRE CLIENTE,
+
+Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
+
+Comprendo que nos contactas debido a que no puedes visualizar tus pedidos.
+
+[NOMBRE CLIENTE], permíteme informarte que he realizado una revisión en tu cuenta y no he encontrado pedidos en ella. Sin embargo, me gustaría informarte que lo que puede ocurrir en estos casos es que tus pedidos se encuentren bajo la cuenta creada con tu número de celular y no en la cuenta por correo.
+
+Basándome en esto te sugiero que trates de iniciar sesión con tu número de celular y tu contraseña para que puedas visualizar los pedidos.
+
+En caso de que aún continúes sin poder ver los pedidos, te recomiendo contactarnos vía teléfono para que podamos realizar una investigación más profunda y verificar lo que esta sucediendo con tus pedidos.
+
+Puedes usar el siguiente enlace para que te llamemos : https://is.gd/hfTr2L o puedes contactarte con nosotros al siguiente número : +52 442 348 9587
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Ten un buen día!
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+
 
 #devolucionnoprocesada_v1 #devoluciones
 
