@@ -261,6 +261,33 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Lost_in_Transit_EE.UU
+
+Hola [NOMBRE CLIENTE],
+
+Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
+
+Lamento mucho que aún estés a la espera de la entrega de tu pedido [PEDIDO].
+
+He revisado a fondo tu caso y veo en la información de la guía [GUÍA], la última actualización que se brindó fue el [DATE]. Debido a esto, podemos aplicar la garantía de respaldo que ofrece Amazon para pedidos no entregados.
+
+La garantía consiste en procesar un reembolso completo del pedido. De esta manera si gustas, puedes realizar una nueva compra de los productos.
+
+Este producto es vendido por Amazon EE.UU, por lo que no podemos procesar un reemplazo. Los productos vendidos por Amazon EE.UU y Amazon México son diferentes y los inventarios se manejan por separado en su país de origen correspondiente.
+
+Podemos procesar los reembolsos, ya sea a tu método de pago original o como saldo de tarjeta de regalo en tu cuenta de Amazon. La diferencia entre estos dos reembolsos es que, en el método de pago original pueden tardar un período de 15 días naturales, y en el reembolso como Tarjeta de Regalo pueden tardar de 2 a 48 horas.
+
+Por favor, solamente contesta a este correo electrónico dejándonos saber cuál es tu decisión respecto a las opciones que te ofrecemos. En cuanto recibamos tu mensaje, llevaremos a cabo las acciones necesarias.
+
+Quedamos a la expectativa de tu respuesta para tomar las acciones necesarias.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 #Autorización_v2 
 
 Hola [NOMBRE CLIENTE]
