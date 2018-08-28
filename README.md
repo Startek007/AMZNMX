@@ -306,6 +306,28 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Seller_v2
+
+Hola [NOMBRE CLIENTE],
+
+Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Antes que nada, me disculpo por el inconveniente con tu pedido [PEDIDO]. Comprendo que estas preocupado, debido a que no has recibido el pedido.
+
+[NOMBRE CLIENTE], he revisado tu pedido a detalle y confirmado que este fue realizado con [SELLER] un vendedor afiliado a nuestro sitio web. Para ayudarte, le he enviado un correo electrónico solicitando [ISSUE]
+
+Sin embargo, no te preocupes ya que todas las compras hechas a vendedores cuando el pago se hace a través de Amazon.com.mx, están cubiertas por la Garantía de la A a la Z.
+
+Para tu tranquilidad, he creado un seguimiento personal para estar al tanto de la respuesta del vendedor. Si no recibimos una respuesta para el día [DATE], comenzare con la reclamación de la garantía para que se tomen las acciones pertinentes.
+
+[NOMBRE CLIENTE], quedo a tu entera disposición en caso que tengas alguna consulta adicional para enviarme.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 #Autorización_v2 
 
