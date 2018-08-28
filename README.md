@@ -728,6 +728,29 @@ Uno de los objetivos de Amazon es brindar un servicio oportuno y eficiente, pero
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Cambio_Fecha_Entrega_AMZL
+
+Hola [NOMBRE CLIENTE]:
+
+Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
+
+Comprendo que nos contactas debido a que deseas cambiar la fecha de entrega del pedido [PEDIDO].
+
+[NOMBRE CLIENTE], permíteme informarte que, he procedido a cambiar la fecha de entrega para el día [DATE].
+
+Cuando el pedido se envíe, te enviaremos un correo electrónico para que puedas rastrear el paquete o también puedes registrarte para recibir alertas mediante mensajes de texto aquí: 
+
+https://www.amazon.com.mx/gp/css/notifications
+
+Puedes revisar el estado del pedido más actualizado en Mi cuenta, aquí: 
+
+https://www.amazon.com.mx/gp/css/summary/edit.html?orderID=[PEDIDO] 
+
+[NOMBRE CLIENTE], espero esta información y mi asistencia te hayan sido a de ayuda.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #cancelprime_v1
 
 Hola [NOMBRE CLIENTE],
