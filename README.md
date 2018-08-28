@@ -170,9 +170,9 @@ Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se en
 
 Comprendo que nos contactas debido a que tienes dudas acerca de los beneficios de Amazon Prime México y Amazon Prime EE.UU.
 
-[NOMBRE CLIENTE], permíteme informarte que los mercados de Amazon México y Amazon EE.UU son manejados por separado, ya que estos son mercados totalmente diferentes. Debido a esto, las membresías son manejadas por separado.
+[NOMBRE CLIENTE], permíteme informarte que los mercados de Amazon México y Amazon EE.UU son manejados por separado, ya que estos son mercados totalmente diferentes. Debido a esto, las membresías también son manejadas por separado.
 
-Si deseas tener Amazon Prime en México y en EE.UU, deberás suscribirte a las dos para tener los beneficios de ambos países.
+Si deseas tener Amazon Prime en México y Amazon Prime en EE.UU, deberás suscribirte a las dos para tener los beneficios de ambos países.
 
 Quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
 
