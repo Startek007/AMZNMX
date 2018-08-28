@@ -162,6 +162,25 @@ Como mencioné en la llamada, [Resolución al problema]
 Espero que esto sea de mucha ayuda. ¡Te deseo un feliz día y un buen fin de semana!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Prime_EE.UU_No
+
+Hola [NOMBRE CLIENTE]:
+
+Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
+
+Comprendo que nos contactas debido a que tienes dudas acerca de los beneficios de Amazon Prime México y Amazon Prime EE.UU.
+
+[NOMBRE CLIENTE], permíteme informarte que los mercados de Amazon México y Amazon EE.UU son manejados por separado, ya que estos son mercados totalmente diferentes. Debido a esto, las membresías son manejadas por separado.
+
+Si deseas tener Amazon Prime en México y en EE.UU, deberás suscribirte a las dos para tener los beneficios de ambos países.
+
+Quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día y una excelente semana! 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hola [NOMBRE CLIENTE],
 
