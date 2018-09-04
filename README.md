@@ -82,6 +82,94 @@ Gracias por ser parte de la gran familia de Amazon.
 ¡Te deseo un feliz día!
 
 ---------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+
+Contacto con el vendedor.
+
+Hola [NOMBRE CLIENTE],
+
+Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Antes que nada, me disculpo por el inconveniente con tu pedido [PEDIDO]. Comprendo que estas preocupado, debido a que no has recibido el pedido.
+
+[NOMBRE CLIENTE], he revisado tu pedido a detalle y confirmado que este fue realizado con [SELLER] un vendedor afiliado a nuestro sitio web. Para ayudarte, le he enviado un correo electrónico solicitando un reembolso completo por el pedido a la brevedad de lo posible.
+
+Para visualizar el correo que le he enviado al vendedor haz click en el siguiente enlace :
+
+https://www.amazon.com.mx/gp/...nication-manager/outbox.html
+
+Ten la tranquilidad de que todas las compras hechas a vendedores cuando el pago se hace a través de Amazon.com.mx, están cubiertas por la Garantía de la A a la Z.
+
+En caso de que no recibas una respuesta por parte del vendedor para el día [DATE], puedes iniciar el proceso de la garantía introduciendo el número del pedido [PEDIDO] en el siguiente enlace :
+
+https://www.amazon.com.mx/gp/a-z-guarantee/submit-claim.html​​​​​​​
+
+[NOMBRE CLIENTE], quedo a tu entera disposición en caso que tengas alguna consulta adicional para enviarme.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+Contraseña.
+
+Hola [NOMBRE CLIENTE],
+
+Mi nombre es José de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Comprendo que estas intentando ingresar a tu cuenta, sin embargo, por alguna razón no puedes acceder a ella.
+
+Para solucionar tu situación te he enviado un correo que contiene el enlace que necesitaras para introducir una nueva contraseña. El correo tiene por nombre en el asunto 'Sobre tu cuenta de Amazon.com.mx'.
+
+Si no puedes visualizar este correo en tu bandeja de entrada, te recomiendo revisar tu carpeta de ''Correos no deseados''/Spam/Junk, ya que en algunas ocasiones tu servidor de correo electrónico puede dirigir los correos de Amazon a estas bandejas.
+
+Una vez abras el correo veras un enlace de color azul donde deberás dar click y este mismo te llevara a la página web donde podrás introducir una nueva contraseña.
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+Cliente recibió un cargo erróneo en la orden. 
+
+Hola [NOMBRE CLIENTE],
+ 
+Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
+ 
+Antes que nada, me disculpo debido a que has percibido cambios en tu pedido.
+ 
+He verificado que tu pedido [PEDIDO] quedó a un precio de MEX$[MONTO]. Además, he revisado en el sistema y puedo observar el monto de MEX$[MONTO] que me comentas.
+ 
+Para solucionar tu situación, he solicitado un reembolso por la diferencia de precio que se te fue cargada. En este caso, recibirás un reembolso por el monto de MEX$[MONTO] a tu método de pago original.
+
+Normalmente estos reembolsos se ven reflejados en tu estado de cuenta en un período de no más de 15 días naturales.
+
+[NOMBRE CLIENTE], quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+ 
+Gracias por ser parte de la gran familia de Amazon.
+ 
+¡Te deseo un feliz día!
+
+Cliente no provee información de la orden.
+
+Hola [NOMBRE CLIENTE]:
+ 
+Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
+
+Comprendo que nos contactas debido [ISSUE]
+
+[NOMBRE CLIENTE], en este caso estamos encantados de ayudarte, sin embargo, para darte una mejor atención te solicito el número del pedido o en su defecto el nombre del artículo que has recibido.
+
+Para enviar esta información, solo debes responder este correo electrónico. Una vez recibamos esta información, procederemos a tomar las acciones correspondientes e indicarte que pasos debes seguir.
+
+Quedamos a la expectativa de tu respuesta.
+ 
+Gracias por ser parte de la gran familia de Amazon.
+ 
+¡Te deseo un feliz día y una excelente semana!
+
+---------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
 Hola (Cliente):
 
 Mi nombre es (CSA) de Atención al Cliente de Amazon México. Es un gusto atenderte.
