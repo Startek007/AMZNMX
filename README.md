@@ -2621,27 +2621,29 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ¡Te deseo un feliz día!
 ------------------------------------------------------------------------------------------------------------------------------
-Hola Adriana:
+Hola Areli:
 
 Mi nombre es Andrea de Atención al Cliente de Amazon México. Es un gusto atenderte.
 
-Me disculpo por los inconvenientes que has tenido con tu pedido 701-0009124-1095417 ya no lo recibiste en la fecha estimada.
+Me disculpo por los inconvenientes que has tenido con tu pedido 702-7586936-2591442 ya no lo recibiste.
 
-Al revisar los detalles, veo que fue realizado con Quzhou Mengli Network Technology Co., Ltd, uno de nuestros vendedores afiliados.
+Al revisar los detalles, veo que fue realizado con inkint, uno de nuestros vendedores afiliados extranjeros.
 
-Para poder ayudarte con esta situación, le he enviado un correo explicando lo que ocurrió y solicitando de manera inmediata una solución.
+En respuesta a tu solicitud, he realizado una investigación y para poder ayudarte con esta situación, le he enviado un correo explicando lo que ocurrió y solicitando de manera inmediata el reembolso de tu pedido. 
 
-En Amazon respaldamos a nuestros clientes y al mismo tiempo mediar con el vendedor, el proceso a seguir es brindar al vendedor la oportunidad para poder ofrecer opciones para tu conveniencia. Recibiremos respuesta del vendedor en los siguientes 2 días hábiles.
+En Amazon respaldamos a nuestros clientes y al mismo tiempo mediar con el vendedor, el proceso a seguir es brindar al vendedor la oportunidad para poder ofrecer opciones para tu conveniencia. Recibirás una copia de la solicitud de reembolso al vendedor. 
+
+Recibiremos respuesta del vendedor en los siguientes 2 días hábiles.
 
 Para poder visualizar el correo que he enviado al vendedor para interceder dale click al siguiente enlace:
 
-https://www.amazon.com.mx/gp/...nication-manager/outbox.html
+https://www.amazon.com.mx/gp/communication-manager/outbox.html
 
 De igual manera, puedes tener tranquilidad ya que tu compra tiene el respaldo de la Garantía de la A a la Z. En caso de no recibir una respuesta de parte del vendedor, te estaré contactando para iniciar el proceso de dicha garantía.
 
-Para ello, realizare un seguimiento personal en tu pedido para asegurarnos de  recibir una respuesta del vendedor y realizar las acciones necesarias.
+Para ello, realizare un seguimiento personal en tu pedido para asegurarnos de recibir una respuesta del vendedor y realizar las acciones necesarias.
 
-Adriana, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos y te agradezco sinceramente tu comprensión y tu paciencia mientras continuamos trabajando en tu pedido.
+Areli, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos y te agradezco sinceramente tu comprensión y tu paciencia mientras continuamos trabajando en tu pedido.
 
 Gracias por ser parte de la gran familia de Amazon.
 
