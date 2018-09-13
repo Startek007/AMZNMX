@@ -2974,13 +2974,19 @@ He revisado con detalle este correo, sin embargo veo que no tiene una cuenta Ama
 
 Gabriel, cuento con la mejor dispocisión para ayudarte, te comento que he verificado tu cuenta y debo decirte que para proveerte mayor asistencia muy respetuosamente te solicito nos facilites un numero telefónico residencial o celular al cual contactarte así como la mejor hora para hacerlo, con mucho gusto te ayudaremos a resolver este inconveniente.
 
-Por seguridad, solo podemos ver la información relacionada al correo electrónico desde el que nos escribes. 
+Por seguridad, solo podemos ver la información relacionada al correo electrónico desde el que nos escribes.
 
-Recuerda que tu cuenta de Amazon podría estar registrada con un número de teléfono o con otro correo. 
+Recuerda que tu cuenta de Amazon podría estar registrada con un número de teléfono o con otro correo.
 
-También puedes contactarnos por medio de este enlace : 
+En caso de que tu cuenta este relacionada con tu numero de teléfono, recibirás información importante como correos electrónicos de confirmación de pedido y envío, certificados de garantía, avisos de retiro del mercado, actualizaciones en las políticas de la cuenta, correos electrónico de Servicio al cliente y más en el Centro de Mensajes.
 
-https://www.amazon.com.mx/gp/help/customer/contact-us 
+Para encontrar el centro de mensajes, realiza los siguientes pasos:
+
+Ve a Mi cuenta, encuentra "Alertas por correo electrónico y mensajes" y haz clic en "Centro de mensajes".
+
+También puedes contactarnos por medio de este enlace :
+
+https://www.amazon.com.mx/gp/help/customer/contact-us
 
 Agradezco tu compresión y tu tiempo, estaremos al pendiente de tu respuesta y, si tienes alguna consulta o comentario adicional compártelo, sera un gusto ayudarte.
 
