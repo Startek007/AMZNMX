@@ -241,11 +241,11 @@ District 1 1656 Union Street Eureka 707-445-6600	-----> P.O. Box 3700 Eureka, CA
 District 2 1657 Riverside Drive Redding 530-225-3426 -------->	1657 Riverside Drive Redding, CA 96001
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Buen día! Soy Kathy, el agente que te atendió en la llamada.
+Buen día! Soy Kathy, el agente que te atendió en la llamada. Me alegra saber que he resulto tu duda/ problema. 
 
-Fue un placer poder asistirte el día de hoy con [Problema del cliente]
+Fue un placer poder asistirte el día de hoy con tu consulta.
 
-Como mencioné en la llamada, [Resolución al problema]
+Como mencioné en la llamada, 
 
 Espero que esto sea de mucha ayuda. ¡Te deseo un feliz día y un buen fin de semana!
 
