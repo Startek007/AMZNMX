@@ -3009,5 +3009,45 @@ Gracias por ser parte de la gran familia de Amazon.
 ¡Ten un buen día!
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+FREE SHIPPING
+**
+
+Hola Rigoberto:
+
+Te saluda Andrea de Amazon Mexico. Es un gusto atenderte.
+
+Te pido disculpas por el inconveniente con tu pedido 702-3542499-5731428 ya que recibiste cargos de envío.
+
+Debido a ello, he realizado una profunda investigación y en este caso, tu pedido si es elegible para el envío gratis, y para ello, al momento de realizar la compra, la opción "Envío GRATIS" debe ser seleccionada como velocidad de envío para que tu compra no reciba cargos de envío.
+
+En este caso, la opción seleccionada en la velocidad de envío de tu pedido 702-3542499-5731428 fue "Envío estándar". Las tarifas de envío dependen del tipo de envío seleccionado y el peso y tamaño de los artículos.
+
+Para determinar las tarifas de envío que corresponde para los artículos en tu Carrito en futuras compras :
+
+Selecciona Finalizar compra.
+Selecciona o agrega tu dirección de envío.
+Selecciona un método de envío y selecciona Continuar.
+
+Selecciona un método de pago y selecciona Continuar.
+
+El costo total de envío y manejo aparecerá en Revisar pedido.
+
+En este caso, debido a lo sucedido y para ayudarte de la mejor manera posible, he procesado el reembolso por los cargos de envío por el monto de Mex$116.01 a tu método de pago original.
+
+Veras el reembolso en tu estado de cuenta en un período de no más de 15 días naturales.
+
+Una vez procesado, podrás ver la solicitud de reembolso aquí:
+
+https://www.amazon.com.mx/gp/css/summary/edit.html?orderID=702-3542499-5731428
+ 
+Rigoberto, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+ Gracias por ser parte de la gran familia de Amazon.
+
+ ¡Ten un buen día!
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
