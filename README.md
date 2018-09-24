@@ -101,13 +101,13 @@ Antes que nada, me disculpo por el inconveniente con tu pedido [PEDIDO]. Compren
 
 Para visualizar el correo que le he enviado al vendedor haz click en el siguiente enlace :
 
-https://www.amazon.com.mx/gp/...nication-manager/outbox.html
+https://is.gd/VVIgRp
 
 Ten la tranquilidad de que todas las compras hechas a vendedores cuando el pago se hace a través de Amazon.com.mx, están cubiertas por la Garantía de la A a la Z.
 
 En caso de que no recibas una respuesta por parte del vendedor para el día [DATE], puedes iniciar el proceso de la garantía introduciendo el número del pedido [PEDIDO] en el siguiente enlace :
 
-https://www.amazon.com.mx/gp/a-z-guarantee/submit-claim.html​​​​​​​
+https://is.gd/bwWh4A
 
 [NOMBRE CLIENTE], quedo a tu entera disposición en caso que tengas alguna consulta adicional para enviarme.
 
