@@ -1655,30 +1655,44 @@ https://www.amazon.com.mx/gp/...splay.html/?nodeId=201133150
 
 Si el cliente solicita el reemplazo
 
-Hola [NOMBRE CLIENTE]: 
+* Replacement *
 
-Mi nombre es [CSA] de Atención al Cliente de Amazon México. Es un gusto atenderte. 
 
-Me disculpo por la situación que se presentó con tu pedido #[NUMERO DE PEDIDO]. 
+Hola Guillermo:
 
-[NOMBRE CLIENTE], para poder ayudarte a solucionar esta situación de manera eficiente, he generado un pedido de reemplazo con la velocidad más rápida. Estos son los detalles del pedido de reemplazo:
+Mi nombre es Andrea de Atención al Cliente de Amazon México. Es un gusto atenderte.
 
-Número de pedido: [PEDIDO]
-Fecha de entrega: [DATE]
+Me disculpo por la situación que se presentó con tu pedido #702-9821149-4281864 ya que te llego el articulo incorrecto. 
 
-(SI EL REEMPLAZO QUEDA OUT OF STOCK)
-A pesar de que el envío es el más rápido, se nos imposibilita enviarte el pedido inmediatamente porque estamos esperando tener más en existencias. Te notificaremos por correo electrónico cuando el articulo esté disponible y te lo enviaremos lo más rápido posible. Si prefieres cancelar el pedido de reemplazo, podemos realizar un reembolso al recibir el articulo dañado de vuelta, puedes usar el siguiente enlace para cancelar el pedido: https://www.amazon.com.mx/gp/...ory/edit.html?orderID=PEDIDO 
+Guillermo, para poder ayudarte a solucionar esta situación de manera eficiente, he generado un pedido de reemplazo con la velocidad más rápida. 
 
-Puedes ver los detalles del reemplazo aquí: https://www.amazon.com.mx/gp/...mmary/edit.html?orderID=[PEDIDO]
+Estos son los detalles del pedido de reemplazo:
 
-Para tu facilidad haz clic en el siguiente enlace para imprimir la etiqueta de devolución del producto dañado: https://www.amazon.com.mx/gp/orc/rml/[N.º DE ETIQUETA]
+Número de pedido:702-5191147-8812236
+
+Fecha de entrega: martes 25 de septiembre de 2018
+
+El siguiente es un enlace directo para revisar el estado de tu pedido de reemplazo:
+
+https://www.amazon.com.mx/gp/css/summary/edit.html?orderID=702-5191147-8812236
+
+Si prefieres cancelar el pedido de reemplazo, podemos realizar un reembolso al recibir el articulo incorrecto de vuelta, puedes usar el siguiente enlace para cancelar el pedido:
+
+https://www.amazon.com.mx/gp/css/order-history/edit.html?orderID=702-5191147-8812236
+
+Para tu facilidad haz clic en el siguiente enlace para imprimir la etiqueta de devolución del producto incorrecto:
+
+https://www.amazon.com.mx/gp/orc/rml/DqdKMZqKRRMA
 
 Si el enlace no funcionara, asegúrate de haber ingresado en la misma cuenta desde la que realizaste este pedido.
 
-(SI ES UNA ETIQUETA PREPAGADA)
+Puedes contactar a DHL al número +52 (55) 5345 7000 para agendar una recolección. Además, puedes rastrear tu paquete en: http://www.dhl.com.mx/es.html
 
-Puedes contactar a DHL al número +52 (55) 5345 7000 para agendar una recolección. Además, puedes rastrear tu paquete en: http://www.dhl.com.mx/es.html
+Guillermo, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
 
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Ten un buen día!
 (SI LA ETIQUETA ES ANYCARRIER)
 En este caso, la devolución debe realizarse con el transportista de tu preferencia. Luego envíanos una copia de la factura respondiendo a este mismo correo electrónico o bien a la dirección primary@amazon.com y te reembolsaremos el costo del retorno como una tarjeta de regalo a tu cuenta de Amazon.
 
