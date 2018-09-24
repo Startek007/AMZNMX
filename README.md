@@ -25,7 +25,16 @@ DHL : +52 (55) 5345 7000
 Cuenta : amazoncustomerservice@teleworm.us Contra : Arias007 :v
 
 UPS 18007827892 / 9 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
+Cuando reciben un muchas gracias por favor respondan asi: 
+
+Estimado ,
+
+Me alegro mucho que mi compañero (a) te haya podido solucionar tu situacion, y agradecemos el tiempo que te tomas para darnos tus comentarios por ellos deseamos mejorar día a día la compra en linea de nuestros clientes.
+
+Saludos cordiales,
+
+---------------------------------------------------------------------------------------------------------
 *Estafeta: +52-555-861-9500 Extensión:42325
 Numero de extensiones de estafeta:
 42347
