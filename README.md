@@ -3075,5 +3075,30 @@ Rigoberto, quedamos a tu entera disposición en caso que tengas alguna consulta
 
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cargo desconocido y el cliente no contesta via telefono. 
+**************************************************************************************************************
+Hola Juan:
+
+Mi nombre es Andrea de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Te llamé al número de teléfono que figura en tu cuenta de Amazon.com.mx pero no pude ponerme en contacto contigo.
+
+Lamento que hayas encontrado un cargo desconocido en tu tarjeta. Quiero que tengas la tranquilidad de que nos tomamos estas consultas muy seriamente, por lo que necesitamos hablar contigo por teléfono para solicitarte más información y continuar la investigación.
+
+Te comento Juan, cuento con la mejor disposición para ayudarte y para proveerte mayor asistencia muy respetuosamente te solicito responder a este correo electrónico y nos facilites con un numero telefónico residencial o celular al cual contactarte así como la mejor hora para hacerlo, con mucho gusto te ayudaremos a resolver este inconveniente.
+
+Cuando recibas nuestra llamada, por favor ten a mano el monto del cargo, la fecha y los 4 últimos dígitos de la tarjeta donde se aplicó.
+
+También, puedes utilizr el siguiente enlace para solicitar que te llamemos:
+
+https://www.amazon.com.mx/gp/help/customer/contact-us
+
+Por seguridad, por favor comparte esta información únicamente vía telefónica.
+
+Agradezco tu compresión y tu tiempo, estaremos al pendiente de tu respuesta y, si tienes alguna consulta o comentario adicional compártelo, sera un gusto ayudarte.
+
+¡Te deseo un feliz día!
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
