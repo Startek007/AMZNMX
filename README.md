@@ -1,3 +1,24 @@
+Cambio de precio ** Jordanna **
+
+Hola [NOMBRE CLIENTE],
+
+Recibe un cordial saludo, te escribe Anne, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy.
+
+Comprendo que nos contactas debido a que el precio del artículo ha cambiado.
+
+[NOMBRE CLIENTE], en general, te comento que los precios pueden variar por diversos factores, como disponibilidad del producto, su demanda y la velocidad del envío que hayas seleccionado. 
+
+Trabajamos continuamente en encontrar los mejores precios y asegurarnos de que nuestros precios sean bajos o menores -de tal manera que cambiamos nuestros precios instantáneamente si encontramos una oferta más baja en algún otro lugar.
+
+En este caso, te recomiendo esperar a que el artículo pueda estar al precio que lo viste al principio, ya que como te mencione anteriormente los precios cambian constantemente.
+
+quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día y una excelente semana!
+
+
 87800987
 Cuando el cliente pregunta por el numero de servicio al cliente de Amazon Mexico: +52 442 348 9587
 
