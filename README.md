@@ -23,6 +23,29 @@ Gracias por ser parte de la gran familia de Amazon.
 Cuando el cliente pregunta por el numero de servicio al cliente de Amazon Mexico: +52 442 348 9587
 
 *******************************************************************************************************
+Factura para productos de Importación/ EE.UU.
+
+#EE.UU_invoice_no 
+
+Hola [NOMBRE CLIENTE],
+
+Recibe un cordial saludo, te escribe José, el agente de Amazon.com.mx que se encargará de tu consulta el día de hoy. 
+
+Comprendo que nos contactas acerca de la solicitud de facturación del pedido #[PEDIDO].
+
+He revisado la información de tu pedido y veo que se trata de un producto importado desde Amazon EE.UU. [NOMBRE CLIENTE], es importante mencionar que para los productos vendidos por Amazon EE. UU. lamentablemente, no podemos proporcionar facturas electrónicas CFDI. Ten en cuenta que cuando los vendedores son extranjeros no están registrados para fines fiscales en México, por lo que no podrán emitir facturas CFDI.
+
+Si necesitas imprimir una copia de tu recibo de compra, puedes visitar la sección Mis pedidos en Mi cuenta y encuentra el pedido que necesitas. Haz clic en “Ver recibo” e imprime la factura desde tu navegador.
+
+Puedes verificar esta información y leer más acerca de las facturas electrónicas en nuestra sección de ayuda: http://amzn.to/2oy4dOr
+
+[NOMBRE CLIENTE], agradecemos tu interés por comprar en Amazon
+
+Gracias por ser parte de la familia Amazon.
+¡Ten un buen día!
+
+
+
 
 Correos de Mexico.
 
