@@ -44,7 +44,7 @@ Gracias por ser parte de la familia Amazon.
 ¡Ten un buen día!
 
 
-
+**************************************************************************************************************************
 
 Correos de Mexico.
 
@@ -52,9 +52,6 @@ Correos de Mexico.
 Extensiones: 25714, 25739, 25741
 
 --------------------------------------------------------------------------------------------------------------------------------
-Hola [NOMBRE CLIENTE],
-
-Mi nombre es José, asesor de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
 
 Página para revisar la grámatica y ortografía : https://languagetool.org/es/
 
@@ -77,14 +74,14 @@ Me alegro mucho que mi compañero (a) te haya podido solucionar tu situacion, y 
 
 Saludos cordiales,
 
----------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
 *Estafeta: +52-555-861-9500 Extensión:42325
 Numero de extensiones de estafeta:
 42347
 42349
 42411
 42412
------
+-----********************************************************************************************************************
 amazonagent@teleworm.us
 
 
