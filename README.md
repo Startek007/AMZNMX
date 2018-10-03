@@ -18,8 +18,7 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ¡Te deseo un feliz día y una excelente semana!
 
-
-87800987
+*********************************************************************************************************
 Cuando el cliente pregunta por el numero de servicio al cliente de Amazon Mexico: +52 442 348 9587
 
 *******************************************************************************************************
