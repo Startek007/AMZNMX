@@ -3160,5 +3160,37 @@ Quedo a la expectativa de tu respuesta.
 ¡Ten un feliz día!
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+Hola :
+
+Te saluda Andrea de Amazon México. 
+
+Como te prometí, realice un seguimiento personal referente a los tres cargos que recibiste de tu pedido 702-4390703-0557013.
+
+En este caso, te comento Miguel que hemos recibido información de parte de nuestro equipo especializado sobre esta situación y en este caso me gustaría explicarte como funcionan las transacciones en Amazon.
+
+Cuando realizas un pedido en Amazon, enviamos la información del cargo a tu banco para que ellos aprueben la autorización del monto. En caso de ser aprobada el banco automáticamente retiene los fondos.
+
+Estas autorizaciones se realizan para comprobar que la tarjeta de crédito/débito se encuentren vigentes, que tengan el saldo suficiente para recibir el cargo del pedido y verificar que las tarjetas no cuenten con restricciones para compras en línea.
+
+Algunos bancos realizan una nueva transacción en el momento de hacer el cargo y no toman el monto que ya tenían retenido. Esto causa que se vean uno o varias transacciones; sin embargo, una de ellas es el cobro y las demás son normalmente autorizaciones.
+
+Debido a lo sucedido con tu pedido, nuestro equipo especializado ha realizado las acciones necesarias y ten la tranquilidad de que estos montos serán removidos por el banco a la brevedad.
+
+Como información adicional, en caso de que continúes visualizando esta autorización por más de 15 días, te recomiendo contactar a tu banco y le proveas los siguientes datos que te brindo a continuación :
+
+Número de pedido:
+Fecha y hora de la autorización: 
+Monto del pedido: 
+
+Puedes presentarle este correo electrónico como comprobante oficial por parte de Amazon. Tu entidad bancaria puede decirte cuanto tiempo tarda en ser removida una autorización por compras en linea.
+
+Miguel, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día y una excelente semana!
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
