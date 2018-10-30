@@ -3191,6 +3191,175 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ¡Te deseo un feliz día y una excelente semana!
 
+-----------------------------------------------------------------------------------------------------------------------------------
+Hola Juan:
+
+Mi nombre es Andrea de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Me disculpo por los inconvenientes que se han presentado con tu pedido 701-1622468-0581838 ya que no has recibido los artículos Life Gear Taza de Acero Inoxidable y Mercer Culinary Primario 4 cuchillo para chef rojo.
+
+Tras revisar detalladamente tu pedido, veo que al momento de realizar la compra quedaban pocas unidades en inventario.
+
+Como comprenderás Amazon al igual que otras tiendas es distribuidor, por esa razón nosotros también dependemos de que los fabricantes nos hagan llegar las unidades que ofrecemos a nuestros clientes. Siempre se conversan fechas posibles para las entregas y por eso es que se ofrecen los productos y una fecha estimada. Si esas fechas no se cumplen por parte del fabricante nosotros debemos informar a los clientes sobre estos posibles cambios.
+
+En Amazon continuamos trabajando para abastecer el inventario del Life Gear Taza de Acero Inoxidable y Mercer Culinary Primario 4 cuchillo para chef rojo ya que hemos verificado la disponibilidad en nuestro inventario y segun nos lo indica nuestro proveedor, el envío del articulo  Mercer Culinary Primario 4 cuchillo para chef rojo puede tardar hasta 3 semanas.
+
+De igual manera, te estaremos informando acerca de la disponibilidad ya que, según lo que nos indica el proveedor, esperamos enviar tu pedido a tiempo para entregarlo para el día miércoles 14 de noviembre de 2018.
+
+Es importante mencionar que todos los pedidos son revisados contra disponibilidad de inventario, tal y como lo indica el email de confirmación con este mensaje: "Gracias por tu pedido. Tu solicitud será revisada contra disponibilidad de inventario, de ser confirmada recibirás un correo electrónico con más detalles"
+
+Cuando el pedido se envíe, te enviaremos un correo electrónico para que puedas rastrear el paquete o también puedes registrarte para recibir alertas mediante mensajes de texto aquí:
+
+https://www.amazon.com.mx/gp/css/notifications
+
+Puedes revisar el estado del pedido más actualizado en Mi cuenta, aquí:
+
+https://www.amazon.com.mx/gp/css/summary/edit.html?orderID=701-1622468-0581838
+
+Te recomiendo lo siguiente, en caso de que necesitaras el producto Mercer Culinary Primario 4 cuchillo para chef rojo lo más pronto posible, puedes realizar la cancelación sin ningún tipo de cargos adicionales. En caso de que puedas esperar, nosotros vamos a hacer lo posible por abastecer el inventario de la manera más pronta posible.
+
+Juan, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+************************************************************************************************
+
+Hola Caleb:
+
+Te saluda Andrea de Amazon México. Es un gusto atenderte. 
+
+Lamento lo sucedido con tu pedido 702-8321185-5401005 con el articulo Estwing E24A 14-Inch Sportman's Axe with Leather Sheath.
+
+En respuesta a tu solicitud, hemos procesado el reembolso por el monto de Mex$698.44 como saldo de tarjeta de regalo en tu cuenta de Amazon.com.mx.
+
+Estará disponible para poder ser utilizado en las próximas 2-48 horas y se utilizará automáticamente en tu próximo pedido que califique.
+
+Cuando realices un pedido utilizando el Carrito de compras verás la opción de seleccionar "Usar saldo promocional o de Tarjeta de Regalo de Amazon.com.mx" en la página de resumen del pedido. Si quieres utilizar el saldo, esta opción debe estar seleccionada.
+
+Todo saldo de Tarjeta de Regalo de Amazon.com.mx que no se utilice se mantendrá en tu cuenta hasta que se aplique a un pedido.
+
+Puedes ver el saldo y el historial de uso en Mi cuenta:
+
+https://www.amazon.com.mx/gp/css/gc/balance/
+
+Puedes ver la solicitud de reembolso aquí:
+
+https://www.amazon.com.mx/gp/css/summary/edit.html?orderID=702-8321185-5401005
+
+Caleb, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+*************************************************************************************************************
+
+Hola Jesús:
+
+Mi nombre es Andrea de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Lamento mucho saber que aún estás a la espera de tu pedido #702-0271789-3887475.
+
+Realice una profunda investigación y tras verificar la información de rastreo que nos brinda DHL y el centro de distribución de Amazon EE.UU, veo que se ha presentado un ligero atraso, sin embargo, tu pedido está en tránsito y la fecha máxima de entrega está establecida para el miércoles 31 de octubre de 2018 06:00 PM (CST), por lo que te solicitamos que por favor esperes hasta esta fecha para recibir el paquete.
+
+Cuando compras un producto importado desde Amazon EE.UU. las fechas brindadas suelen ser estimadas debido a que pueden haber atrasos inesperados asociados con la aduana y otros factores.
+
+Respondiendo a tu consulta, te garantizo que Amazon te respaldara en todo momento , por lo que te informo que no tienes de que preocuparte ya que en caso de que no recibas tu pedido en la fecha máxima, nosotros te ofreceremos la ayuda necesaria. Con base a esto, podemos procesar un reembolso ya sea a tu método de pago original o como saldo de tarjeta de regalo en tu cuenta de Amazon. La diferencia entre estos dos reembolsos es que, en el método de pago original pueden tardar un período de 15 días naturales, y en el reembolso como Tarjeta de Regalo pueden tardar de 2 a 48 horas.
+
+Aunque nos encantaría enviarte un reemplazo, el artículo es vendido por Amazon EE.UU, uno de nuestro vendedores afiliados y no contamos con el mismo en nuestro inventario de Amazon México.
+
+Para ello, he programado un seguimiento para monitorear tu pedido y confirmar contigo si recibiste el pedido en la fecha máxima, para tomar las acciones que sean necesarias.
+
+Jesus, quedo a tu entera disposición en caso que tengas alguna consulta adicional para enviarme.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+***********************************************************************************************************
+Hola Alma:
+
+Recibe un cordial saludo, te escribe Andrea de Amazon.com.mx que se encargará de tu consulta el día de hoy.
+
+Antes que nada, me disculpo por el inconveniente con el reembolso de tu membresia Prime. Comprendo que estas preocupada, debido a que no has recibido el reembolso pero, no te preocupes, en este momento te estaré asistiendo.
+
+He realizado una profunda investigación y en este caso, te comento Alma, de acuerdo con tu solicitud, te puedo confirmar que se completó el reembolso de tu membresia Prime el jueves 18 de octubre de 2018 01:37:41 PM CDT, por un monto de Mex$449.00.
+
+Si bien este reembolso ya se completó en nuestro sistema, es probable que tu banco tenga algún proceso adicional.
+
+El tiempo de acreditación del dinero por parte del banco puede variar según la entidad, pero para tu tranquilidad este proceso debería estar listo en un máximo de 15 días naturales por lo cual el banco aun cuenta con 2 días naturales para completar el proceso. Por lo que respetuosamente, te solicitamos esperar hasta el día jueves 1 de noviembre del 2018 al finalizar el día para que puedas recibir tu reembolso.
+
+Puedes observar la confirmación del reembolso aquí:
+
+http://www.amazon.com.mx/gp/css/summary/edit.html?orderID=D01-3972823-2611424
+
+De igual manera, para ayudarte de la mejor manera posible, realizare un seguimiento personal para asegurarme que hayas recibido tu reembolso y realizar las acciones necesarias a la brevedad.
+
+Alma, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+*********************************************************************************************************
+
+
+Hola Brenda:
+
+Te saluda Andrea de Amazon México.
+
+Te pido disculpas por el inconveniente con tu pedido 701-8917182-2956205 sobre el libro Every Breath. Créeme que no es la experiencia de compra que deseamos brindarte. No te preocupes, cuentas con nuestro total respaldo.
+
+Como te prometí, realice un seguimiento personal de tu pedido y por ello, he verificado la información que nos ha proporcionado nuestro centro de distribución junto con los datos que nos brinda DHL y podemos confirmar que lastimosamente el paquete se ha extraviado en tránsito.
+
+Debido a lo sucedido con tu pedido, reenvié los datos a nuestro departamento de envíos. Sé que ellos estarán interesados en conocer tu experiencia y tomen las acciones necesarias. Seguiremos trabajando para ti, mejorando nuestra tienda y ofrecer un superior servicio a nuestros clientes.
+
+También, en respuesta a tu solicitud, hemos procesado el reembolso por el monto de Mex$371.41 como saldo de tarjeta de regalo en tu cuenta de Amazon.com.mx.
+
+Estará disponible para poder ser utilizado en las próximas 2-48 horas y se utilizará automáticamente en tu próximo pedido que califique.
+
+Cuando realices un pedido utilizando el Carrito de compras verás la opción de seleccionar "Usar saldo promocional o de Tarjeta de Regalo de Amazon.com.mx" en la página de resumen del pedido. Si quieres utilizar el saldo, esta opción debe estar seleccionada.
+
+Todo saldo de Tarjeta de Regalo de Amazon.com.mx que no se utilice se mantendrá en tu cuenta hasta que se aplique a un pedido.
+
+Puedes ver el saldo y el historial de uso en Mi cuenta:
+
+https://www.amazon.com.mx/gp/css/gc/balance/
+
+Puedes ver la solicitud de reembolso aquí:
+
+https://www.amazon.com.mx/gp/css/summary/edit.html?orderID=701-8917182-2956205
+
+Brenda, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos. Estamos para servirte.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+*/*******************************************************************************************************
+
+Hola Gilda:
+
+Mi nombre es Andrea de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Te llamé al número de teléfono que figura en tu cuenta de Amazon.com.mx pero no pude ponerme en contacto contigo.
+
+Comprendo que deseas realizar el cambio de dirección de tu pedido 702-4072128-2718649 sobre el articulo KidKraft Amelia - doll houses. Con gusto te asistiré.
+
+En respuesta a tu consulta, te comento Gilda, con mucho gusto podemos proceder con el cambio de dirección y para realizarlo, necesitamos algunos detalles adicionales así como también realizar un paso adicional de seguridad que solo puede ser realizado vía llamada telefónica y cuento con la mejor disposición para ayudarte por lo que, para proveerte mayor asistencia, muy respetuosamente te solicito responder a este correo electrónico y nos facilites con un numero telefónico residencial o celular al cual contactarte así como la mejor hora para hacerlo, con mucho gusto te ayudaremos a resolver este inconveniente.
+
+También, puedes contactarnos por teléfono los 7 días de la semana de 7 a.m. a 10 p.m. (Horario Central), a través de este enlace:
+
+https://www.amazon.com.mx/gp/help/customer/contact-us
+
+Agradezco tu compresión y tu tiempo, estaremos al pendiente de tu respuesta y, si tienes alguna consulta o comentario adicional compártelo, sera un gusto ayudarte.
+
+¡Te deseo un feliz día!
+
+
+*************************************************************************************************************
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
