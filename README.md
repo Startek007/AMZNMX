@@ -3360,6 +3360,166 @@ Agradezco tu compresión y tu tiempo, estaremos al pendiente de tu respuesta y, 
 
 *************************************************************************************************************
 
+Hola Jesús:
+
+Mi nombre es Andrea de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Lamento mucho saber que aún estás a la espera de tu pedido #702-0271789-3887475.
+
+Realice una profunda investigación y tras verificar la información de rastreo que nos brinda DHL y el centro de distribución de Amazon EE.UU, veo que se ha presentado un ligero atraso, sin embargo, tu pedido está en tránsito y la fecha máxima de entrega está establecida para el miércoles 31 de octubre de 2018 06:00 PM (CST), por lo que te solicitamos que por favor esperes hasta esta fecha para recibir el paquete.
+
+Cuando compras un producto importado desde Amazon EE.UU. las fechas brindadas suelen ser estimadas debido a que pueden haber atrasos inesperados asociados con la aduana y otros factores.
+
+Respondiendo a tu consulta, te garantizo que Amazon te respaldara en todo momento , por lo que te informo que no tienes de que preocuparte ya que en caso de que no recibas tu pedido en la fecha máxima, nosotros te ofreceremos la ayuda necesaria. Con base a esto, podemos procesar un reembolso ya sea a tu método de pago original o como saldo de tarjeta de regalo en tu cuenta de Amazon. La diferencia entre estos dos reembolsos es que, en el método de pago original pueden tardar un período de 15 días naturales, y en el reembolso como Tarjeta de Regalo pueden tardar de 2 a 48 horas.
+
+Aunque nos encantaría enviarte un reemplazo, el artículo es vendido por Amazon EE.UU, uno de nuestro vendedores afiliados y no contamos con el mismo en nuestro inventario de Amazon México.
+
+Para ello, he programado un seguimiento para monitorear tu pedido y confirmar contigo si recibiste el pedido en la fecha máxima, para tomar las acciones que sean necesarias.
+
+Jesus, quedo a tu entera disposición en caso que tengas alguna consulta adicional para enviarme.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+*************************************************************************************************************
+Hola Bryan:
+
+Mi nombre es Andrea de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Me disculpo por la situación que se presentó con el articulo ECS Elitegroup Liva Liva-X 2GB/32GB Desktop de tu pedido 701-2999624-8378646 ya que el articulo no esta funcionando de manera correcta. No te preocupes, con gusto te asistiré.
+
+En respuesta a tu solicitud, podemos gestionar la devolución del articulo y de esta manera realizar un reembolso completo como saldo a favor para que puedas realizar el cambio del producto.
+
+Para tu facilidad haz clic en el siguiente enlace para imprimir la etiqueta de devolución del articulo defectuso:
+
+https://www.amazon.com.mx/gp/orc/rml/Dj8K34qGRRMA
+
+Si el enlace no funciona, asegúrate de haber ingresado en la misma cuenta desde la que realizaste este pedido.
+
+La devolución del articulo se hará con DHL por medio de una recolección. Puedes contactar a DHL al número +52 (55) 5345 7000 para agendar la recolección a la hora que te sea mas conveniente. Como opción adicional, en caso de que desees acudir a una sucursal DHL, puedes utilizar la misma etiqueta de devolución para entregar el paquete en la sucursal sin ningún problema.
+
+Además, puedes rastrear tu paquete en: http://www.dhl.com.mx/es.html
+
+Una vez entregado, el paquete será asignado a una revisión de rutina, donde van a escanear la etiqueta de rastreo para que se pueda procesar el reembolso según tu solicitud.
+
+Te enviaremos un correo electrónico cuando el reembolso haya sido procesado. El tiempo máximo para recibir esta confirmación es de dos semanas luego de que se envió el producto de regreso con DHL.
+
+Bryan, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos. Estamos para servirte.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Ten un buen día!
+
+*************************************************************************************************************
+
+Hola Herlinda:
+
+Mi nombre es Andrea de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Lamento mucho saber que aún estás a la espera del articulo Fisher-Price Baby Gear Silla Alta de Lujo 4 en 1 de tu pedido 702-1083571-3369035. Créeme que no es la experiencia de compra que deseamos brindarte. No te preocupes, cuentas con nuestro total respaldo.
+
+En respuesta a tu consulta, de inmediato verifique la información proporcionada por Estafeta con el numero de guía 502586130561A700084644 y puedo confirmar que lastimosamente el paquete se ha extraviado en tránsito.
+
+Debido a este inconveniente, para ayudarte de la mejor manera posible, podemos aplicar la garantía de respaldo que ofrece Amazon para pedidos no entregados y te podemos ofrecer las siguientes opciones, de las cuáles debes elegir la que mejor te parezca:
+
+1. Te podemos enviar un reemplazo sin ningún costo adicional (sujeto a disponibilidad al momento de la solicitud).
+
+2. Te podemos hacer un reembolso completo, ya sea a tu método de pago original o como saldo de tarjeta de regalo en tu cuenta de Amazon.
+
+Los reembolsos a tarjeta tardan hasta 15 días naturales o saldo de regalo de 2 a 48 horas.
+
+Por favor, solamente contesta a este correo electrónico dejándonos saber cuál es tu decisión respecto a las opciones que te ofrecemos y en cuanto recibamos tu mensaje, llevaremos a cabo las acciones necesarias a la brevedad.
+
+Como dato adicional, quiero comentarte que reenvié los datos a nuestro departamento de envíos. Sé que ellos estarán interesados en conocer tu experiencia y tomen las acciones necesarias. Seguiremos trabajando para ti, mejorando nuestra tienda y ofrecer un superior servicio a nuestros clientes.
+
+Herlinda, quedamos atentos a tu respuesta y a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Ten un buen día!
+
+********************************************************************************************************
+
+*****
+
+
+Hola Leonard:
+
+Te saluda Andrea de Amazon México. Es un gusto atenderte. 
+
+Lamento lo sucedido con el reembolso del articulo Aroma Housewares - afr-180 Espuma de aroma Hot X-Press espumador de leche, acero inoxidable de tu pedido 702-8547045-0753031. No te preocupes, cuentas con nuestro total respaldo. 
+
+En respuesta a tu solicitud, he procesado el reembolso por el monto de Mex$1,540.26 a tu método de pago original.
+
+Normalmente estos reembolsos se ven reflejados en tu estado de cuenta en un período de 15 días naturales.
+
+Una vez procesado, podrás ver la solicitud de reembolso aquí:
+
+https://www.amazon.com.mx/gp/css/summary/edit.html?orderID=702-8547045-0753031
+
+Leonard, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos. Estamos para servirte.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+*************************************************************************************************
+
+Hola Mario:
+
+Mi nombre es Andrea de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Lamento mucho saber que aún estás a la espera de tu pedido 702-3844141-6597067. No te preocupes, cuentas con nuestro total respaldo. 
+
+En respuesta a tu consulta, he verificado la información y tras contactar a DHL con el numero de guía 7015536765, ellos nos confirman que tu pedido se ha dañado en transito por lo que el articulo no podrá ser entregado de manera correcta. Debido a esto, podemos aplicar la garantía de respaldo que ofrece Amazon para pedidos no entregados.
+
+Aunque nos encantaría enviarte un reemplazo, el artículo es vendido por Amazon EE.UU, uno de nuestro vendedores afiliados y no contamos con el mismo en nuestro inventario de Amazon México.
+
+En base a esto, te podemos ofrecer las siguientes opciones, de las cuáles debes elegir la que mejor te parezca:
+
+1.  Te podemos hacer un reembolso completo a tu método de pago original y se vera reflejado en el estado de cuenta de tu tarjeta de crédito en 15 días naturales.
+
+2. Te podemos hacer un reembolso completo como saldo de tarjeta de regalo en tu cuenta de Amazon.com.mx y se vera reflejado en tu cuenta de 2-48 horas. 
+
+Por favor, solamente contesta a este correo electrónico dejándonos saber cuál es tu decisión respecto a las opciones que te ofrecemos y en cuanto recibamos tu mensaje, llevaremos a cabo las acciones necesarias a la brevedad.
+
+Mario, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+​​​​​​​
+¡Ten un buen día!
+
+
+************************************************************************************************************
+
+Hola Mitzy:
+
+Te saluda Andrea de Amazon México. Es un gusto atenderte.
+
+Lamento los inconvenientes con el articulo de las mancuernas de tu pedido 701-3418674-2710669 ya que aun estamos trabajando para abastecer el inventario de este articulo.
+
+Es respuesta a tu solicitud,  te confirmo que se realizo la cancelación del  articulo J/Fit mancuerna de tu pedido de manera exitosa.
+
+Mitzy, te confirmo que no te hemos cobrado por tu articulo ya que cuando realizas un pedido en Amazon ya que solamente cobramos hasta que el articulo sea enviado. En este caso es posible que se vea una autorización reflejada en tu estado de cuenta, dejame comentarte como funcionan las transacciones en nuestra pagina.
+
+Cuando realizas un pedido, nosotros enviamos una autorización a tu banco para confirmar que tu tarjeta tenga los fondos suficientes y sea valida para completar la transacción. En caso de que en unos días sigas visualizando la retención del dinero, te recomiendo, contactes a tu banco, puedes presentar este correo electrónico a tu banco como comprobante oficial por parte de Amazon. De esta manera ellos podrán decirte por qué los fondos en tu cuenta pueden no estar disponibles y aclarar por cuánto tiempo retienen las autorizaciones de pago para pedidos en línea.
+
+Puedes tener la tranquilidad de que no recibirás cobro alguno por el articulo ni por la cancelación..
+
+El pedido cancelado aparecerá en la sección Pedidos cancelados en Mis pedidos (www.amazon.com.mx/yourorders).
+
+Mitzy, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos. Estamos para servirte.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+***********************************************************************************************************
+
+
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
