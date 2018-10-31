@@ -3517,6 +3517,55 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ***********************************************************************************************************
 
+Hola Rodrigo:
+
+Te saluda Andrea de Amazon México. Es un gusto atenderte.
+
+Comprendo que nos contactas ya que deseas realizar compras utilizando Amazon Cash. Con gusto te asistiré. 
+
+En respuesta a tu consulta, te comento Rodrigo, con Amazon Cash te permite depositar dinero en efectivo a tu Saldo Amazon en miles de comercios, tiendas de conveniencia y farmacias participantes como OXXO, entre otros, el cual se aplica automáticamente como Tarjeta de Regalo a tu cuenta de Amazon. La cual estara disponible para utilizar de manera inmediata y se aplicara automáticamente en tu siguiente pedido.
+
+Para usarlo, debes visitar un establecimiento participante y pídele al cajero que escanee tu código de barras o dicta tu número de celular de 10 dígitos. Luego, pagas la cantidad que deseas agregar a tu Saldo Amazon y en instantes lo verás reflejado en tu cuenta.
+
+Para obtener tu codigo de barras puedes ingresar al siguiente enlace y de igual forma puedes localizar un establecimiento cercano a ti
+
+https://amzn.to/2ipXcvw
+
+Una vez que tengas los artículos que deseas comprar en el carrito de compra,al momento de proceder con tu pedido, verás la opción "Usar saldo promocional o de Tarjeta de Regalo de Amazon.com.mx" la cual debe ser seleccionada en la página de resumen del pedido para que puedas utilizar el saldo de tarjeta de regalo Amazon. 
+
+Todo saldo de Tarjeta de Regalo de Amazon.com.mx que no se utilice se mantendrá en tu cuenta hasta que se aplique a un pedido.
+
+Puedes ver el saldo y el historial de uso en Mi cuenta:
+
+https://www.amazon.com.mx/gp/css/gc/balance/
+
+Rodrigo, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos. Estamos para servirte.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+****************************************************************************************************
+
+Hola Pedro,
+
+Te saluda Andrea de Amazon México. Es un gusto atenderte.
+
+Gracias por expresar tu interés en trabajar en Amazon.com.mx. Con gusto te asistiré brindándote la información necesarias para que puedas ser parte de nuestro equipo.
+
+En este caso, te comento Pedro, nuestro equipo especializado trabaja con un enlace especial para que puedas realizar tu solicitud online.
+
+Para ver una lista completa de empleos disponibles en México y otros países, así como instrucciones para aplicar, por favor visita este enlace:
+
+http://www.amazon.jobs/location/mexico-city-mexico
+
+Pedro, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+*********************************************************************************************************************************
+
 
 
 
