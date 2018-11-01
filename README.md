@@ -3565,7 +3565,154 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ¡Te deseo un feliz día!
 *********************************************************************************************************************************
+Hola Maria:
 
+Mi nombre es Andrea de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Lamento mucho que aun estés a la espera de recibir el articulo Staedtler Johanna Basford Set de regalo de tu pedido 702-9569256-6678600, créeme que no es la experiencia de compra que deseamos brindarte. No te preocupes que con gusto te ayudare. 
+
+De inmediato, verifique la información de tu pedido y veo que fue hecho con Simple but Divine, un vendedor afiliado extranjero quien realizo el envío de tu pedido con el transportista DHL con numero de guía 1510025871 pero no hemos recibido actualizaciones. 
+
+Verás, en Amazon damos la oportunidad a vendedores independientes de ofrecer sus productos a través de nuestra página y brindar soporte a los clientes directamente.
+
+En este caso, veo que has contactado al vendedor previamente y Simple but Divine no trabajó de acuerdo a nuestros lineamientos, por lo que presenté la protección de la Garantía de la A a la Z.
+
+Esta gestión toma normalmente entre 1-2 días hábiles en ser procesadas; sin embargo, en algunas ocasiones podrían tomar máximo 2 semanas a partir de la fecha en que se presente.
+
+Si se aprueba, recibirás un reembolso al método de pago original. 
+
+Para más información de nuestra Garantía de la A a la Z visita: 
+
+http://amzn.to/1OycN4T 
+
+De igual manera, para ayudarte de la mejor manera posible, realizare un seguimiento personal para asegurarme de que se realicen las acciones necesarias a la brevedad de lo posible. 
+
+Agradecemos tu amable paciencia y comprensión. Seguiremos trabajando para ti. 
+
+Maria, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+******************************************************************************************************
+
+
+
+Hola Pilar:
+
+Te saluda Andrea de Amazon México. Es un gusto atenderte. 
+
+Me disculpo por los inconvenientes que has tenido con los artículos Eternity Aqua by Calvin Klein Eau de tu pedido 701-7013754-6422604. Créeme que no es la experiencia de compra que deseamos brindarte. No te preocupes, cuentas con nuestro respaldo. 
+
+De inmediato verifique las información de tu pedido y revisar los detalles, veo que fue realizado con Nettbee Group uno de nuestros vendedores afiliados y para poder ayudarte con esta situación, le he enviado un correo explicando lo que ocurrió y solicitando de manera inmediata una solución y proporcionar opciones  a la brevedad de lo posible.
+
+En Amazon respaldamos a nuestros clientes y al mismo tiempo mediar con el vendedor, el proceso a seguir es brindar al vendedor la oportunidad para poder ofrecer opciones para tu conveniencia. Recibirás una copia de la solicitud al vendedor y recibiremos respuesta del vendedor en los siguientes 2 días hábiles.
+
+Para poder visualizar el correo que he enviado al vendedor para interceder dale click al siguiente enlace:
+
+https://www.amazon.com.mx/gp/communication-manager/outbox.html
+
+De igual manera, puedes tener tranquilidad ya que tu compra tiene el respaldo de la Garantía de la A a la Z. En caso de no recibir una respuesta de parte del vendedor, te estaré contactando para iniciar el proceso de dicha garantía.
+
+Para ello, realizare un seguimiento personal en tu pedido para asegurarnos de recibir una respuesta del vendedor y realizar las acciones necesarias.
+
+Pilar, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos y te agradezco sinceramente tu comprensión y tu paciencia mientras continuamos trabajando en tu pedido.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+
+*********************************************************************************************************
+
+Hola Luis:
+
+Te saluda Andrea de Amazon México. Es un gusto atenderte.
+
+Te pido disculpas por el inconveniente con el articulo Lenovo - Mouse de Yoga, Color Negro de tu pedido 702-1940201-6299424 ya que no lo has recibido. Créeme que no es la experiencia de compra que deseamos brindarte. No te preocupes, cuentas con nuestro total respaldo.
+
+En respuesta a tu consulta, he verificado la información que nos ha proporcionado nuestro centro de distribución junto con los datos que nos brinda DHL y podemos confirmar que lastimosamente el paquete se ha extraviado en tránsito.
+
+Debido a ello, aunque nos encantaría enviarte un reemplazo, el artículo es vendido por Amazon EE.UU, uno de nuestro vendedores afiliados y no contamos con el mismo en nuestro inventario de Amazon México, sin embargo, ten la tranquilidad de que tienes nuestros apoyo pues te podemos ofrecer las siguientes opciones, de las cuáles debes elegir la que mejor te parezca:
+
+1. Te podemos hacer un reembolso completo a tu método de pago original y se vera reflejado en el estado de cuenta de tu tarjeta de crédito en 15 días naturales.
+
+2. Te podemos hacer un reembolso completo como saldo de tarjeta de regalo en tu cuenta de Amazon.com.mx y se vera reflejado en tu cuenta de 2-48 horas.
+
+Por favor, solamente contesta a este correo electrónico dejándonos saber cuál es tu decisión respecto a las opciones que te ofrecemos y en cuanto recibamos tu mensaje, llevaremos a cabo las acciones necesarias a la brevedad.
+
+Luis, quedamos atentos a tu respuesta y a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon. ¡Ten un buen día!
+
+**************************************************************************************************************
+
+Hola Anel:
+
+Te saluda Andrea de Amazon México. Es un gusto atenderte. 
+
+Lamento que tu novio haya recibido un cargo desconocido en su tarjeta.
+
+Quiero que tengas la tranquilidad de que nos tomamos estas consultas muy seriamente, por lo que necesitamos hablar contigo por teléfono para solicitarte más información y continuar la investigación. Intente llamarte sin embargo no hay ningún numero de teléfono asociado a tu cuenta de Amazon ya que cuento con la mejor disposición para ayudarte por lo que; para proveerte mayor asistencia muy respetuosamente te solicito responder a este correo electrónico y nos facilites con un numero telefónico residencial o celular al cual contactarte así como la mejor hora para hacerlo, con mucho gusto te ayudaremos a resolver este inconveniente.
+
+También, puedes utilizar el siguiente enlace para solicitar que te llamemos:
+
+https://www.amazon.com.mx/gp/help/customer/contact-us
+
+Cuando recibas nuestra llamada, por favor ten a mano el monto del cargo, la fecha y los 4 últimos dígitos de la tarjeta donde se aplicó.
+
+Por seguridad, por favor comparte esta información únicamente vía telefónica.
+
+Agradezco tu compresión y tu tiempo, estaremos al pendiente de tu respuesta y, si tienes alguna consulta o comentario adicional compártelo, sera un gusto ayudarte.
+
+¡Te deseo un feliz día!
+
+****************************************************************************************************************************
+
+
+
+Hola Laura:
+
+Te saluda Andrea de Amazon México. Es un gusto atenderte.
+
+Te pido disculpas por el inconveniente con el descuento del articulo Huggies Ultraconfort, Niño, Etapa 3, 216 Pañales de tu pedido 701-7082984-6524235. No te preocupes que cuentas con nuestro respaldo.
+
+Debido a lo sucedido, de inmediato realice las acciones necesarias para que puedas recibir tu descuento en el pedido de manera manual.
+
+Te confirmo Laura, hemos aplicado el descuento del 10% lo que corresponde a un total de Mex$58.14 en tu pedido 701-7082984-6524235 de manera exitosa.
+
+Puedes verificar el pedido en el siguiente enlace:
+
+https://www.amazon.com.mx/gp/css/summary/edit.html?orderID=701-7082984-6524235
+
+Laura, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos. Estamos para servirte.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Ten un buen día!
+
+***************************************************************************************************************************
+
+Hola Karlie:
+
+Mi nombre es Andrea de Amazon México.
+
+Lamento mucho que aun estés a la espera de recibir el pedido 701-6328047-3953809, créeme que no es la experiencia de compra que deseamos brindarte.
+
+Tras verificar los detalles del pedido, veo que fue hecho con [SELLER], un vendedor afiliado. Verás, en Amazon damos la oportunidad a vendedores independientes de ofrecer sus productos a través de nuestra página y brindar soporte a los clientes directamente.
+
+En este caso, veo que has contactado al vendedor previamente y [SELLER] no trabajó de acuerdo a nuestros lineamientos, por lo que presenté la protección de la Garantía de la A a la Z.
+
+Esta gestión toma normalmente entre 1-2 días hábiles en ser procesadas; sin embargo, en algunas ocasiones podrían tomar máximo 2 semanas a partir de la fecha en que se presente.
+
+Si se aprueba, recibirás un reembolso al método de pago original. Para más información de nuestra Garantía de la A a la Z visita: http://amzn.to/1OycN4T Agradecemos tu amable paciencia y comprensión.
+
+Karlie, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+¡Te deseo un feliz día!
+******************************************************************************************************************************
 
 
 
