@@ -2726,37 +2726,30 @@ Gracias por ser parte de la gran familia de Amazon.
 ¡Te deseo un feliz día!
 
 -----------------------------------------------------------------------------------------------------------------------------
-Hola (Cliente):
+Hola Diana:
 
 Mi nombre es Andrea de Atención al Cliente de Amazon México. Es un gusto atenderte.
 
-Antes que nada, me disculpo contigo por el inconveniente con el cobro reflejado de tu pedido (PEDIDO) cancelado.
+Antes que nada, me disculpo contigo por el inconveniente con el cobro reflejado del articulo Eoco Peluca de señoras de Moda de tu pedido 702-8758524-6969036 cancelado. Comprendo que esto te ha generado preocupación. No te preocupes, cuentas con nuestro respaldo.
 
-Comprendo que esto te ha generado preocupación.
-
-He revisado detalladamente tu pedido y en este caso me gustaría explicarte como funcionan las transacciones en Amazon.
+De inmediato, he revisado detalladamente tu pedido y te confirmo ya que el pedido fue cancelado no te hemos hecho ningún cobro por el. En este caso me gustaría explicarte como funcionan las transacciones en Amazon.
 
 Cuando realizas un pedido en Amazon, enviamos la información del cargo a tu banco para que ellos aprueben la autorización del monto. En caso de ser aprobada el banco automáticamente retiene los fondos. Cuando inicia la etapa de envío, Amazon te realiza el cargo oficial por el valor total.
 
-En algunos casos, cuando el pedido es cancelado, la primera verificación toma unos días en removerse de tu cuenta, de igual manera, puedes tener tranquilidad que pronto se removerá.
+En algunos casos, cuando el pedido es cancelado, la primera verificación toma unos días en removerse de tu cuenta, de igual manera, puedes tener tranquilidad que muy pronto se removerá.
 
 Estas autorizaciones se realizan para comprobar que la tarjeta de crédito/débito se encuentren vigentes, que tengan el saldo suficiente para recibir el cargo del pedido y verificar que las tarjetas no cuenten con restricciones para compras en línea.
 
 En caso de que continúes visualizando esta autorización por más de 10 días, te recomiendo, contactes a tu banco con los siguientes datos:
 
-Fecha y hora de la autorización :
+Fecha y hora de la autorización :miércoles 31 de octubre de 2018 07:12:08 PM CST
+Fecha y hora de la cancelación :miércoles 31 de octubre de 2018 11:30:25 PM CST
+Monto :Mex$689.21
+Orden :702-8758524-6969036
 
-Fecha y hora de la cancelación : 
+Puedes presentarles este correo electrónico como comprobante oficial por parte de Amazon. Tu entidad bancaria puede decirte cuanto tiempo tarda en ser removida una autorización por compras en linea.
 
-Monto :
-
-Orden : 
-
-Puedes presentarles este correo electrónico como comprobante oficial por parte de Amazon.
-
-Tu entidad bancaria puede decirte cuanto tiempo tarda en ser removida una autorización por compras en linea.
-
-Claudia, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+Diana, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
 
 Gracias por ser parte de la gran familia de Amazon.
 --------------------------------------------------------------------------------------------------------------------------------
