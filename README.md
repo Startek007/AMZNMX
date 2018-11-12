@@ -3434,9 +3434,6 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ********************************************************************************************************
 
-*****
-
-
 Hola Leonard:
 
 Te saluda Andrea de Amazon México. Es un gusto atenderte. 
@@ -3480,9 +3477,8 @@ Por favor, solamente contesta a este correo electrónico dejándonos saber cuál
 Mario, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
 
 Gracias por ser parte de la gran familia de Amazon.
-​​​​​​​
-¡Ten un buen día!
 
+¡Ten un buen día!
 
 ************************************************************************************************************
 
@@ -3590,8 +3586,6 @@ Gracias por ser parte de la gran familia de Amazon.
 
 ******************************************************************************************************
 
-
-
 Hola Pilar:
 
 Te saluda Andrea de Amazon México. Es un gusto atenderte. 
@@ -3639,76 +3633,5 @@ Luis, quedamos atentos a tu respuesta y a tu entera disposición en caso que ten
 Gracias por ser parte de la gran familia de Amazon. ¡Ten un buen día!
 
 **************************************************************************************************************
-
-Hola Anel:
-
-Te saluda Andrea de Amazon México. Es un gusto atenderte. 
-
-Lamento que tu novio haya recibido un cargo desconocido en su tarjeta.
-
-Quiero que tengas la tranquilidad de que nos tomamos estas consultas muy seriamente, por lo que necesitamos hablar contigo por teléfono para solicitarte más información y continuar la investigación. Intente llamarte sin embargo no hay ningún numero de teléfono asociado a tu cuenta de Amazon ya que cuento con la mejor disposición para ayudarte por lo que; para proveerte mayor asistencia muy respetuosamente te solicito responder a este correo electrónico y nos facilites con un numero telefónico residencial o celular al cual contactarte así como la mejor hora para hacerlo, con mucho gusto te ayudaremos a resolver este inconveniente.
-
-También, puedes utilizar el siguiente enlace para solicitar que te llamemos:
-
-https://www.amazon.com.mx/gp/help/customer/contact-us
-
-Cuando recibas nuestra llamada, por favor ten a mano el monto del cargo, la fecha y los 4 últimos dígitos de la tarjeta donde se aplicó.
-
-Por seguridad, por favor comparte esta información únicamente vía telefónica.
-
-Agradezco tu compresión y tu tiempo, estaremos al pendiente de tu respuesta y, si tienes alguna consulta o comentario adicional compártelo, sera un gusto ayudarte.
-
-¡Te deseo un feliz día!
-
-****************************************************************************************************************************
-
-
-
-Hola Laura:
-
-Te saluda Andrea de Amazon México. Es un gusto atenderte.
-
-Te pido disculpas por el inconveniente con el descuento del articulo Huggies Ultraconfort, Niño, Etapa 3, 216 Pañales de tu pedido 701-7082984-6524235. No te preocupes que cuentas con nuestro respaldo.
-
-Debido a lo sucedido, de inmediato realice las acciones necesarias para que puedas recibir tu descuento en el pedido de manera manual.
-
-Te confirmo Laura, hemos aplicado el descuento del 10% lo que corresponde a un total de Mex$58.14 en tu pedido 701-7082984-6524235 de manera exitosa.
-
-Puedes verificar el pedido en el siguiente enlace:
-
-https://www.amazon.com.mx/gp/css/summary/edit.html?orderID=701-7082984-6524235
-
-Laura, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos. Estamos para servirte.
-
-Gracias por ser parte de la gran familia de Amazon.
-
-¡Ten un buen día!
-
-***************************************************************************************************************************
-
-Hola Karlie:
-
-Mi nombre es Andrea de Amazon México.
-
-Lamento mucho que aun estés a la espera de recibir el pedido 701-6328047-3953809, créeme que no es la experiencia de compra que deseamos brindarte.
-
-Tras verificar los detalles del pedido, veo que fue hecho con [SELLER], un vendedor afiliado. Verás, en Amazon damos la oportunidad a vendedores independientes de ofrecer sus productos a través de nuestra página y brindar soporte a los clientes directamente.
-
-En este caso, veo que has contactado al vendedor previamente y [SELLER] no trabajó de acuerdo a nuestros lineamientos, por lo que presenté la protección de la Garantía de la A a la Z.
-
-Esta gestión toma normalmente entre 1-2 días hábiles en ser procesadas; sin embargo, en algunas ocasiones podrían tomar máximo 2 semanas a partir de la fecha en que se presente.
-
-Si se aprueba, recibirás un reembolso al método de pago original. Para más información de nuestra Garantía de la A a la Z visita: http://amzn.to/1OycN4T Agradecemos tu amable paciencia y comprensión.
-
-Karlie, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
-
-Gracias por ser parte de la gran familia de Amazon.
-
-¡Te deseo un feliz día!
-******************************************************************************************************************************
-
-
-
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
