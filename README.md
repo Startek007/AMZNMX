@@ -84,17 +84,13 @@ Saludos cordiales,
 
 -------------------------------------------------------------------------------------------------------------------------
 *Estafeta: +52-555-861-9500 Extensión:42325
+
 Numero de extensiones de estafeta:
 42347
 42349
 42411
 42412
------********************************************************************************************************************
-amazonagent@teleworm.us
 
-
- 99795351
- 
 ---------------------------------------------------------------------------------------------------------------------------------
 Hola Arturo:
 
@@ -121,9 +117,8 @@ Gracias por ser parte de la gran familia de Amazon.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------
-Solicitar Factura CFDI en Amazon. 
+*Solicitar Factura CFDI en Amazon*
 
-**************************************************************************************
 
 Mi nombre es [CSC], asesor de atención al cliente de Amazon México quien tiene el agrado de recibir tu correo en esta ocasión.
 
@@ -171,6 +166,8 @@ https://is.gd/bwWh4A
 Gracias por ser parte de la gran familia de Amazon.
 
 ¡Te deseo un feliz día!
+
+****************************************************************************************************************************
 
 Contraseña.
 
@@ -286,7 +283,8 @@ Acortador de Links -> https://bitly.com/  https://is.gd/create.php
 
 Llamar al cliente -> https://is.gd/hfTr2L
  
- Amazon Mexico: +52 442 348 9587 
+Amazon Mexico: +52 442 348 9587 
+
 Correos de México +527626220501
 
 Inbox -> https://mytemp.email/2/#!/inbox/junv@i.xcode.ro/6c7774c8
