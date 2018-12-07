@@ -54,6 +54,28 @@ Gracias por ser parte de la familia Amazon.
 
 **************************************************************************************************************************
 
+Hola Paola,
+
+Te saluda Andrea de Amazon México. Es un gusto atenderte. 
+
+Te pido disculpas por el inconveniente con el articulo de bebe Ingenuity Silla Alta de tu pedido 702-7905690-3589067 ya que no lo has recibido. Créeme que no es la experiencia de compra que deseamos brindarte pero no te preocupes, cuentas con nuestro total respaldo.
+
+Debido a ello, de inmediato he verificado la información que nos ha proporcionado el transportista Amazon Logistics y puedo confirmar que lastimosamente el paquete se ha extraviado en tránsito, sin embargo, ten la tranquilidad de que tienes nuestro apoyo pues te podemos ofrecer las siguientes opciones, de las cuáles debes elegir la que mejor te parezca:
+
+1. Te podemos enviar un reemplazo sin ningún costo adicional (sujeto a disponibilidad al momento de la solicitud).
+
+2. Te podemos hacer un reembolso completo, ya sea a tu método de pago original o como saldo de tarjeta de regalo en tu cuenta de Amazon.
+
+Los reembolsos a tarjeta tardan hasta 15 días naturales o saldo de regalo de 2 a 48 horas.
+
+Por favor, solamente contesta a este correo electrónico dejándonos saber cuál es tu decisión respecto a las opciones que te ofrecemos y en cuanto recibamos tu mensaje, llevaremos a cabo las acciones necesarias a la brevedad.
+
+Paola, quedamos atentos a tu respuesta y a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.  ¡Ten un buen día!
+
+********************************************************************************************************************************/*/*
+
 Correos de Mexico.
 
 +521 55 57297600
