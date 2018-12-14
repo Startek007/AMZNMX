@@ -3,7 +3,34 @@
                                
  1.-  Castores ******   http://www.castores.com.mx/rastreo/?talon=23010108432                           
 
-***************************************************************************************************************
+*************************************************************************************************************
+
+Hola Manuel,
+
+Mi nombre es Andrea de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Me disculpo por los inconvenientes que se han presentado con la rasuradora para hombre de tu pedido 701-6534469-2230652 pero no te preocupes que con gusto te proporcionare los datos que necesitas. 
+
+En respuesta a tu consulta, he verificado la información de tu pedido y veo que al momento de realizar la compra quedaban pocas unidades en inventario y esta información la corroboramos en el correo electrónico de confirmación del pedido que te enviamos el día lunes 10 de diciembre de 2018 01:42 PM (CST), cuando pusiste el pedido, al indicar que "Tu solicitud será revisada contra disponibilidad de inventario, de ser confirmada recibirás un correo electrónico con más detalles". 
+
+En algunas ocasiones, las actualizaciones en la página toman un tiempo en reflejarse a la hora del cliente realizar la compra.
+
+Incluso la fecha estimada de envío proporcionada en dicha comunicación fue: "Aún no disponible. Te notificaremos tan pronto tengamos una fecha de entrega. Puedes cancelarlo en cualquier momento previo al proceso de envío."
+
+Como comprenderás Amazon al igual que otras tiendas es distribuidor, por esa razón nosotros también dependemos de que los fabricantes nos hagan llegar las unidades que ofrecemos a nuestros clientes. Siempre se conversan fechas posibles para las entregas y por eso es que se ofrecen los productos y una fecha estimada. Si esas fechas no se cumplen por parte del fabricante nosotros debemos informar a los clientes sobre estos posibles cambios.
+
+En Amazon continuamos trabajando para abastecer el inventario del Philips Norelco Shaver 2100 S1560/81 rasuradora para hombre, Negro, Azul. 
+
+De igual manera, en caso de necesite el producto de manera urgente, puedes realizar la cancelación sin ningún tipo de cargos adicionales. 
+
+En caso de que puedas esperar, nosotros vamos a hacer lo posible por abastecer el inventario de la manera más pronta posible.
+
+Mi humilde recomendación Manuel, es que esperes un poco más para recibir este envío. Recuerda que, al ya haber hecho tu apartado de este producto, Amazon mantendrá el precio al que tú lo elegiste, aun cuando éste varíe en nuestra página web.
+
+Quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos. Seguiremos trabajando para ti, mejorando nuestra tienda y ofrecer un superior servicio a nuestros clientes.
+
+Gracias por ser parte de la gran familia de Amazon.  ​​​​​​​¡Te deseo un feliz día y un excelente fin semana!
+**
 Cambio de precio ** Jordanna **
 
 Hola [NOMBRE CLIENTE],
