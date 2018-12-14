@@ -29,7 +29,11 @@ Mi humilde recomendación Manuel, es que esperes un poco más para recibir este 
 
 Quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos. Seguiremos trabajando para ti, mejorando nuestra tienda y ofrecer un superior servicio a nuestros clientes.
 
-Gracias por ser parte de la gran familia de Amazon.  ​​​​​​​¡Te deseo un feliz día y un excelente fin semana!
+Gracias por ser parte de la gran familia de Amazon. 
+
+¡Te deseo un feliz día y un excelente fin semana!
+
+*********************************************************************************************************************************
 **
 Cambio de precio ** Jordanna **
 
