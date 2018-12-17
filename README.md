@@ -4,6 +4,33 @@
  1.-  Castores ******   http://www.castores.com.mx/rastreo/?talon=23010108432                           
 
 *************************************************************************************************************
+Hola Alfredo:
+
+Te saluda Andrea de Amazon México. Es un gusto atenderte.
+
+Te llamé al número de teléfono que figura en tu cuenta de Amazon.com.mx para poder proporcionarte mas información sobre tu pedido pero no pude ponerme en contacto contigo.
+
+Primero que todo, déjame extenderte una disculpa por lo sucedido con los libros Made in America: Mi Historia y La Llamada de la Tribu / The Call of the Tribe de tu pedido 702-3638155-9321808 el cual nos muestra  un estado que "No se puede entregar". Puedo comprender tu inquietud de saber lo que sucedido a tu pedido, y la razón por la cual aparece este estado para solucionar el problema. No te preocupes, cuentas con nuestro total respaldo.
+
+En respuesta a tu consulta, de inmediato he verificado la información que nos ha proporcionado nuestro centro de distribución junto con los datos que nos brinda DHL y permíteme explicarte que la razón por la cual ha sucedido este inconveniente en el pedido es debido a los factores externos cuando el articulo viene en camino como importado desde los Estados Unidos.
+
+Estos factores se deben a que aduanas, en general, no permite el paso del articulo a México cuando se ha dañado durante el proceso de envío o cuando la etiqueta de transporte donde se muestra tu dirección cifrado con código de barras se daña o rasga.
+
+Debido a ello, podemos aplicar la garantía de respaldo que ofrece Amazon para pedidos no entregados.
+
+Aunque nos encantaría enviarte un reemplazo, el artículo es vendido por Amazon EE.UU, uno de nuestro vendedores afiliados y no contamos con el mismo en nuestro inventario de Amazon México, sin embargo, ten la tranquilidad de que tienes nuestro apoyo pues te podemos ofrecer las siguientes opciones, de las cuáles debes elegir la que mejor te parezca:
+
+1. Te podemos hacer un reembolso completo a tu método de pago original y se vera reflejado en el estado de cuenta de tu tarjeta de crédito en 15 días naturales.
+
+2. Te podemos hacer un reembolso completo como saldo de tarjeta de regalo en tu cuenta de Amazon.com.mx y se vera reflejado en tu cuenta de 2-48 horas.
+
+Por favor, solamente contesta a este correo electrónico dejándonos saber cuál es tu decisión respecto a las opciones que te ofrecemos y en cuanto recibamos tu mensaje, llevaremos a cabo las acciones necesarias a la brevedad.
+
+Alfredo, quedamos atentos a tu respuesta y a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon. ¡Ten un buen día!
+
+**********************************************************************************************************************
 
 Hola Manuel,
 
