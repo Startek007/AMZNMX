@@ -4,6 +4,30 @@
  1.-  Castores ******   http://www.castores.com.mx/rastreo/?talon=23010108432                           
 
 *************************************************************************************************************
+Hola Karla,
+
+Mi nombre es Oziel de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Te ofrezco una disculpa ya que aún estás a la espera de tu pedido 701-8649022-6981029, se que puede ser incomoda esta situación, pero no te preocupes, estoy aquí para ayudarte.
+
+He revisado detalladamente la información de rastreo de tu pedido que nos brinda Amazon Logistics y puedo confirmar que el pedido ha generado un pequeño retraso pero este continua en transito hacia tu dirección de entrega, realmente estamos teniendo inconvenientes por el gran flujo de pedidos que tenemos y nos estamos esforzando al máximo para poder ayudarte. 
+
+Entiendo tu preocupación ya que lo necesitas lo antes posible. Yo personalmente me he puesto en contacto con Amazon Logistics para notificarles de este retraso y solicitar que actualicen la información de seguimiento y entreguen el paquete a la brevedad. Ya que en este tipo de situaciones que el pedido no se reciba en la fecha estimada de entrega, damos un cierto tiempo de gracia al servicio de entrega para que tenga la oportunidad de completar la entrega.
+
+De nuestra parte nos pondremos manos a la obra así que levantaremos una investigación hasta el 26 de noviembre de 2018 a las 06:00 PM, que es la fecha máxima para brindarte una resolución ya que contactaremos el transportista y el centro de distribución, esto para respaldarte ya que es de suma prioridad para nosotros entregar en perfectas condiciones y a tiempo tus pedidos, no esta demás destacar podrás recibir el paquete ya sea hoy o mañana, dando el 26 como fecha máxima. 
+
+De presentarse un problema no te preocupes inmediatamente procederemos a realizar un reembolso completo del pedido o un reemplazo apegado a la disponibilidad del inventario.
+
+Esto no sucede con frecuencia por ello reiteramos nuestro compromiso contigo.
+
+Personalmente realizare un seguimiento ya que tenemos programa un intento de entrega para el día de hoy.
+
+Como compensación al inconveniente, voy a extender tu membresía de Amazon Prime por un mes esta se extendida a lunes 29 de abril de 2019. 
+
+Para tu tranquilidad quiero que sepas que guardamos todos los registros de tus comunicaciones y cualquier inconveniente que pudiera surgir así que estamos muy al tanto para poder ayudarte y darte el servicio que te mereces.
+
+Gracias por tu paciencia, te mantendremos al tanto. Espera
+************************************************************************************************************************
 Hola Alfredo:
 
 Te saluda Andrea de Amazon México. Es un gusto atenderte.
