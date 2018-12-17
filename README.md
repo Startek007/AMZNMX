@@ -33,7 +33,18 @@ Gracias por ser parte de la gran familia de Amazon. 
 
 ¡Te deseo un feliz día y un excelente fin semana!
 
-*********************************************************************************************************************************
+*************************************************************************************************************************
+En respuesta a tu consulta y para ayudarte de la mejor manera posible, he verificado los datos con nuestro equipo especializado en el centro de distribución y te confirmo que por el momento, no contamos con el inventario de este articulo. 
+
+Te sugiero que visites nuestro sitio web de vez en cuando para ver si el artículo está disponible. 
+
+Si alguien ofrece el producto, verás un cuadro que dice "Más opciones de compra" en la página de detalles del producto. Si ningún vendedor lo ofrece, es posible que veas un enlace que dice "Avísame". Este enlace te permite apuntarte para recibir un correo electrónico cuando Amazon tenga este artículo disponible.
+
+Daniel, quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+
+*******************************************************************************************************************************
 **
 Cambio de precio ** Jordanna **
 
