@@ -30,7 +30,33 @@ Alfredo, quedamos atentos a tu respuesta y a tu entera disposición en caso que 
 
 Gracias por ser parte de la gran familia de Amazon. ¡Ten un buen día!
 
-**********************************************************************************************************************
+*********************************************************************************************************************************
+Hola Eleazar:
+
+Te saluda Andrea de Amazon México. Es un gusto atenderte.
+
+Primeramente me disculpo contigo ya que no te han llegado Wahl Professional 8655-200 Peanut Clipper/trimmer, Black de tu pedido 702-3673382-0862663. Créeme que no es la experiencia de compra que deseamos brindarte pero no te preocupes que cuentas con nuestro total respaldo.
+
+En respuesta a tu consulta, he verificado la información que nos ha proporcionado nuestro centro de distribución junto con los datos que nos brinda DHL y vemos que la ultima actualización realizada fue el día 30 de noviembre de 2018 a las 09:56:46 PM por lo que, a este punto podemos confirmar que el paquete se ha extraviado en tránsito.
+
+Debido a ello, aunque nos encantaría enviarte un reemplazo, el artículo es vendido por Blue Fenix Brands, uno de nuestro vendedores afiliados y no contamos con el mismo en nuestro inventario de Amazon México, sin embargo, ten la tranquilidad de que tienes nuestros apoyo pues te podemos ofrecer un reembolso y si gustas, puedes realizar la compra del articulo nuevamente ya que se encuentra a un menor precio en Amazon.com.mx y puedes elegir la opción de reembolso que mejor te parezca:
+
+1. Reembolso a tu método de pago original y se vera reflejado en el estado de cuenta de tu tarjeta de crédito en 15 días naturales.
+
+2. Reembolso como saldo de tarjeta de regalo en tu cuenta de Amazon.com.mx y se vera reflejado en tu cuenta de 2-48 horas.
+
+Por favor, solamente contesta a este correo electrónico dejándonos saber cuál es tu decisión respecto a las opciones que te ofrecemos y en cuanto recibamos tu mensaje, llevaremos a cabo las acciones necesarias a la brevedad.
+
+Debido a lo sucedido con tu pedido, reenvié los datos a nuestro departamento de envíos. Sé que ellos estarán interesados en conocer tu experiencia y tomen las acciones necesarias por lo que ten la tranquilidad de que, si deseas, puedes realizar la compra de los artículos ya que seguiremos trabajando para ti, mejorando nuestra tienda y ofrecer un superior servicio a nuestros clientes.
+
+De igual manera, puedes realizar nuevamente la compra del articulo desde la pagina de Amazon.com.mx utilizando el siguiente enlace:
+
+https://www.amazon.com.mx/dp/B001FDKGIW
+
+Eleazar, quedamos atentos a tu respuesta y a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon. ¡Ten un buen día!
+**********************************************************************************************************************************
 
 Hola Manuel,
 
