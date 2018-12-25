@@ -3,7 +3,33 @@
                                
  1.-  Castores ******   http://www.castores.com.mx/rastreo/?talon=23010108432                           
 
-*************************************************************************************************************
+*********************************************************************************************************
+Hola Uriel:
+
+Mi nombre es Andrea de Atención al Cliente de Amazon México. Es un gusto atenderte.
+
+Me disculpo contigo por la situación que se ha dado con tu cuenta ya que se encuentra bloqueada, sin embargo, no te preocupes que cuentas con nuestro apoyo total. 
+
+He revisado personalmente y con detalle la cuenta asociada a la dirección de correo electrónico por el cual nos mandas éste mensaje, pero veo que ésta se encuentra activa y sin ningún problema.
+
+Nuestro principal interés es ayudarte a que puedas ingresar a tu cuenta, por lo que necesitamos que, de ser posible, por favor nos contactes desde el correo electrónico que sí está asociado a tu cuenta de Amazon ya que, por seguridad, sólo podemos ver la información relacionada al correo electrónico desde el que nos
+escribes.
+
+También recuerda que tu cuenta de Amazon podría estar registrada con un número de teléfono o con otro correo.
+
+De igual manera, quiero comentarte Uriel que cuento con la mejor disposición para ayudarte por lo que intente llamarte, sin embargo, no hay ningún numero de teléfono asociado a tu cuenta de Amazon; para proveerte mayor asistencia muy respetuosamente te solicito responder a este correo electrónico y nos facilites con un numero telefónico residencial o celular al cual contactarte así como la mejor hora para hacerlo, con mucho gusto te ayudaremos a resolver este inconveniente.
+
+Puedes contactarnos aquí: https://www.amazon.com.mx/gp/help/customer/contact-us
+
+Si tienes dificultades localizando tu cuenta, o contactándonos desde la misma, por favor utiliza este otro enlace:
+
+https://amzn.to/2pEeol7
+
+Uriel, agradezco tu compresión y tu tiempo, estaremos al pendiente de tu respuesta y, si tienes alguna consulta o comentario adicional compártelo, sera un gusto ayudarte.
+
+¡Te deseo un feliz día!
+
+****************************************************************************************************************************
 Hola Karla,
 
 Mi nombre es Oziel de Atención al Cliente de Amazon México. Es un gusto atenderte.
