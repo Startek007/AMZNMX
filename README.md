@@ -3,7 +3,37 @@
                                
  1.-  Castores ******   http://www.castores.com.mx/rastreo/?talon=23010108432                           
 
-*********************************************************************************************************
+*****************************************************************************************************
+Hola Cin,
+
+Te saluda Andrea de Amazon México. Es un gusto atenderte.
+
+Primeramente espero que estés bien y me disculpo contigo por el inconveniente ya que requieres que los artículos en tu carrito de compra entre a meses sin intereses. Comprendo tu preocupación ya que has intentado anteriormente pero no ha funcionado pero no te preocupes que con gusto te brindare la información que necesitas.
+
+De inmediato, he verificado la información de cada uno de los artículos en tu carrito y te comento Cin que para realizar un pedido a meses sin intereses, uno o mas artículos deben mostrar la leyenda "Hasta (3,6,9,12,18 y 24) a meses sin intereses". En el caso de los artículos que tienes en el carrito de compra y no cuentan con la leyenda sobre meses sin intereses en la pagina de detalles de cada producto por lo que esta puede ser la principal razón del porque no ves la opción a la hora de finalizar el pedido.
+
+Para ayudarte de la mejor manera posible, puedes agregar uno o mas articulos que cuente con la leyenda "Hasta (3,6,9,12,18 y 24) a meses sin intereses" para poder ser elegible. Te adjuntos unos de los términos y condiciones sobre meses sin intereses que puedes verificar antes de realizar el pedido:
+
+-El monto total mínimo de un pedido es de $2,500 para los artículos físicos vendidos en el sitio web Amazon.com.mx.
+-Los pagos con MSI solo se ofrecen cuando los artículos se compran mediante el carrito de compras y el proceso de finalización de compra.
+-Las transacciones declinadas o con métodos de pagos que requieren validaciones adicionales perderán automáticamente la opción de pago con MSI.
+
+Te envío un ejemplo de artículos que muestran la leyenda de meses sin intereses para ser elegibles:
+
+https://amzn.to/2YU3w1A
+
+Igualmente te dejo el enlace de los términos y condiciones:
+
+https://amzn.to/30PsMIf
+
+https://amzn.to/2W6UXnr
+
+Quedamos a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon. ¡Te deseo un feliz día!
+
+
+****
 Hola Uriel:
 
 Mi nombre es Andrea de Atención al Cliente de Amazon México. Es un gusto atenderte.
