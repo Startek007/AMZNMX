@@ -3,7 +3,34 @@
                                
  1.-  Castores ******   http://www.castores.com.mx/rastreo/?talon=23010108432                           
 
-*****************************************************************************************************
+**************************************************************************************************
+Hola Jessica,
+
+Mi nombre es Andrea de atención al cliente de Amazon México, quien tiene el agrado de recibir tu correo en esta ocasión.
+
+Primeramente espero que estés bien y me disculpo contigo por el inconveniente que se esta presentando con la promoción bancaria de 10% de Descuento en Ordenes mayores a Mex$2,000 con el código promocional HOTSALE19. Comprendo que estas intentando realizar una compra, sin embargo, por alguna razón no recibes el descuento pero no te preocupes que con gusto te asistiré.
+
+De inmediato, he revisado detalladamente la información acerca de la promoción, y en este caso veo que uno de los requisitos para ser elegible para los descuentos es que los productos elegidos sean vendidos y enviados por Amazon México. De igual manera, he revisado los artículos en tu carrito de compra y veo que en el caso de la Silla de Oficina y de la Pañalera Mochila para bebé, son artículos vendidos por Lettzy Shop y Home Make, vendedores externos por lo que esta puede ser la principal razón del porque no ves reflejado el descuento a la hora de finalizar el pedido(ya que la promoción aplica únicamente para productos vendidos y enviados por Amazon México).
+
+Te adjunto algunos de los términos y condiciones que puedes verificar antes de realizar el pedido:
+
+-Para hacer válido el descuento de 10% de descuento deberás hacer un pedido mayor a $2,000 pesos en productos vendidos y enviados por Amazon México y elegir una tarjeta participante como método de pago.
+-La promoción comienza el 27 de mayo de 2019 a las 00:00:00 hrs Tiempo del Centro de México y termina el 31 de mayo de 2019 a las 23:59:59 hrs Tiempo del Centro de México.
+-La promoción aplica únicamente en Amazon.com.mx para productos vendidos y enviados por Amazon México que no sean elegibles para otra promoción. No aplica para productos vendidos por Amazon EE.UU. o terceros vendedores. Busca la etiqueta “Vendido y enviado por Amazon México” en la página de detalles del producto.
+-La promoción sólo es aplicable al ingresar el código promocional HOTSALE19 publicado en el sitio Amazon.com.mx.
+-Los productos deberán ser comprados en un solo pedido y enviados al mismo remitente en una única dirección en México.
+
+Este es el enlace para los términos y condiciones para la promoción bancaria de 10% de Descuento en Ordenes mayores a Mex$2,000 con el código promocional HOTSALE19:
+
+https://amzn.to/2VUNWAX
+
+Seguiremos trabajando para ti, mejorando nuestra tienda y ofrecer un superior servicio a nuestros clientes.
+
+Jessica, quedamos atentos y a tu entera disposición en caso que tengas alguna consulta adicional para enviarnos.
+
+Gracias por ser parte de la gran familia de Amazon.
+******************************************************************************************************************
+***
 Hola Cin,
 
 Te saluda Andrea de Amazon México. Es un gusto atenderte.
